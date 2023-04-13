@@ -8,6 +8,11 @@ window.addEventListener('load', () => {
     btnN.textContent = next
 })
 document.getElementById('next').onclick = function () {
+    
+    let lists = document.querySelectorAll('.item')
+    document.getElementById('slide').appendChild(lists[0])
+
+
     //sumar
     back = back + 1
     btnB.textContent = back
@@ -15,10 +20,12 @@ document.getElementById('next').onclick = function () {
     next = next + 1
     btnN.textContent = next
 
-    let lists = document.querySelectorAll('.item')
-    document.getElementById('slide').appendChild(lists[0])
 }
 document.getElementById('prev').onclick = function () {
+    
+    let lists = document.querySelectorAll('.item')
+    let slide = document.getElementById('slide')
+    slide.prepend(lists[lists.length - 1])
 
     //restar
     back = back - 1
@@ -28,13 +35,12 @@ document.getElementById('prev').onclick = function () {
     btnN.textContent = next
 
     if (back < 1927) {
+        
         back = 1927
         btnB.textContent = back
 
         next = 1928
         btnN.textContent = next
+        slide.appendChild(lists[4])
     }
-
-    let lists = document.querySelectorAll('.item')
-    document.getElementById('slide').prepend(lists[lists.length - 1])
 }
