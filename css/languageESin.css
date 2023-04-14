@@ -98,3 +98,8 @@
     justify-content: flex-end;
     margin-right: 80px;
 }
+
+a{
+    text-decoration: none;
+    color: white;
+}
