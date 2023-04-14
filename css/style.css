@@ -65,7 +65,7 @@ body {
 
 .item .content {
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 100px;
     width: 300px;
     text-align: left;
@@ -75,13 +75,22 @@ body {
     display: none;
     font-family: system-ui;
 }
-
+.content .contTextRight {
+    position: absolute;
+    transform: translate(877px, -195px)
+}
+.content h1 {
+    position: absolute;
+    transform: translate(532px, -98px);
+    font-size: 70px;
+    animation: showTittle 1s ease-in-out 1s 1 forwards;
+}
 .item:nth-child(2) .content{
     display: block;
     z-index: 11111;
 }
 .item .name {
-    font-size: 40px;
+    font-size: 30px;
     font-weight: bold;
     opacity: 0;
     animation: showcontent 1s ease-in-out 1s 1 forwards;
@@ -107,6 +116,18 @@ body {
     to {
         opacity: 1;
         transform: translate(0,0);
+        filter: blur(0);
+    }
+}
+/*animation tittle*/
+@keyframes showTittle {
+    from {
+        opacity: 0;
+        transform: translate(100);
+        filter: blur(33px);
+    }
+    to {
+        opacity: 1;
         filter: blur(0);
     }
 }
