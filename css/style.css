@@ -81,8 +81,9 @@ body {
 }
 .content h1 {
     position: absolute;
-    transform: translate(532px, -98px);
+    transform: translate(532px, -138px);
     font-size: 70px;
+    opacity: 0;
     animation: showTittle 1s ease-in-out 1s 1 forwards;
 }
 .item:nth-child(2) .content{
