@@ -77,10 +77,18 @@ body {
 }
 .content .contTextRight {
     position: absolute;
+
     transform: translate(877px, -195px)
+}
+.contTextRight h2 {
+    -webkit-text-stroke: 1px black;
+}
+.contTextRight p {
+    font-size: 20px;
 }
 .content h1 {
     position: absolute;
+    -webkit-text-stroke: 1px black;
     transform: translate(532px, -138px);
     font-size: 70px;
     opacity: 0;
@@ -91,6 +99,7 @@ body {
     z-index: 11111;
 }
 .item .name {
+    -webkit-text-stroke: 1px black;
     font-size: 30px;
     font-weight: bold;
     opacity: 0;
