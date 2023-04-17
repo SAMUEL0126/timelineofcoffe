@@ -120,7 +120,7 @@ body {
 .content h1 {
     position: absolute;
     -webkit-text-stroke: 1px black;
-    transform: translate(532px, -138px);
+    transform: translate(532px, -123px);
     font-size: 70px;
     opacity: 0;
     animation: showTittle 1s ease-in-out 1s 1 forwards;

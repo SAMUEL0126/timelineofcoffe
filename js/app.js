@@ -34,6 +34,6 @@ document.getElementById('prev').onclick = function () {
         back = 1927
 
         next = 1928
-        slide.appendChild(lists[5])
+        slide.appendChild(lists[6])
     }
 }
