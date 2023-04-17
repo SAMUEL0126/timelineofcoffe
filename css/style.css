@@ -188,6 +188,9 @@ body {
     border-radius: 50%;
     border: 1px solid #555;
     transition: 0.5s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .buttons button:hover {
     background-color: #10100c;
