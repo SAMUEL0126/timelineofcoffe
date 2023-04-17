@@ -14,7 +14,6 @@ body{
     min-height: 100vh;
     background: silver;
     flex-direction: column;
-    gap: 20px;
 }
 
 .clock{
