@@ -128,6 +128,9 @@ body {
     opacity: 0;
     animation: showTittle 1s ease-in-out 1s 1 forwards;
 }
+.content .tittle1931 {
+    transform: translate(552px, -198px);
+}
 .item:nth-child(2) .content{
     display: block;
     z-index: 11111;
