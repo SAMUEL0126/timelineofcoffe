@@ -108,8 +108,11 @@ body {
 }
 .content .contTextRight {
     position: absolute;
-
     transform: translate(877px, -195px)
+}
+#contextoRight {
+    position: absolute;
+    transform: translate(877px, -55px);
 }
 .contTextRight h2 {
     -webkit-text-stroke: 1px black;
@@ -120,7 +123,7 @@ body {
 .content h1 {
     position: absolute;
     -webkit-text-stroke: 1px black;
-    transform: translate(532px, -123px);
+    transform: translate(532px, -105px);
     font-size: 70px;
     opacity: 0;
     animation: showTittle 1s ease-in-out 1s 1 forwards;
@@ -196,6 +199,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
 }
 .buttons button:hover {
     background-color: #10100c;
