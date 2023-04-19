@@ -47,18 +47,7 @@ let breakTime = 5
 
 let seconds = "00"
 
-Window.onload = () =>{
-    document.getElementById('minutes').innerHTML = workTime
-    document.getElementById('seconds').innerHTML = seconds
-
-
-}
-
 function start() {
-
-    document.getElementById('start').style.display = "none"
-    document.getElementById('reset').style.display = "block"
-
 
     seconds = 59
 
@@ -95,3 +84,9 @@ function start() {
     setInterval(timerFunction , 1000)
 
 }
+
+window.addEventListener('load', () => {
+    document.getElementById('minutes').innerHTML = workTime
+    document.getElementById('seconds').innerHTML = seconds
+    start()
+})
