@@ -1,5 +1,4 @@
-let workTittle = document.getElementById('work')
-let breakTittle = document.getElementById('break')
+
 
 let workTime = 10
 let breakTime = 5
@@ -10,7 +9,7 @@ Window.onload = () =>{
     document.getElementById('minutes').innerHTML = workTime
     document.getElementById('seconds').innerHTML = seconds
 
-    workTittle.classList.add('active')
+
 }
 
 function start() {
@@ -39,15 +38,11 @@ function start() {
                     workMinutes = breakMinutes
                     breakCount++ 
 
-                    workTittle.classList.remove('active')
-                    breakTittle.classList.add('active')
+
                 }else{
                     workMinutes = workTime
                     breakCount++
 
-
-                    breakTittle.classList.remove('active')
-                    workTittle.classList.add('active')
                    
                 }
             }
