@@ -1,4 +1,10 @@
 /*LENT DARK*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Tillana'; 
+}
 .lentDarkTransition {
     
     animation: lentDark 5s ease-in-out;
@@ -120,11 +126,6 @@
     justify-content: center;
     flex-direction: column;
 }
-
-.clock {
-    margin-left: 90px;
-}
-
 
 .imglogoparque {
     width: 100px;
