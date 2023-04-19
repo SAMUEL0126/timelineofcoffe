@@ -1,3 +1,34 @@
+/*LENT DARK*/
+.lentDarkTransition {
+    
+    animation: lentDark 5s ease-in-out;
+}
+@keyframes lentDark {
+    0%, 100%{
+        opacity: 0;
+        z-index: 0;
+    }
+    50% {
+        background-color: #000;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 1;
+        z-index: 100;
+    }
+    100% {
+        background-color: #000;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 1;
+        z-index: 100;
+    }
+}
 .contpageClock {
     width: 100%;
     height: auto;
