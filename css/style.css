@@ -59,7 +59,7 @@ body {
 
 .containerTempo{
     position: absolute;
-    transform: translate(590px, 136px);
+    transform: translate(590px, 60px);
     display: flex;
     justify-content: center;
     align-items: center;
