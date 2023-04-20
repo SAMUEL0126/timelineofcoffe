@@ -41,8 +41,11 @@ document.getElementById('prev').onclick = function () {
 
 
 
-let minutos = 1
-let seconds = 0
+let minutos = 0
+let seconds = 10
+
+//lente negro
+let lentDarkT = document.getElementById('lentDarkT')
 
 cargarSeconds()
 
@@ -66,10 +69,11 @@ function cargarSeconds() {
     //enviamos los valores a plazmarse
     document.getElementById('seconds').textContent = txtSecond
     seconds--
-    cargarMinutos(seconds)
+    cargarMinutos(seconds, txtSecond)
 }
 
-function cargarMinutos(seconds) {
+function cargarMinutos(seconds, txtSecond) {
+    let txtsegundos = txtSecond
     let textMinutos
 
     if (seconds == -1 && minutos !== 0) {
@@ -97,15 +101,20 @@ function cargarMinutos(seconds) {
     }
 
     document.getElementById('minutes').textContent = textMinutos
-    render(minutos, seconds)
+    render(minutos, seconds, txtsegundos)
 
 }
 
-function render(minutos, seconds) {
+function render(minutos, seconds, txtsegundos) {
     if (minutos == 0 && seconds == 0) {
-        // setTimeout(() => {
-        //     $('#darWindowLineT').addClass('darWindowLineRen')
-        // }, 900);
+        txtsegundos = '00' 
+        // document.getElementById('minutes').textContent = txtsegundos
+        document.getElementById('seconds').textContent = txtsegundos
+
+        setTimeout(() => {
+            lentDarkT.classList.toggle('lentDarkT')
+            lentDarkT.classList.toggle('lentDarkTexit')
+        }, 100);
         setTimeout(() => {
             window.location.assign('/pages/languageESin.html')
         }, 2000);
