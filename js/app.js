@@ -41,11 +41,15 @@ document.getElementById('prev').onclick = function () {
 
 
 
-let minutos = 0
-let seconds = 10
+let minutos = 10
+let seconds = 0
 
 //lente negro
 let lentDarkT = document.getElementById('lentDarkT')
+
+
+//contenedor del temporizador regresivo
+let containerTempo = document.getElementById('containerTempo')
 
 cargarSeconds()
 
@@ -108,12 +112,18 @@ function cargarMinutos(seconds, txtSecond) {
 function render(minutos, seconds, txtsegundos) {
     if (minutos == 0 && seconds == 0) {
         txtsegundos = '00' 
-        // document.getElementById('minutes').textContent = txtsegundos
+
         document.getElementById('seconds').textContent = txtsegundos
 
         setTimeout(() => {
             lentDarkT.classList.toggle('lentDarkT')
             lentDarkT.classList.toggle('lentDarkTexit')
+
+            setTimeout(() => {
+                containerTempo.classList.toggle('none')
+                containerTempo.classList.toggle('containerTempo')
+            }, 500);
+
         }, 100);
         setTimeout(() => {
             window.location.assign('/pages/languageESin.html')
@@ -121,3 +131,11 @@ function render(minutos, seconds, txtsegundos) {
     }
 }
 setInterval(cargarSeconds, 1000);
+
+window.addEventListener('load', ()=> {
+    containerTempo.classList.toggle('none')
+    setTimeout(() => {
+        containerTempo.classList.toggle('none')
+        containerTempo.classList.toggle('containerTempo')
+    }, 1200);
+})

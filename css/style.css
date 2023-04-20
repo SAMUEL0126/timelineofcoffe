@@ -87,8 +87,14 @@ body {
     justify-content: center;
     align-items: center;
     height: auto;
+    visibility: visible;
+    transition: 1.3s all;
 }
-
+.none{
+    display: none;
+    /* visibility: hidden; */
+    z-index: 0;
+}
 .containerTempo{
     position: absolute;
     transform: translate(590px, 60px);
