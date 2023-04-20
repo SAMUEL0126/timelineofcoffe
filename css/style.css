@@ -227,6 +227,7 @@ body {
 .item:nth-child(5) {
     left: calc(29.5% + 440px);
 }
+
 .item:nth-child(n+6) {
     left: calc(50% + 660px);
     opacity: 0;
