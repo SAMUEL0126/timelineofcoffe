@@ -8,6 +8,29 @@ let btnB = document.getElementById('prev')
 let reset = document.getElementById('reset')
 let volver = document.getElementById('volver')
 
+reset.addEventListener('click', ()=> {
+    window.location.reload()
+})
+
+volver.addEventListener('click', ()=> {
+    setTimeout(() => {
+        lentDarkT.classList.toggle('lentDarkT')
+        lentDarkT.classList.toggle('lentDarkTexit')
+
+        setTimeout(() => {
+            containerTempo.classList.toggle('none')
+            containerTempo.classList.toggle('containerTempo')
+            
+            reset.classList.toggle('glow-on-hoverR')
+            volver.classList.toggle('glow-on-hoverV')
+        }, 500);
+
+    }, 100);
+    setTimeout(() => {
+        window.location.assign('/pages/languageESin.html')
+    }, 2000);
+})
+
 document.getElementById('next').onclick = function () {
 
     let lists = document.querySelectorAll('.item')
