@@ -4,6 +4,10 @@ let next = 1928
 let btnN = document.getElementById('next')
 let btnB = document.getElementById('prev')
 
+/* BOTONES */
+let reset = document.getElementById('reset')
+let volver = document.getElementById('volver')
+
 document.getElementById('next').onclick = function () {
 
     let lists = document.querySelectorAll('.item')
@@ -139,5 +143,8 @@ window.addEventListener('load', () => {
     setTimeout(() => {
         containerTempo.classList.toggle('none')
         containerTempo.classList.toggle('containerTempo')
+
+        reset.classList.toggle('glow-on-hoverR')
+        volver.classList.toggle('glow-on-hoverV')
     }, 1200);
 })

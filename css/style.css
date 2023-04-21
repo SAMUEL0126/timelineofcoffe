@@ -352,11 +352,8 @@ body {
     background-color: #10100c;
     color: white;
 }
-#Ingles{
-    transform: translate(-224px , 580px);
-}
 
-.glow-on-hover {
+.glow-on-hoverR {
     width: 220px;
     height: 50px;
     border: none;
@@ -372,7 +369,7 @@ body {
     filter: drop-shadow(5px 5px 5px black);
 }
 
-.glow-on-hover:before {
+.glow-on-hoverR:before {
     content: '';
     background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
     position: absolute;
@@ -389,19 +386,92 @@ body {
     border-radius: 10px;
 }
 
-.glow-on-hover:active {
+.glow-on-hoverR:active {
     color: black
 }
 
-.glow-on-hover:active:after {
+.glow-on-hoverR:active:after {
     background: transparent;
 }
 
-.glow-on-hover:hover:before {
+.glow-on-hoverR:hover:before {
     opacity: 1;
 }
 
-.glow-on-hover:after {
+.glow-on-hoverR:after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: white;
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+}
+
+@keyframes glowing {
+    0% {
+        background-position: 0 0;
+    }
+
+    50% {
+        background-position: 400% 0;
+    }
+
+    100% {
+        background-position: 0 0;
+    }
+}
+
+
+
+.glow-on-hoverV {
+    width: 220px;
+    height: 50px;
+    border: none;
+    outline: none;
+    color: black;
+    background: white;
+    cursor: pointer;
+    position: relative;
+    z-index: 100;
+    border-radius: 10px;
+    transform: translate(-224px , 560px);
+    border: solid 3px black;
+    filter: drop-shadow(5px 5px 5px black);
+}
+
+.glow-on-hoverV:before {
+    content: '';
+    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 20s linear infinite;
+    opacity: 0;
+    transition: opacity .3s ease-in-out;
+    border-radius: 10px;
+}
+
+.glow-on-hoverV:active {
+    color: black
+}
+
+.glow-on-hoverV:active:after {
+    background: transparent;
+}
+
+.glow-on-hoverV:hover:before {
+    opacity: 1;
+}
+
+.glow-on-hoverV:after {
     z-index: -1;
     content: '';
     position: absolute;
