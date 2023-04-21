@@ -5,11 +5,6 @@ let ingles = document.getElementById('Ingles')
 let contpageClock = document.getElementById('contpageClock')
 let contLoading = document.getElementById('contLoadingHidden')
 
-// rutas ===>
-// ingles: /pages/presentacionIng.html
-// español: /pages/presentacion.html
-
-
 // Lente Dark
 let lentDarkT = document.getElementById('lentDarkT')
 
