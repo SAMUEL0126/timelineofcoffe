@@ -354,7 +354,7 @@ body {
 }
 
 .glow-on-hoverR {
-    width: 220px;
+    width: 135px;
     height: 50px;
     border: none;
     outline: none;
@@ -364,7 +364,7 @@ body {
     position: relative;
     z-index: 100;
     border-radius: 10px;
-    transform: translate(0px , 500px);
+    transform: translate(6px , 500px);
     border: solid 3px black;
     filter: drop-shadow(5px 5px 5px black);
 }
@@ -427,7 +427,7 @@ body {
 
 
 .glow-on-hoverV {
-    width: 220px;
+    width: 135px;
     height: 50px;
     border: none;
     outline: none;
@@ -436,8 +436,9 @@ body {
     cursor: pointer;
     position: relative;
     z-index: 100;
+    text-align: center;
     border-radius: 10px;
-    transform: translate(-224px , 560px);
+    transform: translate(-134px , 560px);
     border: solid 3px black;
     filter: drop-shadow(5px 5px 5px black);
 }
