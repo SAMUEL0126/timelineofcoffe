@@ -9,7 +9,6 @@ body::-webkit-scrollbar {
 }
 body{
     display: flex;
-    /* justify-content: center; */
     align-items: center;
     min-height: 100vh;
     background: silver;
@@ -130,7 +129,6 @@ body{
 .contLinetime {
     width: 100%;
     height: 50px;
-    /* background-color: red; */
     display: flex;
     justify-content: center;
     align-items: center;

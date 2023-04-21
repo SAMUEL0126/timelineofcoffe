@@ -92,7 +92,6 @@ body {
 }
 .none{
     display: none;
-    /* visibility: hidden; */
     z-index: 0;
 }
 .containerTempo{
