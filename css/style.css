@@ -364,7 +364,7 @@ body {
     position: relative;
     z-index: 100;
     border-radius: 10px;
-    transform: translate(6px , 500px);
+    transform: translate(36px , 500px);
     border: solid 3px black;
     filter: drop-shadow(5px 5px 5px black);
 }
@@ -438,7 +438,7 @@ body {
     z-index: 100;
     text-align: center;
     border-radius: 10px;
-    transform: translate(-134px , 560px);
+    transform: translate(-102px , 560px);
     border: solid 3px black;
     filter: drop-shadow(5px 5px 5px black);
 }
