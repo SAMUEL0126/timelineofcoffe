@@ -28,7 +28,7 @@ document.getElementById('prev').onclick = function () {
 
     if (back < 1927) {
 
-        back = 1927
+        back = 1927 
 
         next = 1928
         slide.appendChild(lists[17])

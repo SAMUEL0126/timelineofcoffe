@@ -5,6 +5,12 @@
     box-sizing: border-box;
     font-family: 'Tillana'; 
 }
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
 .lentDarkTransition {
     
     animation: lentDark 5s ease-in-out;
@@ -163,7 +169,26 @@ a{
     text-decoration: none;
     color: white;
 }
-
+.contOptionsLenguash {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+}
+.contOptionsLenguash .contTxtSelectL {
+    width: auto;
+    height: auto;
+}
+.contOptionsLenguash .contBtnOp {
+    width: 100%;
+    height: auto;
+    gap: 50px;
+    display: flex;
+    justify-content: center;
+}
 /*======= LOADING =========*/
 .contLoadingHidden {
     position: absolute;
