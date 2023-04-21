@@ -353,7 +353,7 @@ body {
 }
 
 .glow-on-hoverR {
-    width: 135px;
+    width: 55px;
     height: 50px;
     border: none;
     outline: none;
@@ -362,7 +362,7 @@ body {
     cursor: pointer;
     position: relative;
     z-index: 100;
-    border-radius: 10px;
+    border-radius: 50%;
     transform: translate(36px , 500px);
     border: solid 3px black;
     filter: drop-shadow(5px 5px 5px black);
@@ -406,7 +406,7 @@ body {
     background: white;
     left: 0;
     top: 0;
-    border-radius: 10px;
+    border-radius: 50%;
 }
 
 @keyframes glowing {
@@ -426,7 +426,7 @@ body {
 
 
 .glow-on-hoverV {
-    width: 135px;
+    width: 55px;
     height: 50px;
     border: none;
     outline: none;
@@ -436,8 +436,8 @@ body {
     position: relative;
     z-index: 100;
     text-align: center;
-    border-radius: 10px;
-    transform: translate(-102px , 560px);
+    border-radius: 50%;
+    transform: translate(-23px , 560px);
     border: solid 3px black;
     filter: drop-shadow(5px 5px 5px black);
 }
@@ -480,7 +480,7 @@ body {
     background: white;
     left: 0;
     top: 0;
-    border-radius: 10px;
+    border-radius: 50%;
 }
 
 @keyframes glowing {
