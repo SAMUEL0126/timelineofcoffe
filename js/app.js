@@ -172,7 +172,7 @@ window.addEventListener('load', () => {
 
 /* temporizador para detectar innactividad del usuario */
 
-let tiempoInactividad = 5000; // tiempo en milisegundos (5 segundos)
+let tiempoInactividad = 60000; // tiempo en milisegundos (5 segundos)
 let temporizador;
 
 // Reinicia el temporizador
