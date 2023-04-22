@@ -5,12 +5,10 @@ let btnN = document.getElementById('next')
 let btnB = document.getElementById('prev')
 
 /* BOTONES */
-let reset = document.getElementById('reset')
+
 let volver = document.getElementById('volver')
 
-reset.addEventListener('click', () => {
-    window.location.reload()
-})
+
 
 volver.addEventListener('click', () => {
     setTimeout(() => {
@@ -21,7 +19,6 @@ volver.addEventListener('click', () => {
             containerTempo.classList.toggle('none')
             containerTempo.classList.toggle('containerTempo')
 
-            reset.classList.toggle('glow-on-hoverR')
             volver.classList.toggle('glow-on-hoverV')
         }, 500);
 
@@ -167,7 +164,6 @@ window.addEventListener('load', () => {
         containerTempo.classList.toggle('none')
         containerTempo.classList.toggle('containerTempo')
 
-        reset.classList.toggle('glow-on-hoverR')
         volver.classList.toggle('glow-on-hoverV')
     }, 1200);
 })
@@ -193,6 +189,7 @@ function reiniciarTemporizador() {
         containerTempo.classList.toggle('none')
         containerTempo.classList.toggle('containerTempo')
         
+        volver.classList.toggle('glow-on-hoverV')
         setTimeout(() => {
             window.location.assign('/pages/languageESin.html')
         }, zarko);

@@ -393,7 +393,7 @@ body {
 
 
 .glow-on-hoverV {
-    width: 55px;
+    width: 105px;
     height: 50px;
     border: none;
     outline: none;
@@ -403,9 +403,9 @@ body {
     position: relative;
     z-index: 100;
     text-align: center;
-    border-radius: 50%;
+    border-radius: 10px;
     transition: .3s all;
-    transform: translate(913px , 426px);
+    transform: translate(13px , 568px);
     border: solid 3px black;
     filter: drop-shadow(5px 5px 5px black);
 }
