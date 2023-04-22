@@ -55,7 +55,7 @@ document.getElementById('prev').onclick = function () {
         back = 1927
 
         next = 1928
-        slide.appendChild(lists[28])
+        slide.appendChild(lists[24])
     }
 }
 
@@ -188,7 +188,7 @@ function reiniciarTemporizador() {
 
         containerTempo.classList.toggle('none')
         containerTempo.classList.toggle('containerTempo')
-        
+
         volver.classList.toggle('glow-on-hoverV')
         setTimeout(() => {
             window.location.assign('/pages/languageESin.html')
