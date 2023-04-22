@@ -172,35 +172,35 @@ window.addEventListener('load', () => {
 
 /* temporizador para detectar innactividad del usuario */
 
-// let tiempoInactividad = 5000; // tiempo en milisegundos (5 segundos)
-// let temporizador;
+let tiempoInactividad = 5000; // tiempo en milisegundos (5 segundos)
+let temporizador;
 
-// // Reinicia el temporizador
-// function reiniciarTemporizador() {
-//     let zarko = 2000
-//     clearTimeout(temporizador); // Cancela el temporizador anterior
-//     temporizador = setTimeout(function () {
+// Reinicia el temporizador
+function reiniciarTemporizador() {
+    let zarko = 2000
+    clearTimeout(temporizador); // Cancela el temporizador anterior
+    temporizador = setTimeout(function () {
 
-//         // Ejecuta tu función aquí
+        // Ejecuta tu función aquí
 
-//         lentDarkT.classList.toggle('lentDarkT')
-//         lentDarkT.classList.toggle('lentDarkTexit')
+        lentDarkT.classList.toggle('lentDarkT')
+        lentDarkT.classList.toggle('lentDarkTexit')
 
-//         containerTempo.classList.toggle('none')
-//         containerTempo.classList.toggle('containerTempo')
+        containerTempo.classList.toggle('none')
+        containerTempo.classList.toggle('containerTempo')
         
-//         volver.classList.toggle('glow-on-hoverV')
-//         setTimeout(() => {
-//             window.location.assign('/pages/languageESin.html')
-//         }, zarko);
+        volver.classList.toggle('glow-on-hoverV')
+        setTimeout(() => {
+            window.location.assign('/pages/languageESin.html')
+        }, zarko);
 
-//     }, tiempoInactividad);
-// }
+    }, tiempoInactividad);
+}
 
-// // Agrega eventos para detectar la actividad del usuario
-// document.addEventListener("mousemove", reiniciarTemporizador);
-// document.addEventListener("mousedown", reiniciarTemporizador);
-// document.addEventListener("keydown", reiniciarTemporizador);
+// Agrega eventos para detectar la actividad del usuario
+document.addEventListener("mousemove", reiniciarTemporizador);
+document.addEventListener("mousedown", reiniciarTemporizador);
+document.addEventListener("keydown", reiniciarTemporizador);
 
-// // Inicia el temporizador inicial
-// reiniciarTemporizador();
+// Inicia el temporizador inicial
+reiniciarTemporizador();
