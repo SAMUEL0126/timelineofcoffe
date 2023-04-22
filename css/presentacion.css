@@ -11,7 +11,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background: #000;
-    animation: animante_Body 6s ease-in-out infinite;
+    /* animation: animante_Body 6s ease-in-out infinite; */
 }
 .father {
     width: 100%;
@@ -19,6 +19,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 50px;
 }
 .father .contInstructions {
     width: 50%;
@@ -27,10 +28,10 @@ body {
     text-align: center;
 }
 .father .contInstructions h2 {
-    animation: animate_h2 6s ease-in-out infinite;
+    color: white;
 }
 .father .contInstructions p {
-    animation: animate_h2 6s ease-in-out infinite;
+    color: white;
 }
 .scan {
     position: relative;
@@ -109,10 +110,10 @@ body {
     }
 }
 
-.scan h3{
+h3{
     text-transform: uppercase;
     color: red;
-    font-size: 2em;
+    font-size: 1.3em;
     margin-top: 20px;
     letter-spacing: 2px;
     filter: drop-shadow(0 0 20px red) drop-shadow(0 0 60px red);
@@ -218,12 +219,12 @@ body {
     position: relative;
     width: 200px;
     height: 45px;
-    background: rgba(0, 0, 0, 0.1);
+    background: silver;
     border-radius: 60px;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: rgba(255, 255, 255, 0.5);
+    color: #000;
     text-decoration: none;
     letter-spacing: 2px;
     border-top: 0.5px solid rgba(255, 255, 255, 0.35);
@@ -231,7 +232,7 @@ body {
     padding-left: 40px;
     transition: 0.5s;
     overflow: hidden;
-    animation: animate-btn ease-in-out 6s infinite;
+    /* animation: animate-btn ease-in-out 6s infinite; */
 }
 
 .btn:hover {
@@ -244,7 +245,7 @@ body {
     left: 5px;
     width: 35px;
     height: 35px;
-    background: red;
+    background: rgb(3, 3, 3);
     border-radius: 50%;
     transition: 0.5s ease-in-out;
     display: flex;
