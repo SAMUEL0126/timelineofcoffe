@@ -38,6 +38,15 @@ document.getElementById('next').onclick = function () {
     back = back + 1
 
     next = next + 1
+    console.log(back);
+
+    if (next == 1991 && back == 1990) {
+        btnN.style.visibility= "hidden"
+    }
+    
+    if (back > 1927) {
+        btnB.style.visibility="visible"
+    }
 
 }
 document.getElementById('prev').onclick = function () {
@@ -50,13 +59,26 @@ document.getElementById('prev').onclick = function () {
     back = back - 1
     next = next - 1
 
+    if(next < 1991 && back < 1990) {
+        btnN.style.visibility= "visible"
+    }
+    
+  
+    console.log( back);
+
     if (back < 1927) {
 
         back = 1927
 
         next = 1928
+    
         slide.appendChild(lists[63])
+       
     }
+    if (back <= 1927) {
+        btnB.style.visibility="hidden"
+    }
+
 }
 
 
@@ -204,3 +226,9 @@ document.addEventListener("keydown", reiniciarTemporizador);
 
 // Inicia el temporizador inicial
 reiniciarTemporizador();
+
+window.addEventListener('load', () => {
+    if (back == 1927) {
+        btnB.style.visibility="hidden"
+    }
+})
