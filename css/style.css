@@ -405,7 +405,7 @@ body {
     text-align: center;
     border-radius: 10px;
     transition: .3s all;
-    transform: translate(13px , 568px);
+    transform: translate(13px , 664px);
     border: solid 3px black;
     filter: drop-shadow(5px 5px 5px black);
 }
