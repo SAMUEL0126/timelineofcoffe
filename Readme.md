@@ -3,7 +3,7 @@
 <img src="/images/CapturaA.PNG" alt="...">
 <h2>Interfaz principal de la linea del tiempo.</h2>
 <hr></hr>
-<img src="/images/CapturaBin.PNG" alt="...">
+<img src="/images/CapturaAB.PNG" alt="...">
 <h2>Interfaz principal de la pagina selecciona tu idioma </h2>
 <hr></hr>
 <img src="/images/Capturareloj.PNG" alt="...">
