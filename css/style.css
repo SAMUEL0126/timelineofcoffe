@@ -364,37 +364,12 @@ body {
     z-index: 100;
     border-radius: 50%;
     transition: .3s all;
-    transform: translate(426px , 427px);
+    transform: translate(422px , 427px);
     border: solid 3px black;
     filter: drop-shadow(5px 5px 5px black);
 }
 
-/* .glow-on-hoverR:before {
-    content: '';
-    top: -2px;
-    left: -2px;
-    background-size: 400%;
-    z-index: -1;
-    filter: blur(5px);
-    width: calc(100% + 4px);
-    height: calc(100% + 4px);
-    animation: glowing 20s linear infinite;
-    opacity: 0;
-    transition: opacity .3s ease-in-out;
-    border-radius: 10px;
-}
 
-.glow-on-hoverR:active {
-    color: black
-}
-
-.glow-on-hoverR:active:after {
-    background: transparent;
-}
-
-.glow-on-hoverR:hover:before {
-    opacity: 1;
-} */
 .glow-on-hoverR:hover {
     background-color: black;
     color: white;

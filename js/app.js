@@ -8,11 +8,11 @@ let btnB = document.getElementById('prev')
 let reset = document.getElementById('reset')
 let volver = document.getElementById('volver')
 
-reset.addEventListener('click', ()=> {
+reset.addEventListener('click', () => {
     window.location.reload()
 })
 
-volver.addEventListener('click', ()=> {
+volver.addEventListener('click', () => {
     setTimeout(() => {
         lentDarkT.classList.toggle('lentDarkT')
         lentDarkT.classList.toggle('lentDarkTexit')
@@ -20,7 +20,7 @@ volver.addEventListener('click', ()=> {
         setTimeout(() => {
             containerTempo.classList.toggle('none')
             containerTempo.classList.toggle('containerTempo')
-            
+
             reset.classList.toggle('glow-on-hoverR')
             volver.classList.toggle('glow-on-hoverV')
         }, 500);
@@ -55,7 +55,7 @@ document.getElementById('prev').onclick = function () {
 
     if (back < 1927) {
 
-        back = 1927 
+        back = 1927
 
         next = 1928
         slide.appendChild(lists[18])
@@ -171,3 +171,39 @@ window.addEventListener('load', () => {
         volver.classList.toggle('glow-on-hoverV')
     }, 1200);
 })
+
+
+
+/* temporizador para detectar innactividad del usuario */
+
+let tiempoInactividad = 5000; // tiempo en milisegundos (5 segundos)
+let temporizador;
+
+// Reinicia el temporizador
+function reiniciarTemporizador() {
+    let zarko = 2000
+    clearTimeout(temporizador); // Cancela el temporizador anterior
+    temporizador = setTimeout(function () {
+
+        // Ejecuta tu función aquí
+
+        lentDarkT.classList.toggle('lentDarkT')
+        lentDarkT.classList.toggle('lentDarkTexit')
+
+        containerTempo.classList.toggle('none')
+        containerTempo.classList.toggle('containerTempo')
+        
+        setTimeout(() => {
+            window.location.assign('/pages/languageESin.html')
+        }, zarko);
+
+    }, tiempoInactividad);
+}
+
+// Agrega eventos para detectar la actividad del usuario
+document.addEventListener("mousemove", reiniciarTemporizador);
+document.addEventListener("mousedown", reiniciarTemporizador);
+document.addEventListener("keydown", reiniciarTemporizador);
+
+// Inicia el temporizador inicial
+reiniciarTemporizador();
