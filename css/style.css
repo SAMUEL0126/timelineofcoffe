@@ -312,7 +312,8 @@ body {
         filter: blur(0);
     }
 }
-/*animation tittle*/
+
+
 @keyframes showTittle {
     from {
         opacity: 0;
