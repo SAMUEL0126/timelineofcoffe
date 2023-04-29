@@ -7,6 +7,8 @@ let btnB = document.getElementById('prev')
 /* BOTONES */
 
 let volver = document.getElementById('volver')
+let contIconSearch = document.getElementById('contIconSearch')
+let SearchBox = document.getElementById('SearchBox')
 
 
 
@@ -19,7 +21,10 @@ volver.addEventListener('click', () => {
             containerTempo.classList.toggle('none')
             containerTempo.classList.toggle('containerTempo')
 
+            contIconSearch.classList.toggle('contIconSearch')
             volver.classList.toggle('glow-on-hoverV')
+            SearchBox.classList.toggle('SearchBox')
+
         }, 500);
 
     }, 100);
@@ -186,7 +191,9 @@ window.addEventListener('load', () => {
         containerTempo.classList.toggle('none')
         containerTempo.classList.toggle('containerTempo')
 
+        contIconSearch.classList.toggle('contIconSearch')
         volver.classList.toggle('glow-on-hoverV')
+        SearchBox.classList.toggle('SearchBox')
     }, 1200);
 })
 
@@ -212,6 +219,8 @@ function reiniciarTemporizador() {
         containerTempo.classList.toggle('containerTempo')
 
         volver.classList.toggle('glow-on-hoverV')
+        contIconSearch.classList.toggle('contIconSearch')
+        SearchBox.classList.toggle('SearchBox')
         setTimeout(() => {
             window.location.assign('/pages/languageESin.html')
         }, zarko);
