@@ -392,8 +392,8 @@ body {
     position: absolute;
     width: 30px;
     height: 30px;
-    color: white;
-    background: red;
+    color: black;
+    background: white;
     border-radius: 50%;
     display: flex;
     justify-content: center;
