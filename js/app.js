@@ -10,7 +10,14 @@ let volver = document.getElementById('volver')
 let contIconSearch = document.getElementById('contIconSearch')
 let SearchBox = document.getElementById('SearchBox')
 
+/*========== Obtener los años por ID ==========*/
 
+
+
+/*==========BUSQUEDA==========*/
+contIconSearch.addEventListener('click', ()=> {
+    console.log(SearchBox.value);
+})
 
 volver.addEventListener('click', () => {
     setTimeout(() => {
