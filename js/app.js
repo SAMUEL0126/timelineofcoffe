@@ -573,6 +573,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1929) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 2; i++) {
             setTimeout(nextfunction, i * 100)
@@ -583,6 +586,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1931) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 3; i++) {
             setTimeout(nextfunction, i * 100)
@@ -593,6 +599,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1932) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 4; i++) {
             setTimeout(nextfunction, i * 100)
@@ -603,6 +612,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1936) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 5; i++) {
             setTimeout(nextfunction, i * 100)
@@ -613,6 +625,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1937) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 6; i++) {
             setTimeout(nextfunction, i * 100)
@@ -623,6 +638,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1938) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 7; i++) {
             setTimeout(nextfunction, i * 100)
@@ -633,6 +651,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1940) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 8; i++) {
             setTimeout(nextfunction, i * 100)
@@ -643,6 +664,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1941) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 9; i++) {
             setTimeout(nextfunction, i * 100)
@@ -653,6 +677,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1945) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 10; i++) {
             setTimeout(nextfunction, i * 100)
@@ -663,6 +690,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1947) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 11; i++) {
             setTimeout(nextfunction, i * 100)
@@ -673,6 +703,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1951) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 12; i++) {
             setTimeout(nextfunction, i * 100)
@@ -683,6 +716,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1952) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 13; i++) {
             setTimeout(nextfunction, i * 100)
@@ -693,6 +729,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1953) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 14; i++) {
             setTimeout(nextfunction, i * 100)
@@ -703,6 +742,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1958) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 15; i++) {
             setTimeout(nextfunction, i * 100)
@@ -713,6 +755,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1959) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 16; i++) {
             setTimeout(nextfunction, i * 100)
@@ -723,6 +768,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1960) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 17; i++) {
             setTimeout(nextfunction, i * 100)
@@ -733,6 +781,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1962) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 18; i++) {
             setTimeout(nextfunction, i * 100)
@@ -743,6 +794,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1963) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 19; i++) {
             setTimeout(nextfunction, i * 100)
@@ -753,6 +807,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1965) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 20; i++) {
             setTimeout(nextfunction, i * 100)
@@ -763,6 +820,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1966) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 21; i++) {
             setTimeout(nextfunction, i * 100)
@@ -773,6 +833,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1967) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 22; i++) {
             setTimeout(nextfunction, i * 100)
@@ -783,6 +846,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1968) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 23; i++) {
             setTimeout(nextfunction, i * 100)
@@ -793,6 +859,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1969) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 24; i++) {
             setTimeout(nextfunction, i * 100)
@@ -803,6 +872,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1970) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 25; i++) {
             setTimeout(nextfunction, i * 100)
@@ -813,6 +885,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1971) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 26; i++) {
             setTimeout(nextfunction, i * 100)
@@ -823,6 +898,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1972) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 27; i++) {
             setTimeout(nextfunction, i * 100)
@@ -833,6 +911,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1973) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 28; i++) {
             setTimeout(nextfunction, i * 100)
@@ -843,6 +924,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1974) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 29; i++) {
             setTimeout(nextfunction, i * 100)
@@ -853,6 +937,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1975) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 30; i++) {
             setTimeout(nextfunction, i * 100)
@@ -863,6 +950,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1976) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 31; i++) {
             setTimeout(nextfunction, i * 100)
@@ -873,6 +963,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1978) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 32; i++) {
             setTimeout(nextfunction, i * 100)
@@ -883,6 +976,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1979) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 33; i++) {
             setTimeout(nextfunction, i * 100)
@@ -893,6 +989,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1980) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 34; i++) {
             setTimeout(nextfunction, i * 100)
@@ -903,6 +1002,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1981) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 35; i++) {
             setTimeout(nextfunction, i * 100)
@@ -913,6 +1015,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1982) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 36; i++) {
             setTimeout(nextfunction, i * 100)
@@ -923,6 +1028,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1983) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 37; i++) {
             setTimeout(nextfunction, i * 100)
@@ -933,6 +1041,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1984) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 38; i++) {
             setTimeout(nextfunction, i * 100)
@@ -943,6 +1054,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1985) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 39; i++) {
             setTimeout(nextfunction, i * 100)
@@ -953,6 +1067,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1986) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 40; i++) {
             setTimeout(nextfunction, i * 100)
@@ -963,6 +1080,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1987) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 41; i++) {
             setTimeout(nextfunction, i * 100)
@@ -973,6 +1093,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1988) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 42; i++) {
             setTimeout(nextfunction, i * 100)
@@ -983,6 +1106,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1989) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 43; i++) {
             setTimeout(nextfunction, i * 100)
@@ -993,6 +1119,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1991) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 44; i++) {
             setTimeout(nextfunction, i * 100)
@@ -1003,6 +1132,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1993) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 45; i++) {
             setTimeout(nextfunction, i * 100)
@@ -1013,6 +1145,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1994) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 46; i++) {
             setTimeout(nextfunction, i * 100)
@@ -1023,6 +1158,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1995) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 47; i++) {
             setTimeout(nextfunction, i * 100)
@@ -1033,6 +1171,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1996) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 48; i++) {
             setTimeout(nextfunction, i * 100)
@@ -1043,6 +1184,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1997) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 49; i++) {
             setTimeout(nextfunction, i * 100)
@@ -1053,6 +1197,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1998) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 50; i++) {
             setTimeout(nextfunction, i * 100)
@@ -1063,6 +1210,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 1999) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 51; i++) {
             setTimeout(nextfunction, i * 100)
@@ -1073,6 +1223,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 2000) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 52; i++) {
             setTimeout(nextfunction, i * 100)
@@ -1083,6 +1236,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 2001) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 53; i++) {
             setTimeout(nextfunction, i * 100)
@@ -1093,6 +1249,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 2002) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 54; i++) {
             setTimeout(nextfunction, i * 100)
@@ -1103,6 +1262,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 2003) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 53; i++) {
             setTimeout(nextfunction, i * 100)
@@ -1113,6 +1275,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 2004) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 56; i++) {
             setTimeout(nextfunction, i * 100)
@@ -1123,6 +1288,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 2005) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 57; i++) {
             setTimeout(nextfunction, i * 100)
@@ -1133,6 +1301,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 2006) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 58; i++) {
             setTimeout(nextfunction, i * 100)
@@ -1143,6 +1314,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 2007) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 59; i++) {
             setTimeout(nextfunction, i * 100)
@@ -1153,6 +1327,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 2008) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 60; i++) {
             setTimeout(nextfunction, i * 100)
@@ -1163,6 +1340,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 2009) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
         prueba++
         console.log(prueba);
         for (let i = 0; i < 61; i++) {
@@ -1178,6 +1358,9 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 2015) {
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 63; i++) {
             setTimeout(nextfunction, i * 100)
