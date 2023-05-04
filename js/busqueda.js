@@ -2,73 +2,74 @@ let contIconSearch = document.getElementById('contIconSearch')
 let SearchBox = document.getElementById('SearchBox')
 
 /*========== Obtener los años por ID ==========*/
-let year1927 = document.getElementById('year1927')
-let year1928 = document.getElementById('year1928')
-let year1929 = document.getElementById('year1929')
-let year1931 = document.getElementById('year1931')
-let year1932 = document.getElementById('year1932')
-let year1936 = document.getElementById('year1936')
-let year1937 = document.getElementById('year1937')
-let year1938 = document.getElementById('year1938')
-let year1940 = document.getElementById('year1940')
-let year1941 = document.getElementById('year1941')
-let year1945 = document.getElementById('year1945')
-let year1947 = document.getElementById('year1947')
-let year1951 = document.getElementById('year1951')
-let year1952 = document.getElementById('year1952')
-let year1953 = document.getElementById('year1953')
-let year1958 = document.getElementById('year1958')
-let year1959 = document.getElementById('year1959')
-let year1960 = document.getElementById('year1960')
-let year1962 = document.getElementById('year1962')
-let year1963 = document.getElementById('year1963')
-let year1965 = document.getElementById('year1965')
-let year1966 = document.getElementById('year1966')
-let year1967 = document.getElementById('year1967')
-let year1968 = document.getElementById('year1968')
-let year1969 = document.getElementById('year1969')
-let year1970 = document.getElementById('year1970')
-let year1971 = document.getElementById('year1971')
-let year1972 = document.getElementById('year1972')
-let year1973 = document.getElementById('year1973')
-let year1974 = document.getElementById('year1974')
-let year1975 = document.getElementById('year1975')
-let year1976 = document.getElementById('year1976')
-let year1978 = document.getElementById('year1978')
-let year1979 = document.getElementById('year1979')
-let year1980 = document.getElementById('year1980')
-let year1981 = document.getElementById('year1981')
-let year1982 = document.getElementById('year1982')
-let year1983 = document.getElementById('year1983')
-let year1984 = document.getElementById('year1984')
-let year1985 = document.getElementById('year1985')
-let year1986 = document.getElementById('year1986')
-let year1987 = document.getElementById('year1987')
-let year1988 = document.getElementById('year1988')
-let year1989 = document.getElementById('year1989')
-let year1991 = document.getElementById('year1991')
-let year1993 = document.getElementById('year1993')
-let year1994 = document.getElementById('year1994')
-let year1995 = document.getElementById('year1995')
-let year1996 = document.getElementById('year1996')
-let year1997 = document.getElementById('year1997')
-let year1998 = document.getElementById('year1998')
-let year1999 = document.getElementById('year1999')
-let year2000 = document.getElementById('year2000')
-let year2001 = document.getElementById('year2001')
-let year2002 = document.getElementById('year2002')
-let year2003 = document.getElementById('year2003')
-let year2004 = document.getElementById('year2004')
-let year2005 = document.getElementById('year2005')
-let year2006 = document.getElementById('year2006')
-let year2007 = document.getElementById('year2007')
-let year2008 = document.getElementById('year2008')
-let year2009 = document.getElementById('year2009')
-let year2009Two = document.getElementById('year2009Two')
-let year2015 = document.getElementById('year2015')
+// let year1927 = document.getElementById('year1927').style.display = "none"
+// // let year1928 = document.getElementById('year1928').style.display = "block"
+// let year1929 = document.getElementById('year1929').style.display = "none"
+// let year1931 = document.getElementById('year1931').style.display = "none"
+// let year1932 = document.getElementById('year1932').style.display = "none"
+// let year1936 = document.getElementById('year1936').style.display = "none"
+// let year1937 = document.getElementById('year1937').style.display = "none"
+// let year1938 = document.getElementById('year1938').style.display = "none"
+// let year1940 = document.getElementById('year1940').style.display = "none"
+// let year1941 = document.getElementById('year1941').style.display = "none"
+// let year1945 = document.getElementById('year1945').style.display = "none"
+// let year1947 = document.getElementById('year1947').style.display = "none"
+// let year1951 = document.getElementById('year1951').style.display = "none"
+// let year1952 = document.getElementById('year1952').style.display = "none"
+// let year1953 = document.getElementById('year1953').style.display = "none"
+// let year1958 = document.getElementById('year1958').style.display = "none"
+// let year1959 = document.getElementById('year1959').style.display = "none"
+// let year1960 = document.getElementById('year1960').style.display = "none"
+// let year1962 = document.getElementById('year1962').style.display = "none"
+// let year1963 = document.getElementById('year1963').style.display = "none"
+// let year1965 = document.getElementById('year1965').style.display = "none"
+// let year1966 = document.getElementById('year1966').style.display = "none"
+// let year1967 = document.getElementById('year1967').style.display = "none"
+// let year1968 = document.getElementById('year1968').style.display = "none"
+// let year1969 = document.getElementById('year1969').style.display = "none"
+// let year1970 = document.getElementById('year1970').style.display = "none"
+// let year1971 = document.getElementById('year1971').style.display = "none"
+// let year1972 = document.getElementById('year1972').style.display = "none"
+// let year1973 = document.getElementById('year1973').style.display = "none"
+// let year1974 = document.getElementById('year1974').style.display = "none"
+// let year1975 = document.getElementById('year1975').style.display = "none"
+// let year1976 = document.getElementById('year1976').style.display = "none"
+// let year1978 = document.getElementById('year1978').style.display = "none"
+// let year1979 = document.getElementById('year1979').style.display = "none"
+// let year1980 = document.getElementById('year1980').style.display = "none"
+// let year1981 = document.getElementById('year1981').style.display = "none"
+// let year1982 = document.getElementById('year1982').style.display = "none"
+// let year1983 = document.getElementById('year1983').style.display = "none"
+// let year1984 = document.getElementById('year1984').style.display = "none"
+// let year1985 = document.getElementById('year1985').style.display = "none"
+// let year1986 = document.getElementById('year1986').style.display = "none"
+// let year1987 = document.getElementById('year1987').style.display = "none"
+// let year1988 = document.getElementById('year1988').style.display = "none"
+// let year1989 = document.getElementById('year1989').style.display = "none"
+// let year1991 = document.getElementById('year1991').style.display = "none"
+// let year1993 = document.getElementById('year1993').style.display = "none"
+// let year1994 = document.getElementById('year1994').style.display = "none"
+// let year1995 = document.getElementById('year1995').style.display = "none"
+// let year1996 = document.getElementById('year1996').style.display = "none"
+// let year1997 = document.getElementById('year1997').style.display = "none"
+// let year1998 = document.getElementById('year1998').style.display = "none"
+// let year1999 = document.getElementById('year1999').style.display = "none"
+// let year2000 = document.getElementById('year2000').style.display = "none"
+// let year2001 = document.getElementById('year2001').style.display = "none"
+// let year2002 = document.getElementById('year2002').style.display = "none"
+// let year2003 = document.getElementById('year2003').style.display = "none"
+// let year2004 = document.getElementById('year2004').style.display = "none"
+// let year2005 = document.getElementById('year2005').style.display = "none"
+// let year2006 = document.getElementById('year2006').style.display = "none"
+// let year2007 = document.getElementById('year2007').style.display = "none"
+// let year2008 = document.getElementById('year2008').style.display = "none"
+// let year2009 = document.getElementById('year2009').style.display = "none"
+// let year2009Two = document.getElementById('year2009Two').style.display = "none"
+// let year2015 = document.getElementById('year2015').style.display = "none"
 
 
 /*==========BUSQUEDA==========*/
-contIconSearch.addEventListener('click', ()=> {
-    console.log(SearchBox.value);
-})
+// let show = document.querySelectorAll('show')
+
+let lists = document.querySelectorAll('.item')
+let slide = document.getElementById('slide')

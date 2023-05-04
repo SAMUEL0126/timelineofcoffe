@@ -458,3 +458,14 @@ body {
 .btnHidden {
     visibility: hidden;
 }
+
+
+/*mostrar*/
+.show {
+    display: block;
+}
+
+/*Ocultar*/
+.hidden {
+    visibility: hidden;
+}
