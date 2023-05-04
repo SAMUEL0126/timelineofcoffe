@@ -43,7 +43,10 @@ contIconSearch.addEventListener('click', () => {
 
             setTimeout(nextfunction, i * 100)
 
-        }  
+        }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1929) {
 
@@ -51,6 +54,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1931) {
 
@@ -58,6 +64,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1932) {
 
@@ -65,6 +74,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1936) {
 
@@ -72,6 +84,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1937) {
 
@@ -79,6 +94,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1938) {
 
@@ -86,6 +104,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1940) {
 
@@ -93,6 +114,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1941) {
 
@@ -100,6 +124,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1945) {
 
@@ -107,6 +134,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1947) {
 
@@ -114,6 +144,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1951) {
 
@@ -121,6 +154,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1952) {
 
@@ -128,6 +164,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1953) {
 
@@ -135,6 +174,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1958) {
 
@@ -142,6 +184,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1959) {
 
@@ -149,6 +194,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1960) {
 
@@ -156,6 +204,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1962) {
 
@@ -163,6 +214,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1963) {
 
@@ -170,6 +224,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1965) {
 
@@ -177,6 +234,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1966) {
 
@@ -184,6 +244,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1967) {
 
@@ -191,6 +254,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1968) {
 
@@ -198,6 +264,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1969) {
 
@@ -205,6 +274,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1970) {
 
@@ -212,6 +284,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1971) {
 
@@ -219,6 +294,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1972) {
 
@@ -226,6 +304,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1973) {
 
@@ -233,6 +314,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1974) {
 
@@ -240,6 +324,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1975) {
 
@@ -247,6 +334,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1976) {
 
@@ -254,6 +344,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1978) {
 
@@ -261,6 +354,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1979) {
 
@@ -268,6 +364,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1980) {
 
@@ -275,6 +374,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1981) {
 
@@ -282,6 +384,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1982) {
 
@@ -289,6 +394,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1983) {
 
@@ -296,6 +404,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1984) {
 
@@ -303,6 +414,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1985) {
 
@@ -310,6 +424,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1986) {
 
@@ -317,6 +434,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1987) {
 
@@ -324,6 +444,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1988) {
 
@@ -331,6 +454,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1989) {
 
@@ -338,6 +464,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1991) {
 
@@ -345,6 +474,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1993) {
 
@@ -352,6 +484,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1994) {
 
@@ -359,6 +494,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1995) {
 
@@ -366,6 +504,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1996) {
 
@@ -373,6 +514,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1997) {
 
@@ -380,6 +524,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1998) {
 
@@ -387,6 +534,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 1999) {
 
@@ -394,6 +544,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 2000) {
 
@@ -401,6 +554,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 2001) {
 
@@ -408,6 +564,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 2002) {
 
@@ -415,6 +574,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 2003) {
 
@@ -422,6 +584,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 2004) {
 
@@ -429,6 +594,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 2005) {
 
@@ -436,6 +604,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 2006) {
 
@@ -443,6 +614,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 2007) {
 
@@ -450,6 +624,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 2008) {
 
@@ -457,6 +634,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
     else if (SearchBox.value == 2009) {
 
@@ -466,6 +646,9 @@ contIconSearch.addEventListener('click', () => {
         setTimeout(() => {
             for (let i = 0; i < 1; i++) {
                 setTimeout(nextfunction, i * 100)
+                setTimeout(() => {
+                    window.location.assign('index.html')
+                }, 40000);
             }
         }, 40000);
     }
@@ -475,6 +658,9 @@ contIconSearch.addEventListener('click', () => {
             setTimeout(nextfunction, i * 100)
             
         }
+        setTimeout(() => {
+            window.location.assign('index.html')
+        }, 40000);
     }
 })
 
