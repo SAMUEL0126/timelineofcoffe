@@ -1,6 +1,10 @@
 let contIconSearch = document.getElementById('contIconSearch')
 let SearchBox = document.getElementById('SearchBox')
 
+let buttonsCont = document.getElementById('buttonsCont')
+
+
+let count = 0
 let back = 1927
 let next = 1928
 
@@ -8,9 +12,524 @@ let btnN = document.getElementById('next')
 let btnB = document.getElementById('prev')
 
 /* BOTONES */
-
+let Buscar = document.getElementById('Buscar')
 let volver = document.getElementById('volver')
 
+Buscar.addEventListener('click', () => {
+    btnN.style.display = 'none'
+    btnB.style.display = 'none'
+
+    contIconSearch.classList.toggle('hiddenButton')
+    SearchBox.classList.toggle('hiddenSearch')
+
+    if (count == 1) {
+
+        for (let i = 0; i < 1; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+
+    else if (count == 2) {
+
+        for (let i = 0; i < 2; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 3) {
+
+        for (let i = 0; i < 3; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 4) {
+
+        for (let i = 0; i < 4; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 5) {
+
+        for (let i = 0; i < 5; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 6) {
+
+        for (let i = 0; i < 6; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 7) {
+
+        for (let i = 0; i < 7; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 8) {
+
+        for (let i = 0; i < 8; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 9) {
+
+        for (let i = 0; i < 9; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 10) {
+
+        for (let i = 0; i < 10; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 11) {
+
+        for (let i = 0; i < 11; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 12) {
+
+        for (let i = 0; i < 12; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 13) {
+
+        for (let i = 0; i < 13; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 14) {
+
+        for (let i = 0; i < 14; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 15) {
+
+        for (let i = 0; i < 15; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 16) {
+
+        for (let i = 0; i < 16; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 17) {
+
+        for (let i = 0; i < 17; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 18) {
+
+        for (let i = 0; i < 18; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 19) {
+
+        for (let i = 0; i < 19; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 20) {
+
+        for (let i = 0; i < 20; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 21) {
+
+        for (let i = 0; i < 21; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 22) {
+
+        for (let i = 0; i < 22; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 23) {
+
+        for (let i = 0; i < 23; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 24) {
+
+        for (let i = 0; i < 24; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 25) {
+
+        for (let i = 0; i < 25; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 26) {
+
+        for (let i = 0; i < 26; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 27) {
+
+        for (let i = 0; i < 27; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 28) {
+
+        for (let i = 0; i < 28; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 29) {
+
+        for (let i = 0; i < 29; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 30) {
+
+        for (let i = 0; i < 30; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 31) {
+
+        for (let i = 0; i < 31; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 32) {
+
+        for (let i = 0; i < 32; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 33) {
+
+        for (let i = 0; i < 33; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 34) {
+
+        for (let i = 0; i < 34; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 35) {
+
+        for (let i = 0; i < 35; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 36) {
+
+        for (let i = 0; i < 36; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 37) {
+
+        for (let i = 0; i < 37; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 38) {
+
+        for (let i = 0; i < 38; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 39) {
+
+        for (let i = 0; i < 39; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 40) {
+
+        for (let i = 0; i < 40; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 41) {
+
+        for (let i = 0; i < 41; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 42) {
+
+        for (let i = 0; i < 42; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 43) {
+
+        for (let i = 0; i < 43; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 44) {
+
+        for (let i = 0; i < 44; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 45) {
+
+        for (let i = 0; i < 45; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 46) {
+
+        for (let i = 0; i < 46; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 47) {
+
+        for (let i = 0; i < 47; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 48) {
+
+        for (let i = 0; i < 48; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 49) {
+
+        for (let i = 0; i < 49; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 50) {
+
+        for (let i = 0; i < 50; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 51) {
+
+        for (let i = 0; i < 51; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 52) {
+
+        for (let i = 0; i < 52; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 53) {
+
+        for (let i = 0; i < 53; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 54) {
+
+        for (let i = 0; i < 54; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 55) {
+
+        for (let i = 0; i < 55; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 56) {
+
+        for (let i = 0; i < 56; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 57) {
+
+        for (let i = 0; i < 57; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 58) {
+
+        for (let i = 0; i < 58; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 59) {
+
+        for (let i = 0; i < 59; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 60) {
+
+        for (let i = 0; i < 60; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+
+    else if (count == 61) {
+
+        for (let i = 0; i < 61; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 62) {
+
+        for (let i = 0; i < 62; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (count == 63) {
+
+        for (let i = 0; i < 63; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }   
+    
+})  
 
 volver.addEventListener('click', () => {
     setTimeout(() => {
@@ -22,6 +541,7 @@ volver.addEventListener('click', () => {
             containerTempo.classList.toggle('containerTempo')
 
             contIconSearch.classList.toggle('contIconSearch')
+            Buscar.classList.toggle('glow-on-hoverB')
             volver.classList.toggle('glow-on-hoverV')
             SearchBox.classList.toggle('SearchBox')
 
@@ -38,6 +558,10 @@ volver.addEventListener('click', () => {
 contIconSearch.addEventListener('click', () => {
 
     if (SearchBox.value == 1928) {
+
+        buttonsCont.style.display= 'none'
+        contIconSearch.style.display = 'none'
+        SearchBox.style.display = 'none'
 
         for (let i = 0; i < 1; i++) {
 
@@ -639,7 +1163,8 @@ contIconSearch.addEventListener('click', () => {
         }, 40000);
     }
     else if (SearchBox.value == 2009) {
-
+        prueba++
+        console.log(prueba);
         for (let i = 0; i < 61; i++) {
             setTimeout(nextfunction, i * 100)  
         }
@@ -668,6 +1193,7 @@ contIconSearch.addEventListener('click', () => {
 btnN.addEventListener('click', nextfunction)
 
 function nextfunction() {
+    count++
     let lists = document.querySelectorAll('.item')
     document.getElementById('slide').appendChild(lists[0])
     console.log(lists[1].id);
@@ -690,6 +1216,7 @@ function nextfunction() {
 btnB.addEventListener('click', prev)
 
 function prev() {
+    count--
     let lists = document.querySelectorAll('.item')
     let slide = document.getElementById('slide')
     slide.prepend(lists[lists.length - 1])
@@ -826,6 +1353,7 @@ window.addEventListener('load', () => {
         containerTempo.classList.toggle('containerTempo')
 
         contIconSearch.classList.toggle('contIconSearch')
+        Buscar.classList.toggle('glow-on-hoverB')
         volver.classList.toggle('glow-on-hoverV')
         SearchBox.classList.toggle('SearchBox')
     }, 1200);
@@ -835,7 +1363,7 @@ window.addEventListener('load', () => {
 
 /* temporizador para detectar innactividad del usuario */
 
-let tiempoInactividad = 60000; // tiempo en milisegundos (5 segundos)
+let tiempoInactividad = 100000; // tiempo en milisegundos (5 segundos)
 let temporizador;
 
 // Reinicia el temporizador
@@ -853,6 +1381,7 @@ function reiniciarTemporizador() {
         containerTempo.classList.toggle('containerTempo')
 
         volver.classList.toggle('glow-on-hoverV')
+        Buscar.classList.toggle('glow-on-hoverB')
         contIconSearch.classList.toggle('contIconSearch')
         SearchBox.classList.toggle('SearchBox')
         setTimeout(() => {
@@ -870,7 +1399,9 @@ document.addEventListener("keydown", reiniciarTemporizador);
 // Inicia el temporizador inicial
 reiniciarTemporizador();
 
+
 window.addEventListener('load', () => {
+    
     if (back == 1927) {
         btnB.style.visibility="hidden"
     }
