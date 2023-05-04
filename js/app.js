@@ -16,520 +16,13 @@ let Buscar = document.getElementById('Buscar')
 let volver = document.getElementById('volver')
 
 Buscar.addEventListener('click', () => {
-    btnN.style.display = 'none'
-    btnB.style.display = 'none'
 
     contIconSearch.classList.toggle('hiddenButton')
     SearchBox.classList.toggle('hiddenSearch')
 
-    if (count == 1) {
 
-        for (let i = 0; i < 1; i++) {
 
-            setTimeout(prev, i * 100)
-
-        }
-    }
-
-    else if (count == 2) {
-
-        for (let i = 0; i < 2; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 3) {
-
-        for (let i = 0; i < 3; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 4) {
-
-        for (let i = 0; i < 4; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 5) {
-
-        for (let i = 0; i < 5; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 6) {
-
-        for (let i = 0; i < 6; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 7) {
-
-        for (let i = 0; i < 7; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 8) {
-
-        for (let i = 0; i < 8; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 9) {
-
-        for (let i = 0; i < 9; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 10) {
-
-        for (let i = 0; i < 10; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 11) {
-
-        for (let i = 0; i < 11; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 12) {
-
-        for (let i = 0; i < 12; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 13) {
-
-        for (let i = 0; i < 13; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 14) {
-
-        for (let i = 0; i < 14; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 15) {
-
-        for (let i = 0; i < 15; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 16) {
-
-        for (let i = 0; i < 16; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 17) {
-
-        for (let i = 0; i < 17; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 18) {
-
-        for (let i = 0; i < 18; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 19) {
-
-        for (let i = 0; i < 19; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 20) {
-
-        for (let i = 0; i < 20; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 21) {
-
-        for (let i = 0; i < 21; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 22) {
-
-        for (let i = 0; i < 22; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 23) {
-
-        for (let i = 0; i < 23; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 24) {
-
-        for (let i = 0; i < 24; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 25) {
-
-        for (let i = 0; i < 25; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 26) {
-
-        for (let i = 0; i < 26; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 27) {
-
-        for (let i = 0; i < 27; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 28) {
-
-        for (let i = 0; i < 28; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 29) {
-
-        for (let i = 0; i < 29; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 30) {
-
-        for (let i = 0; i < 30; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 31) {
-
-        for (let i = 0; i < 31; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 32) {
-
-        for (let i = 0; i < 32; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 33) {
-
-        for (let i = 0; i < 33; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 34) {
-
-        for (let i = 0; i < 34; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 35) {
-
-        for (let i = 0; i < 35; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 36) {
-
-        for (let i = 0; i < 36; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 37) {
-
-        for (let i = 0; i < 37; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 38) {
-
-        for (let i = 0; i < 38; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 39) {
-
-        for (let i = 0; i < 39; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 40) {
-
-        for (let i = 0; i < 40; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 41) {
-
-        for (let i = 0; i < 41; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 42) {
-
-        for (let i = 0; i < 42; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 43) {
-
-        for (let i = 0; i < 43; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 44) {
-
-        for (let i = 0; i < 44; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 45) {
-
-        for (let i = 0; i < 45; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 46) {
-
-        for (let i = 0; i < 46; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 47) {
-
-        for (let i = 0; i < 47; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 48) {
-
-        for (let i = 0; i < 48; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 49) {
-
-        for (let i = 0; i < 49; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 50) {
-
-        for (let i = 0; i < 50; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 51) {
-
-        for (let i = 0; i < 51; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 52) {
-
-        for (let i = 0; i < 52; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 53) {
-
-        for (let i = 0; i < 53; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 54) {
-
-        for (let i = 0; i < 54; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 55) {
-
-        for (let i = 0; i < 55; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 56) {
-
-        for (let i = 0; i < 56; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 57) {
-
-        for (let i = 0; i < 57; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 58) {
-
-        for (let i = 0; i < 58; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 59) {
-
-        for (let i = 0; i < 59; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 60) {
-
-        for (let i = 0; i < 60; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-
-    else if (count == 61) {
-
-        for (let i = 0; i < 61; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 62) {
-
-        for (let i = 0; i < 62; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (count == 63) {
-
-        for (let i = 0; i < 63; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }   
-    
-})  
+})
 
 volver.addEventListener('click', () => {
     setTimeout(() => {
@@ -557,829 +50,3156 @@ volver.addEventListener('click', () => {
 
 contIconSearch.addEventListener('click', () => {
 
-    if (SearchBox.value == 1928) {
-
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
+    if (SearchBox.value == 1928 && back == 1927 && next == 1928) {
 
         for (let i = 0; i < 1; i++) {
 
             setTimeout(nextfunction, i * 100)
 
         }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
     }
-    else if (SearchBox.value == 1929) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
+    else if (SearchBox.value == 1928 && back == 1929 && next == 1930) {
+        for (let i = 0; i < 1; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1930 && next == 1931) {
+        for (let i = 0; i < 2; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1931 && next == 1932) {
+        for (let i = 0; i < 3; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1932 && next == 1933) {
+        for (let i = 0; i < 4; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1933 && next == 1934) {
+        for (let i = 0; i < 5; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1934 && next == 1935) {
+        for (let i = 0; i < 6; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1935 && next == 1936) {
+        for (let i = 0; i < 7; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1936 && next == 1937) {
+        for (let i = 0; i < 8; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1937 && next == 1938) {
+        for (let i = 0; i < 9; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1938 && next == 1939) {
+        for (let i = 0; i < 10; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1939 && next == 1940) {
+        for (let i = 0; i < 11; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+
+    else if (SearchBox.value == 1928 && back == 1940 && next == 1941) {
+        for (let i = 0; i < 12; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1941 && next == 1942) {
+        for (let i = 0; i < 13; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1942 && next == 1943) {
+        for (let i = 0; i < 14; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1943 && next == 1944) {
+        for (let i = 0; i < 15; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1944 && next == 1945) {
+        for (let i = 0; i < 16; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1945 && next == 1946) {
+        for (let i = 0; i < 17; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1946 && next == 1947) {
+        for (let i = 0; i < 18; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1947 && next == 1948) {
+        for (let i = 0; i < 19; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1948 && next == 1949) {
+        for (let i = 0; i < 20; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1949 && next == 1950) {
+        for (let i = 0; i < 21; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1950 && next == 1951) {
+        for (let i = 0; i < 22; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1951 && next == 1952) {
+        for (let i = 0; i < 23; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1952 && next == 1953) {
+        for (let i = 0; i < 24; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1953 && next == 1954) {
+        for (let i = 0; i < 25; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1954 && next == 1955) {
+        for (let i = 0; i < 26; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1955 && next == 1956) {
+        for (let i = 0; i < 27; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1956 && next == 1957) {
+        for (let i = 0; i < 28; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1957 && next == 1958) {
+        for (let i = 0; i < 29; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1958 && next == 1959) {
+        for (let i = 0; i < 30; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1959 && next == 1960) {
+        for (let i = 0; i < 31; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1960 && next == 1961) {
+        for (let i = 0; i < 32; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1961 && next == 1962) {
+        for (let i = 0; i < 33; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1962 && next == 1963) {
+        for (let i = 0; i < 34; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1963 && next == 1964) {
+        for (let i = 0; i < 35; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1964 && next == 1965) {
+        for (let i = 0; i < 36; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1965 && next == 1966) {
+        for (let i = 0; i < 37; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+
+    else if (SearchBox.value == 1928 && back == 1966 && next == 1967) {
+        for (let i = 0; i < 38; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1967 && next == 1968) {
+        for (let i = 0; i < 39; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1968 && next == 1969) {
+        for (let i = 0; i < 40; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1969 && next == 1970) {
+        for (let i = 0; i < 41; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1970 && next == 1971) {
+        for (let i = 0; i < 42; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1971 && next == 1972) {
+        for (let i = 0; i < 43; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1972 && next == 1973) {
+        for (let i = 0; i < 44; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1973 && next == 1974) {
+        for (let i = 0; i < 45; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1974 && next == 1975) {
+        for (let i = 0; i < 46; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1975 && next == 1976) {
+        for (let i = 0; i < 47; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1976 && next == 1977) {
+        for (let i = 0; i < 48; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1977 && next == 1978) {
+        for (let i = 0; i < 49; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1978 && next == 1979) {
+        for (let i = 0; i < 50; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1979 && next == 1980) {
+        for (let i = 0; i < 51; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1980 && next == 1981) {
+        for (let i = 0; i < 52; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1981 && next == 1982) {
+        for (let i = 0; i < 53; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1982 && next == 1983) {
+        for (let i = 0; i < 54; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1983 && next == 1984) {
+        for (let i = 0; i < 55; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1984 && next == 1985) {
+        for (let i = 0; i < 56; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1985 && next == 1986) {
+        for (let i = 0; i < 57; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1986 && next == 1987) {
+        for (let i = 0; i < 58; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1987 && next == 1988) {
+        for (let i = 0; i < 59; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1988 && next == 1989) {
+        for (let i = 0; i < 60; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1989 && next == 1990) {
+        for (let i = 0; i < 61; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1928 && back == 1990 && next == 1991) {
+        for (let i = 0; i < 62; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+
+    //===================1929====================
+
+    if (SearchBox.value == 1929 && back == 1927 && next == 1928) {
 
         for (let i = 0; i < 2; i++) {
+
             setTimeout(nextfunction, i * 100)
-            
+
         }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
     }
-    else if (SearchBox.value == 1931) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
+    else if (SearchBox.value == 1929 && back == 1928 && next == 1929) {
+        for (let i = 0; i < 1; i++) {
+
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1930 && next == 1931) {
+        for (let i = 0; i < 1; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1931 && next == 1932) {
+        for (let i = 0; i < 2; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1932 && next == 1933) {
+        for (let i = 0; i < 3; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1933 && next == 1934) {
+        for (let i = 0; i < 4; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1934 && next == 1935) {
+        for (let i = 0; i < 5; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1935 && next == 1936) {
+        for (let i = 0; i < 6; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1936 && next == 1937) {
+        for (let i = 0; i < 7; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1937 && next == 1938) {
+        for (let i = 0; i < 8; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1938 && next == 1939) {
+        for (let i = 0; i < 9; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1939 && next == 1940) {
+        for (let i = 0; i < 10; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+
+    else if (SearchBox.value == 1929 && back == 1940 && next == 1941) {
+        for (let i = 0; i < 11; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1941 && next == 1942) {
+        for (let i = 0; i < 12; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1942 && next == 1943) {
+        for (let i = 0; i < 13; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1943 && next == 1944) {
+        for (let i = 0; i < 14; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1944 && next == 1945) {
+        for (let i = 0; i < 15; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1945 && next == 1946) {
+        for (let i = 0; i < 16; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1946 && next == 1947) {
+        for (let i = 0; i < 17; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1947 && next == 1948) {
+        for (let i = 0; i < 18; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1948 && next == 1949) {
+        for (let i = 0; i < 19; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1949 && next == 1950) {
+        for (let i = 0; i < 20; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1950 && next == 1951) {
+        for (let i = 0; i < 21; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1951 && next == 1952) {
+        for (let i = 0; i < 22; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1952 && next == 1953) {
+        for (let i = 0; i < 23; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1953 && next == 1954) {
+        for (let i = 0; i < 24; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1954 && next == 1955) {
+        for (let i = 0; i < 25; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1955 && next == 1956) {
+        for (let i = 0; i < 26; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1956 && next == 1957) {
+        for (let i = 0; i < 27; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1957 && next == 1958) {
+        for (let i = 0; i < 28; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1958 && next == 1959) {
+        for (let i = 0; i < 29; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1959 && next == 1960) {
+        for (let i = 0; i < 30; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1960 && next == 1961) {
+        for (let i = 0; i < 31; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1961 && next == 1962) {
+        for (let i = 0; i < 32; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1962 && next == 1963) {
+        for (let i = 0; i < 33; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1963 && next == 1964) {
+        for (let i = 0; i < 34; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1964 && next == 1965) {
+        for (let i = 0; i < 35; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1965 && next == 1966) {
+        for (let i = 0; i < 36; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+
+    else if (SearchBox.value == 1929 && back == 1966 && next == 1967) {
+        for (let i = 0; i < 37; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1967 && next == 1968) {
+        for (let i = 0; i < 38; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1968 && next == 1969) {
+        for (let i = 0; i < 39; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1969 && next == 1970) {
+        for (let i = 0; i < 40; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1970 && next == 1971) {
+        for (let i = 0; i < 41; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1971 && next == 1972) {
+        for (let i = 0; i < 42; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1972 && next == 1973) {
+        for (let i = 0; i < 43; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1973 && next == 1974) {
+        for (let i = 0; i < 44; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1974 && next == 1975) {
+        for (let i = 0; i < 45; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1975 && next == 1976) {
+        for (let i = 0; i < 46; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1976 && next == 1977) {
+        for (let i = 0; i < 47; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1977 && next == 1978) {
+        for (let i = 0; i < 48; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1978 && next == 1979) {
+        for (let i = 0; i < 49; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1979 && next == 1980) {
+        for (let i = 0; i < 50; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1980 && next == 1981) {
+        for (let i = 0; i < 51; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1981 && next == 1982) {
+        for (let i = 0; i < 52; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1982 && next == 1983) {
+        for (let i = 0; i < 53; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1983 && next == 1984) {
+        for (let i = 0; i < 54; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1984 && next == 1985) {
+        for (let i = 0; i < 55; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1985 && next == 1986) {
+        for (let i = 0; i < 56; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1986 && next == 1987) {
+        for (let i = 0; i < 57; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1987 && next == 1988) {
+        for (let i = 0; i < 58; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1988 && next == 1989) {
+        for (let i = 0; i < 59; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1989 && next == 1990) {
+        for (let i = 0; i < 60; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1929 && back == 1990 && next == 1991) {
+        for (let i = 0; i < 61; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+
+    // = = = = = = = = =  =  1931 = = = = = = = = 
+
+    if (SearchBox.value == 1931 && back == 1927 && next == 1928) {
 
         for (let i = 0; i < 3; i++) {
+
             setTimeout(nextfunction, i * 100)
-            
+
         }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
     }
-    else if (SearchBox.value == 1932) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
+    else if (SearchBox.value == 1931 && back == 1928 && next == 1929) {
+        for (let i = 0; i < 2; i++) {
+
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1929 && next == 1930) {
+        for (let i = 0; i < 1; i++) {
+
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1931 && next == 1932) {
+        for (let i = 0; i < 1; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1932 && next == 1933) {
+        for (let i = 0; i < 2; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1933 && next == 1934) {
+        for (let i = 0; i < 3; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1934 && next == 1935) {
+        for (let i = 0; i < 4; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1935 && next == 1936) {
+        for (let i = 0; i < 5; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1936 && next == 1937) {
+        for (let i = 0; i < 6; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1937 && next == 1938) {
+        for (let i = 0; i < 7; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1938 && next == 1939) {
+        for (let i = 0; i < 8; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1939 && next == 1940) {
+        for (let i = 0; i < 9; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+
+    else if (SearchBox.value == 1931 && back == 1940 && next == 1941) {
+        for (let i = 0; i < 10; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1941 && next == 1942) {
+        for (let i = 0; i < 11; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1942 && next == 1943) {
+        for (let i = 0; i < 12; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1943 && next == 1944) {
+        for (let i = 0; i < 13; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1944 && next == 1945) {
+        for (let i = 0; i < 14; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1945 && next == 1946) {
+        for (let i = 0; i < 15; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1946 && next == 1947) {
+        for (let i = 0; i < 16; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1947 && next == 1948) {
+        for (let i = 0; i < 17; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1948 && next == 1949) {
+        for (let i = 0; i < 18; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1949 && next == 1950) {
+        for (let i = 0; i < 19; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1950 && next == 1951) {
+        for (let i = 0; i < 20; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1951 && next == 1952) {
+        for (let i = 0; i < 21; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1952 && next == 1953) {
+        for (let i = 0; i < 22; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1953 && next == 1954) {
+        for (let i = 0; i < 23; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1954 && next == 1955) {
+        for (let i = 0; i < 24; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1955 && next == 1956) {
+        for (let i = 0; i < 25; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1956 && next == 1957) {
+        for (let i = 0; i < 26; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1957 && next == 1958) {
+        for (let i = 0; i < 27; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1958 && next == 1959) {
+        for (let i = 0; i < 28; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1959 && next == 1960) {
+        for (let i = 0; i < 29; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1960 && next == 1961) {
+        for (let i = 0; i < 30; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1961 && next == 1962) {
+        for (let i = 0; i < 31; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1962 && next == 1963) {
+        for (let i = 0; i < 32; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1963 && next == 1964) {
+        for (let i = 0; i < 33; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1964 && next == 1965) {
+        for (let i = 0; i < 34; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1965 && next == 1966) {
+        for (let i = 0; i < 35; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+
+    else if (SearchBox.value == 1931 && back == 1966 && next == 1967) {
+        for (let i = 0; i < 36; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1967 && next == 1968) {
+        for (let i = 0; i < 37; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1968 && next == 1969) {
+        for (let i = 0; i < 38; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1969 && next == 1970) {
+        for (let i = 0; i < 39; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1970 && next == 1971) {
+        for (let i = 0; i < 40; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1971 && next == 1972) {
+        for (let i = 0; i < 41; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1972 && next == 1973) {
+        for (let i = 0; i < 42; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1973 && next == 1974) {
+        for (let i = 0; i < 43; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1974 && next == 1975) {
+        for (let i = 0; i < 44; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1975 && next == 1976) {
+        for (let i = 0; i < 45; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1976 && next == 1977) {
+        for (let i = 0; i < 46; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1977 && next == 1978) {
+        for (let i = 0; i < 47; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1978 && next == 1979) {
+        for (let i = 0; i < 48; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1979 && next == 1980) {
+        for (let i = 0; i < 49; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1980 && next == 1981) {
+        for (let i = 0; i < 50; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1981 && next == 1982) {
+        for (let i = 0; i < 51; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1982 && next == 1983) {
+        for (let i = 0; i < 52; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1983 && next == 1984) {
+        for (let i = 0; i < 53; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1984 && next == 1985) {
+        for (let i = 0; i < 54; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1985 && next == 1986) {
+        for (let i = 0; i < 55; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1986 && next == 1987) {
+        for (let i = 0; i < 56; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1987 && next == 1988) {
+        for (let i = 0; i < 57; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1988 && next == 1989) {
+        for (let i = 0; i < 58; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1989 && next == 1990) {
+        for (let i = 0; i < 59; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1931 && back == 1990 && next == 1991) {
+        for (let i = 0; i < 60; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    //  = = = = = = = = = = 1932 = = = = = = = = = = = =
+
+    if (SearchBox.value == 1932 && back == 1927 && next == 1928) {
 
         for (let i = 0; i < 4; i++) {
+
             setTimeout(nextfunction, i * 100)
-            
+
         }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
     }
-    else if (SearchBox.value == 1936) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
+    else if (SearchBox.value == 1932 && back == 1928 && next == 1929) {
+        for (let i = 0; i < 3; i++) {
+
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1929 && next == 1930) {
+        for (let i = 0; i < 2; i++) {
+
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1931 && next == 1932) {
+        for (let i = 0; i < 1; i++) {
+
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1932 && next == 1933) {
+        for (let i = 0; i < 1; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1933 && next == 1934) {
+        for (let i = 0; i < 2; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1934 && next == 1935) {
+        for (let i = 0; i < 3; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1935 && next == 1936) {
+        for (let i = 0; i < 4; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1936 && next == 1937) {
+        for (let i = 0; i < 5; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1937 && next == 1938) {
+        for (let i = 0; i < 6; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1938 && next == 1939) {
+        for (let i = 0; i < 7; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1939 && next == 1940) {
+        for (let i = 0; i < 8; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+
+    else if (SearchBox.value == 1932 && back == 1940 && next == 1941) {
+        for (let i = 0; i < 9; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1941 && next == 1942) {
+        for (let i = 0; i < 10; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1942 && next == 1943) {
+        for (let i = 0; i < 11; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1943 && next == 1944) {
+        for (let i = 0; i < 12; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1944 && next == 1945) {
+        for (let i = 0; i < 13; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1945 && next == 1946) {
+        for (let i = 0; i < 14; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1946 && next == 1947) {
+        for (let i = 0; i < 15; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1947 && next == 1948) {
+        for (let i = 0; i < 16; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1948 && next == 1949) {
+        for (let i = 0; i < 17; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1949 && next == 1950) {
+        for (let i = 0; i < 18; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1950 && next == 1951) {
+        for (let i = 0; i < 19; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1951 && next == 1952) {
+        for (let i = 0; i < 20; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1952 && next == 1953) {
+        for (let i = 0; i < 21; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1953 && next == 1954) {
+        for (let i = 0; i < 22; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1954 && next == 1955) {
+        for (let i = 0; i < 23; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1955 && next == 1956) {
+        for (let i = 0; i < 24; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1956 && next == 1957) {
+        for (let i = 0; i < 25; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1957 && next == 1958) {
+        for (let i = 0; i < 26; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1958 && next == 1959) {
+        for (let i = 0; i < 27; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1959 && next == 1960) {
+        for (let i = 0; i < 28; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1960 && next == 1961) {
+        for (let i = 0; i < 29; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1961 && next == 1962) {
+        for (let i = 0; i < 30; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1962 && next == 1963) {
+        for (let i = 0; i < 31; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1963 && next == 1964) {
+        for (let i = 0; i < 32; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1964 && next == 1965) {
+        for (let i = 0; i < 33; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1965 && next == 1966) {
+        for (let i = 0; i < 34; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+
+    else if (SearchBox.value == 1932 && back == 1966 && next == 1967) {
+        for (let i = 0; i < 35; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1967 && next == 1968) {
+        for (let i = 0; i < 36; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1968 && next == 1969) {
+        for (let i = 0; i < 37; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1969 && next == 1970) {
+        for (let i = 0; i < 38; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1970 && next == 1971) {
+        for (let i = 0; i < 39; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1971 && next == 1972) {
+        for (let i = 0; i < 40; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1972 && next == 1973) {
+        for (let i = 0; i < 41; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1973 && next == 1974) {
+        for (let i = 0; i < 42; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1974 && next == 1975) {
+        for (let i = 0; i < 43; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1975 && next == 1976) {
+        for (let i = 0; i < 44; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1976 && next == 1977) {
+        for (let i = 0; i < 45; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1977 && next == 1978) {
+        for (let i = 0; i < 46; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1978 && next == 1979) {
+        for (let i = 0; i < 47; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1979 && next == 1980) {
+        for (let i = 0; i < 48; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1980 && next == 1981) {
+        for (let i = 0; i < 49; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1981 && next == 1982) {
+        for (let i = 0; i < 50; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1982 && next == 1983) {
+        for (let i = 0; i < 51; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1983 && next == 1984) {
+        for (let i = 0; i < 52; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1984 && next == 1985) {
+        for (let i = 0; i < 53; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1985 && next == 1986) {
+        for (let i = 0; i < 54; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1986 && next == 1987) {
+        for (let i = 0; i < 55; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1987 && next == 1988) {
+        for (let i = 0; i < 56; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1988 && next == 1989) {
+        for (let i = 0; i < 57; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1989 && next == 1990) {
+        for (let i = 0; i < 58; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1932 && back == 1990 && next == 1991) {
+        for (let i = 0; i < 59; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+
+    //= = = = = = = = = = 1936 = = = = = = = = = = = = = = =
+
+    if (SearchBox.value == 1936 && back == 1927 && next == 1928) {
 
         for (let i = 0; i < 5; i++) {
+
             setTimeout(nextfunction, i * 100)
-            
+
         }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
     }
-    else if (SearchBox.value == 1937) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
+    else if (SearchBox.value == 1936 && back == 1928 && next == 1929) {
+        for (let i = 0; i < 4; i++) {
+
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1929 && next == 1930) {
+        for (let i = 0; i < 3; i++) {
+
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1931 && next == 1932) {
+        for (let i = 0; i < 2; i++) {
+
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1932 && next == 1933) {
+        for (let i = 0; i < 1; i++) {
+
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1933 && next == 1934) {
+        for (let i = 0; i < 1; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1934 && next == 1935) {
+        for (let i = 0; i < 2; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1935 && next == 1936) {
+        for (let i = 0; i < 3; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1936 && next == 1937) {
+        for (let i = 0; i < 4; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1937 && next == 1938) {
+        for (let i = 0; i < 5; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1938 && next == 1939) {
+        for (let i = 0; i < 6; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1939 && next == 1940) {
+        for (let i = 0; i < 7; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+
+    else if (SearchBox.value == 1936 && back == 1940 && next == 1941) {
+        for (let i = 0; i < 8; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1941 && next == 1942) {
+        for (let i = 0; i < 9; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1942 && next == 1943) {
+        for (let i = 0; i < 10; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1943 && next == 1944) {
+        for (let i = 0; i < 11; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1944 && next == 1945) {
+        for (let i = 0; i < 12; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1945 && next == 1946) {
+        for (let i = 0; i < 13; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1946 && next == 1947) {
+        for (let i = 0; i < 14; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1947 && next == 1948) {
+        for (let i = 0; i < 15; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1948 && next == 1949) {
+        for (let i = 0; i < 16; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1949 && next == 1950) {
+        for (let i = 0; i < 17; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1950 && next == 1951) {
+        for (let i = 0; i < 18; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1951 && next == 1952) {
+        for (let i = 0; i < 19; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1952 && next == 1953) {
+        for (let i = 0; i < 20; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1953 && next == 1954) {
+        for (let i = 0; i < 21; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1954 && next == 1955) {
+        for (let i = 0; i < 22; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1955 && next == 1956) {
+        for (let i = 0; i < 23; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1956 && next == 1957) {
+        for (let i = 0; i < 24; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1957 && next == 1958) {
+        for (let i = 0; i < 25; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1958 && next == 1959) {
+        for (let i = 0; i < 26; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1959 && next == 1960) {
+        for (let i = 0; i < 27; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1960 && next == 1961) {
+        for (let i = 0; i < 28; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1961 && next == 1962) {
+        for (let i = 0; i < 29; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1962 && next == 1963) {
+        for (let i = 0; i < 30; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1963 && next == 1964) {
+        for (let i = 0; i < 31; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1964 && next == 1965) {
+        for (let i = 0; i < 32; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1965 && next == 1966) {
+        for (let i = 0; i < 33; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+
+    else if (SearchBox.value == 1936 && back == 1966 && next == 1967) {
+        for (let i = 0; i < 34; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1967 && next == 1968) {
+        for (let i = 0; i < 35; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1968 && next == 1969) {
+        for (let i = 0; i < 36; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1969 && next == 1970) {
+        for (let i = 0; i < 37; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1970 && next == 1971) {
+        for (let i = 0; i < 38; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1971 && next == 1972) {
+        for (let i = 0; i < 39; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1972 && next == 1973) {
+        for (let i = 0; i < 40; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1973 && next == 1974) {
+        for (let i = 0; i < 41; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1974 && next == 1975) {
+        for (let i = 0; i < 42; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1975 && next == 1976) {
+        for (let i = 0; i < 43; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1976 && next == 1977) {
+        for (let i = 0; i < 44; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1977 && next == 1978) {
+        for (let i = 0; i < 45; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1978 && next == 1979) {
+        for (let i = 0; i < 46; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1979 && next == 1980) {
+        for (let i = 0; i < 47; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1980 && next == 1981) {
+        for (let i = 0; i < 48; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1981 && next == 1982) {
+        for (let i = 0; i < 49; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1982 && next == 1983) {
+        for (let i = 0; i < 50; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1983 && next == 1984) {
+        for (let i = 0; i < 51; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1984 && next == 1985) {
+        for (let i = 0; i < 52; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1985 && next == 1986) {
+        for (let i = 0; i < 53; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1986 && next == 1987) {
+        for (let i = 0; i < 54; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1987 && next == 1988) {
+        for (let i = 0; i < 55; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1988 && next == 1989) {
+        for (let i = 0; i < 56; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1989 && next == 1990) {
+        for (let i = 0; i < 57; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1936 && back == 1990 && next == 1991) {
+        for (let i = 0; i < 58; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+
+    //= = = = = = = 1937 = = = = = = = = = = = = = 
+
+
+    if (SearchBox.value == 1937 && back == 1927 && next == 1928) {
 
         for (let i = 0; i < 6; i++) {
+
             setTimeout(nextfunction, i * 100)
-            
+
         }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
     }
-    else if (SearchBox.value == 1938) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
+    else if (SearchBox.value == 1937 && back == 1928 && next == 1929) {
+        for (let i = 0; i < 5; i++) {
+
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1929 && next == 1930) {
+        for (let i = 0; i < 4; i++) {
+
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1930 && next == 1931) {
+        for (let i = 0; i < 3; i++) {
+
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1931 && next == 1932) {
+        for (let i = 0; i < 2; i++) {
+
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1932 && next == 1933) {
+        for (let i = 0; i < 1; i++) {
+
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1933 && next == 1934) {
+        for (let i = 0; i < 1; i++) {
+
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1934 && next == 1935) {
+        for (let i = 0; i < 1; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1935 && next == 1936) {
+        for (let i = 0; i < 2; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1936 && next == 1937) {
+        for (let i = 0; i < 3; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1937 && next == 1938) {
+        for (let i = 0; i < 4; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1938 && next == 1939) {
+        for (let i = 0; i < 5; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1939 && next == 1940) {
+        for (let i = 0; i < 6; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+
+    else if (SearchBox.value == 1937 && back == 1940 && next == 1941) {
+        for (let i = 0; i < 7; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1941 && next == 1942) {
+        for (let i = 0; i < 8; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1942 && next == 1943) {
+        for (let i = 0; i < 9; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1943 && next == 1944) {
+        for (let i = 0; i < 10; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1944 && next == 1945) {
+        for (let i = 0; i < 11; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1945 && next == 1946) {
+        for (let i = 0; i < 12; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1946 && next == 1947) {
+        for (let i = 0; i < 13; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1947 && next == 1948) {
+        for (let i = 0; i < 14; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1948 && next == 1949) {
+        for (let i = 0; i < 15; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1949 && next == 1950) {
+        for (let i = 0; i < 16; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1950 && next == 1951) {
+        for (let i = 0; i < 17; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1951 && next == 1952) {
+        for (let i = 0; i < 18; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1952 && next == 1953) {
+        for (let i = 0; i < 19; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1953 && next == 1954) {
+        for (let i = 0; i < 20; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1954 && next == 1955) {
+        for (let i = 0; i < 21; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1955 && next == 1956) {
+        for (let i = 0; i < 22; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1956 && next == 1957) {
+        for (let i = 0; i < 23; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1957 && next == 1958) {
+        for (let i = 0; i < 24; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1958 && next == 1959) {
+        for (let i = 0; i < 25; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1959 && next == 1960) {
+        for (let i = 0; i < 26; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1960 && next == 1961) {
+        for (let i = 0; i < 27; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1961 && next == 1962) {
+        for (let i = 0; i < 28; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1962 && next == 1963) {
+        for (let i = 0; i < 29; i++) {
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1963 && next == 1964) {
+        for (let i = 0; i < 30; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1964 && next == 1965) {
+        for (let i = 0; i < 31; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1965 && next == 1966) {
+        for (let i = 0; i < 32; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+
+    else if (SearchBox.value == 1937 && back == 1966 && next == 1967) {
+        for (let i = 0; i < 33; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1967 && next == 1968) {
+        for (let i = 0; i < 34; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1968 && next == 1969) {
+        for (let i = 0; i < 35; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1969 && next == 1970) {
+        for (let i = 0; i < 36; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1970 && next == 1971) {
+        for (let i = 0; i < 37; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1971 && next == 1972) {
+        for (let i = 0; i < 38; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1972 && next == 1973) {
+        for (let i = 0; i < 39; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1973 && next == 1974) {
+        for (let i = 0; i < 40; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1974 && next == 1975) {
+        for (let i = 0; i < 41; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1975 && next == 1976) {
+        for (let i = 0; i < 42; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1976 && next == 1977) {
+        for (let i = 0; i < 43; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1977 && next == 1978) {
+        for (let i = 0; i < 44; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1978 && next == 1979) {
+        for (let i = 0; i < 45; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1979 && next == 1980) {
+        for (let i = 0; i < 46; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1980 && next == 1981) {
+        for (let i = 0; i < 47; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1981 && next == 1982) {
+        for (let i = 0; i < 48; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1982 && next == 1983) {
+        for (let i = 0; i < 49; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1983 && next == 1984) {
+        for (let i = 0; i < 50; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1984 && next == 1985) {
+        for (let i = 0; i < 51; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1985 && next == 1986) {
+        for (let i = 0; i < 52; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1986 && next == 1987) {
+        for (let i = 0; i < 53; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1987 && next == 1988) {
+        for (let i = 0; i < 54; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1988 && next == 1989) {
+        for (let i = 0; i < 55; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1989 && next == 1990) {
+        for (let i = 0; i < 56; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1937 && back == 1990 && next == 1991) {
+        for (let i = 0; i < 57; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+
+
+
+    //= = = = = = = = = 1938 = = = = = = = = = 
+
+    if (SearchBox.value == 1938 && back == 1927 && next == 1928) {
 
         for (let i = 0; i < 7; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1940) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1928 && next == 1929) {
+        for (let i = 0; i < 6; i++) {
+
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1929 && next == 1930) {
+        for (let i = 0; i < 5; i++) {
+
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1930 && next == 1931) {
+        for (let i = 0; i < 4; i++) {
+
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1931 && next == 1932) {
+        for (let i = 0; i < 3; i++) {
+
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1932 && next == 1933) {
+        for (let i = 0; i < 2; i++) {
+
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1933 && next == 1934) {
+        for (let i = 0; i < 1; i++) {
+
+            setTimeout(nextfunction, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1934 && next == 1935) {
+        for (let i = 0; i < 1; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1935 && next == 1936) {
+        for (let i = 0; i < 1; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1936 && next == 1937) {
+        for (let i = 0; i < 2; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1937 && next == 1938) {
+        for (let i = 0; i < 3; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1938 && next == 1939) {
+        for (let i = 0; i < 4; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1939 && next == 1940) {
+        for (let i = 0; i < 5; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+
+    else if (SearchBox.value == 1938 && back == 1940 && next == 1941) {
+        for (let i = 0; i < 6; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1941 && next == 1942) {
+        for (let i = 0; i < 7; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1942 && next == 1943) {
         for (let i = 0; i < 8; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1941) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1943 && next == 1944) {
         for (let i = 0; i < 9; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1945) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1944 && next == 1945) {
         for (let i = 0; i < 10; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1947) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1945 && next == 1946) {
         for (let i = 0; i < 11; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1951) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1946 && next == 1947) {
         for (let i = 0; i < 12; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1952) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1947 && next == 1948) {
         for (let i = 0; i < 13; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1953) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1948 && next == 1949) {
         for (let i = 0; i < 14; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1958) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1949 && next == 1950) {
         for (let i = 0; i < 15; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1959) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1950 && next == 1951) {
         for (let i = 0; i < 16; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1960) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1951 && next == 1952) {
         for (let i = 0; i < 17; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1962) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1952 && next == 1953) {
         for (let i = 0; i < 18; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1963) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1953 && next == 1954) {
         for (let i = 0; i < 19; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1965) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1954 && next == 1955) {
         for (let i = 0; i < 20; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1966) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1955 && next == 1956) {
         for (let i = 0; i < 21; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1967) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1956 && next == 1957) {
         for (let i = 0; i < 22; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1968) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1957 && next == 1958) {
         for (let i = 0; i < 23; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1969) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1958 && next == 1959) {
         for (let i = 0; i < 24; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1970) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1959 && next == 1960) {
         for (let i = 0; i < 25; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1971) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1960 && next == 1961) {
         for (let i = 0; i < 26; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1972) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1961 && next == 1962) {
         for (let i = 0; i < 27; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1973) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1962 && next == 1963) {
         for (let i = 0; i < 28; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1974) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
+            setTimeout(prev, i * 100)
 
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1963 && next == 1964) {
         for (let i = 0; i < 29; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1975) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1964 && next == 1965) {
         for (let i = 0; i < 30; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1976) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1965 && next == 1966) {
         for (let i = 0; i < 31; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1978) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+
+    else if (SearchBox.value == 1938 && back == 1966 && next == 1967) {
         for (let i = 0; i < 32; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1979) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1967 && next == 1968) {
         for (let i = 0; i < 33; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1980) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1968 && next == 1969) {
         for (let i = 0; i < 34; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1981) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1969 && next == 1970) {
         for (let i = 0; i < 35; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1982) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1970 && next == 1971) {
         for (let i = 0; i < 36; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1983) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1971 && next == 1972) {
         for (let i = 0; i < 37; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1984) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1972 && next == 1973) {
         for (let i = 0; i < 38; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1985) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1973 && next == 1974) {
         for (let i = 0; i < 39; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1986) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1974 && next == 1975) {
         for (let i = 0; i < 40; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1987) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1975 && next == 1976) {
         for (let i = 0; i < 41; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1988) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1976 && next == 1977) {
         for (let i = 0; i < 42; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1989) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1977 && next == 1978) {
         for (let i = 0; i < 43; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1991) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1978 && next == 1979) {
         for (let i = 0; i < 44; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1993) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1979 && next == 1980) {
         for (let i = 0; i < 45; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1994) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1980 && next == 1981) {
         for (let i = 0; i < 46; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1995) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1981 && next == 1982) {
         for (let i = 0; i < 47; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1996) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1982 && next == 1983) {
         for (let i = 0; i < 48; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1997) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1983 && next == 1984) {
         for (let i = 0; i < 49; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1998) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1984 && next == 1985) {
         for (let i = 0; i < 50; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 1999) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1985 && next == 1986) {
         for (let i = 0; i < 51; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 2000) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1986 && next == 1987) {
         for (let i = 0; i < 52; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 2001) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1987 && next == 1988) {
         for (let i = 0; i < 53; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 2002) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1988 && next == 1989) {
         for (let i = 0; i < 54; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 2003) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
-        for (let i = 0; i < 53; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 2004) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
+            setTimeout(prev, i * 100)
 
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1989 && next == 1990) {
+        for (let i = 0; i < 55; i++) {
+
+            setTimeout(prev, i * 100)
+
+        }
+    }
+    else if (SearchBox.value == 1938 && back == 1990 && next == 1991) {
         for (let i = 0; i < 56; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 2005) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
-        for (let i = 0; i < 57; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 2006) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
+            setTimeout(prev, i * 100)
 
-        for (let i = 0; i < 58; i++) {
-            setTimeout(nextfunction, i * 100)
-            
         }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
     }
-    else if (SearchBox.value == 2007) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
 
-        for (let i = 0; i < 59; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 2008) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
-
-        for (let i = 0; i < 60; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
-    else if (SearchBox.value == 2009) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
-        prueba++
-        console.log(prueba);
-        for (let i = 0; i < 61; i++) {
-            setTimeout(nextfunction, i * 100)  
-        }
-        setTimeout(() => {
-            for (let i = 0; i < 1; i++) {
-                setTimeout(nextfunction, i * 100)
-                setTimeout(() => {
-                    window.location.assign('index.html')
-                }, 40000);
-            }
-        }, 40000);
-    }
-    else if (SearchBox.value == 2015) {
-        buttonsCont.style.display= 'none'
-        contIconSearch.style.display = 'none'
-        SearchBox.style.display = 'none'
-
-        for (let i = 0; i < 63; i++) {
-            setTimeout(nextfunction, i * 100)
-            
-        }
-        setTimeout(() => {
-            window.location.assign('index.html')
-        }, 40000);
-    }
 })
 
 
 btnN.addEventListener('click', nextfunction)
 
 function nextfunction() {
-    count++
     let lists = document.querySelectorAll('.item')
     document.getElementById('slide').appendChild(lists[0])
-    console.log(lists[1].id);
+    console.log(next, back);
 
     //sumar
     back = back + 1
@@ -1387,11 +3207,11 @@ function nextfunction() {
     next = next + 1
 
     if (next == 1991 && back == 1990) {
-        btnN.style.visibility= "hidden"
+        btnN.style.visibility = "hidden"
     }
-    
+
     if (back > 1927) {
-        btnB.style.visibility="visible"
+        btnB.style.visibility = "visible"
     }
 }
 
@@ -1399,33 +3219,33 @@ function nextfunction() {
 btnB.addEventListener('click', prev)
 
 function prev() {
-    count--
     let lists = document.querySelectorAll('.item')
     let slide = document.getElementById('slide')
     slide.prepend(lists[lists.length - 1])
+    console.log(next, back);
 
     //restar
     back = back - 1
     next = next - 1
 
-    if(next < 1991 && back < 1990) {
-        btnN.style.visibility= "visible"
+    if (next < 1991 && back < 1990) {
+        btnN.style.visibility = "visible"
     }
-    
-  
-    console.log( back);
+
+
+    console.log(back);
 
     if (back < 1927) {
 
         back = 1927
 
         next = 1928
-    
+
         slide.appendChild(lists[63])
-       
+
     }
     if (back <= 1927) {
-        btnB.style.visibility="hidden"
+        btnB.style.visibility = "hidden"
     }
 
 }
@@ -1584,8 +3404,8 @@ reiniciarTemporizador();
 
 
 window.addEventListener('load', () => {
-    
+
     if (back == 1927) {
-        btnB.style.visibility="hidden"
+        btnB.style.visibility = "hidden"
     }
 })
