@@ -96,7 +96,7 @@ body {
 }
 .containerTempo{
     position: absolute;
-    transform: translate(590px, 60px);
+    transform: translate(590px, 20px);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -111,6 +111,7 @@ body {
     width: 9rem;
     height: 9rem;
     border-radius: 50%;
+   
 }
 .timeTempo #minutes, #seconds, #pointsTempo {
     color: #000;
