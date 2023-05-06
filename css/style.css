@@ -402,7 +402,7 @@ body {
     z-index: 100;
     font-family: 'Tillana';
     cursor: pointer;
-    transform: translate(405px , 669px);
+    transform: translate(247px , 623px);
 }
 .SearchBox {
     position: absolute;
@@ -415,7 +415,7 @@ body {
     z-index: 100;
     border: none;
     font-family: 'Tillana';
-    transform: translate(183px , 669px);
+    transform: translate(19px , 619px);
 }
 
 .hiddenSearch {
@@ -442,7 +442,7 @@ body {
     text-align: center;
     border-radius: 10px;
     transition: .3s all;
-    transform: translate(13px , 599px);
+    transform: translate(13px , 664px);
     border: solid 3px black;
     filter: drop-shadow(5px 5px 5px black);
 }
@@ -470,7 +470,7 @@ body {
     text-align: center;
     border-radius: 10px;
     transition: .3s all;
-    transform: translate(-96px , 664px);
+    transform: translate(27px , 664px);
     border: solid 3px black;
     filter: drop-shadow(5px 5px 5px black);
 }

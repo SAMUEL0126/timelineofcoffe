@@ -28819,6 +28819,16 @@ contIconSearch.addEventListener('click', () => {
         
     }
 
+    else if(SearchBox.value != 1927 && SearchBox.value   != 1928 && SearchBox.value  != 1929 && SearchBox.value  != 1931 && SearchBox.value  != 1932 && SearchBox.value  != 1936 &&  SearchBox.value != 1937 && SearchBox.value  != 1938 && SearchBox.value  != 1940 && SearchBox.value  != 1941 && SearchBox.value  != 1945 && SearchBox.value  != 1947 && SearchBox.value != 1951 && SearchBox.value != 1952 && SearchBox.value != 1953 && SearchBox.value != 1958 && SearchBox.value != 1959 && SearchBox.value != 1960 && SearchBox.value != 1962 && SearchBox.value != 1963 && SearchBox.value != 1965 && SearchBox.value != 1966 && SearchBox.value != 1967 && SearchBox.value != 1968 && SearchBox.value != 1969 && SearchBox.value != 1970 && SearchBox.value != 1971 && SearchBox.value != 1972 && SearchBox.value != 1973 && SearchBox.value != 1974 && SearchBox.value != 1975 &&SearchBox.value != 1976 && SearchBox.value != 1978 && SearchBox.value != 1979 && SearchBox.value != 1980 && SearchBox.value != 1981 && SearchBox.value != 1982 && SearchBox.value != 1983 && SearchBox.value != 1984 && SearchBox.value != 1985 && SearchBox.value != 1986 && SearchBox.value != 1987 && SearchBox.value != 1988 && SearchBox.value != 1989 && SearchBox.value != 1991 && SearchBox.value != 1993 && SearchBox.value != 1994 && SearchBox.value != 1995 && SearchBox.value != 1996 && SearchBox.value != 1997 && SearchBox.value != 1998 && SearchBox.value != 1999 && SearchBox.value != 2000 && SearchBox.value != 2001 && SearchBox.value != 2002 && SearchBox.value != 2003 && SearchBox.value != 2004 && SearchBox.value != 2005 && SearchBox.value != 2006 && SearchBox.value != 2007 && SearchBox.value != 2008 && SearchBox.value != 2009 && SearchBox.value != 2015){
+        Swal.fire({
+            position: 'center',
+            icon: 'question',
+            title: 'El año que buscaste no existe en nuestro programa',
+            showConfirmButton: false,
+            timer: 2000
+          })
+    }
+
 })
 
 
