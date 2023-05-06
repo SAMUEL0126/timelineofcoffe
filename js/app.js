@@ -2743,7 +2743,6 @@ contIconSearch.addEventListener('click', () => {
 
     //= = = = = = = 1937 = = = = = = = = = = = = = 
 
-
     if (SearchBox.value == 1937 && back == 1927 && next == 1928) {
 
         for (let i = 0; i < 6; i++) {
@@ -2795,11 +2794,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1937 && back == 1934 && next == 1935) {
-        for (let i = 0; i < 1; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
+       
     }
     else if (SearchBox.value == 1937 && back == 1935 && next == 1936) {
         for (let i = 0; i < 2; i++) {
@@ -3195,8 +3190,6 @@ contIconSearch.addEventListener('click', () => {
         }
     }
 
-
-
     //= = = = = = = = = 1938 = = = = = = = = = 
 
     if (SearchBox.value == 1938 && back == 1927 && next == 1928) {
@@ -3250,11 +3243,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1938 && back == 1934 && next == 1935) {
-        for (let i = 0; i < 1; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
+      
     }
     else if (SearchBox.value == 1938 && back == 1935 && next == 1936) {
         for (let i = 0; i < 1; i++) {
@@ -3710,11 +3699,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1940 && back == 1935 && next == 1936) {
-        for (let i = 0; i < 1; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
+      
     }
     else if (SearchBox.value == 1940 && back == 1936 && next == 1937) {
         for (let i = 0; i < 1; i++) {
@@ -4103,12 +4088,6 @@ contIconSearch.addEventListener('click', () => {
         }
     }
 
-
-
-
-
-
-
     //= = = = = = = = = 1941 = = = = = = = = = 
 
     if (SearchBox.value == 1941 && back == 1927 && next == 1928) {
@@ -4169,11 +4148,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1941 && back == 1935 && next == 1936) {
-        for (let i = 0; i < 1; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
+      
     }
     else if (SearchBox.value == 1941 && back == 1936 && next == 1937) {
         for (let i = 0; i < 1; i++) {
@@ -4562,7 +4537,6 @@ contIconSearch.addEventListener('click', () => {
         }
     }
 
-
     //= = = = = = = = = 1945 = = = = = = = = = 
 
     if (SearchBox.value == 1945 && back == 1927 && next == 1928) {
@@ -4637,11 +4611,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1945 && back == 1937 && next == 1938) {
-        for (let i = 0; i < 1; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
+    
     }
     else if (SearchBox.value == 1945 && back == 1938 && next == 1939) {
         for (let i = 0; i < 1; i++) {
@@ -5097,11 +5067,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1947 && back == 1938 && next == 1939) {
-        for (let i = 0; i < 1; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
+      
     }
     else if (SearchBox.value == 1947 && back == 1939 && next == 1940) {
         for (let i = 0; i < 1; i++) {
@@ -5557,11 +5523,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1951 && back == 1939 && next == 1940) {
-        for (let i = 0; i < 1; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
+       
     }
 
     else if (SearchBox.value == 1951 && back == 1940 && next == 1941) {
@@ -6019,11 +5981,7 @@ contIconSearch.addEventListener('click', () => {
     }
 
     else if (SearchBox.value == 1952 && back == 1940 && next == 1941) {
-        for (let i = 0; i < 1; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
+       
     }
     else if (SearchBox.value == 1952 && back == 1941 && next == 1942) {
         for (let i = 0; i < 1; i++) {
@@ -6478,11 +6436,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1953 && back == 1941 && next == 1942) {
-        for (let i = 0; i < 1; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
+       
     }
     else if (SearchBox.value == 1953 && back == 1942 && next == 1943) {
         for (let i = 0; i < 1; i++) {
@@ -6827,7 +6781,6 @@ contIconSearch.addEventListener('click', () => {
         }
     }
 
-
     //= = = = = = = = = 1958 = = = = = = = = = 
 
     if (SearchBox.value == 1958 && back == 1927 && next == 1928) {
@@ -6938,11 +6891,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1958 && back == 1942 && next == 1943) {
-        for (let i = 0; i < 1; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
+       
     }
     else if (SearchBox.value == 1958 && back == 1943 && next == 1944) {
         for (let i = 0; i < 1; i++) {
@@ -7282,7 +7231,6 @@ contIconSearch.addEventListener('click', () => {
 
     //= = = = = = = = = 1959 = = = = = = = = = 
 
-
     if (SearchBox.value == 1959 && back == 1927 && next == 1928) {
 
         for (let i = 0; i < 16; i++) {
@@ -7398,11 +7346,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1959 && back == 1943 && next == 1944) {
-        for (let i = 0; i < 1; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
+    
     }
     else if (SearchBox.value == 1959 && back == 1944 && next == 1945) {
         for (let i = 0; i < 1; i++) {
@@ -7733,9 +7677,6 @@ contIconSearch.addEventListener('click', () => {
         }
     }
 
-
-
-
     //= = = = = = = = = 1960 = = = = = = = = = =
 
     if (SearchBox.value == 1960 && back == 1927 && next == 1928) {
@@ -7860,11 +7801,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1960 && back == 1944 && next == 1945) {
-        for (let i = 0; i < 1; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
+     
     }
     else if (SearchBox.value == 1960 && back == 1945 && next == 1946) {
         for (let i = 0; i < 1; i++) {
@@ -8319,11 +8256,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1962 && back == 1945 && next == 1946) {
-        for (let i = 0; i < 1; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
+       
     }
     else if (SearchBox.value == 1962 && back == 1946 && next == 1947) {
         for (let i = 0; i < 1; i++) {
@@ -8778,10 +8711,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1963 && back == 1946 && next == 1947) {
-        for (let i = 0; i < 1; i++) {
-            setTimeout(prev, i * 100)
-
-        }
+       
     }
     else if (SearchBox.value == 1963 && back == 1947 && next == 1948) {
         for (let i = 0; i < 1; i++) {
@@ -23896,9 +23826,6 @@ contIconSearch.addEventListener('click', () => {
         }
     }
 
-
-
-
     //= = = = = = = = = 2001 = = = = = = = = = 
 
     if (SearchBox.value == 2001 && back == 1927 && next == 1928) {
@@ -24792,8 +24719,6 @@ contIconSearch.addEventListener('click', () => {
         }
     }
 
-
-
     //= = = = = = = = = 2003 = = = = = = = = = 
 
     if (SearchBox.value == 2003 && back == 1927 && next == 1928) {
@@ -25239,7 +25164,6 @@ contIconSearch.addEventListener('click', () => {
 
         }
     }
-
 
     //= = = = = = = = = 2004 = = = = = = = = = 
 
@@ -25687,9 +25611,6 @@ contIconSearch.addEventListener('click', () => {
         }
     }
 
-
-
-
     //= = = = = = = = = 2005 = = = = = = = = = 
 
     if (SearchBox.value == 2005 && back == 1927 && next == 1928) {
@@ -26136,9 +26057,6 @@ contIconSearch.addEventListener('click', () => {
         }
     }
 
-
-
-
     //= = = = = = = = = 2006 = = = = = = = = = 
 
     if (SearchBox.value == 2006 && back == 1927 && next == 1928) {
@@ -26584,10 +26502,6 @@ contIconSearch.addEventListener('click', () => {
 
         }
     }
-
-
-
-
 
     //= = = = = = = = = 2007 = = = = = = = = = 
 
@@ -27481,7 +27395,6 @@ contIconSearch.addEventListener('click', () => {
         }
     }
 
-
     //= = = = = = = = = 2009 = = = = = = = = = 
 
     if (SearchBox.value == 2009 && back == 1927 && next == 1928) {
@@ -28368,10 +28281,6 @@ contIconSearch.addEventListener('click', () => {
             }
         }, 30000);
     }
-
-
-
-
 
     //= = = = = = = = = 2015 = = = = = = = = = 
 
