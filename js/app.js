@@ -47,25 +47,40 @@ volver.addEventListener('click', () => {
 })
 
 /*avanzar y retroceder en linea del tiempo*/
-
+let lentDarksearch = document.getElementById('lentDarksearch')
 contIconSearch.addEventListener('click', () => {
 
     //==================== 1927 =========================
 
     if (SearchBox.value == 1927 && back == 1928 && next == 1929) {
-        for (let i = 0; i < 1; i++) {
 
-            setTimeout(prev, i * 100)
-
-        }
-        
+        // lentDarkT.classList.toggle('lentDarkT')
+        lentDarksearch.classList.toggle('lentDarkTexit')
+        setTimeout(() => {
+            
+            for (let i = 0; i < 1; i++) {
+    
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 2000);
+        setTimeout(() => {
+            lentDarksearch.classList.toggle('lentDarkTexit')
+        }, 6000);
     }
     else if (SearchBox.value == 1927 && back == 1929 && next == 1930) {
-        for (let i = 0; i < 2; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
+        lentDarksearch.classList.toggle('lentDarkTexit')
+        setTimeout(() => {
+            
+            for (let i = 0; i < 2; i++) {
+    
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1000);
+        setTimeout(() => {
+            lentDarksearch.classList.toggle('lentDarkTexit')
+        }, 5000);
     }
     else if (SearchBox.value == 1927 && back == 1930 && next == 1931) {
         for (let i = 0; i < 3; i++) {
