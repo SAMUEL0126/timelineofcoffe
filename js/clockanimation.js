@@ -6,7 +6,7 @@ secondhand = document.querySelector(".second")
 const updatetime = () =>{
 console.log();
 let date = new Date(),
-secToDeg = (date.getSeconds()/60) * 360;
+secToDeg = (date.getSeconds()/60) * 60;
 minToDeg = (date.getMinutes()/60) * 360;
 hrToDeg = (date.getHours()/12) * 360;
 

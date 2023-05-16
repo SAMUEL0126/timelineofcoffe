@@ -55,6 +55,8 @@ contIconSearch.addEventListener('click', () => {
     if (SearchBox.value == 1927 && back == 1928 && next == 1929) {
 
         // lentDarkT.classList.toggle('lentDarkT')
+        let indicadorC = document.getElementById('indicadorC')
+        indicadorC.classList.toggle('indicador')
         lentDarksearch.classList.toggle('lentDarkTexit')
         setTimeout(() => {
             
@@ -65,6 +67,7 @@ contIconSearch.addEventListener('click', () => {
             }
         }, 2000);
         setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
             lentDarksearch.classList.toggle('lentDarkTexit')
         }, 6000);
     }
