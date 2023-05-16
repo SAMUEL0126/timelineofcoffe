@@ -1,4 +1,4 @@
-body::-webkit-scrollbar{
+body::-webkit-scrollbar {
     visibility: hidden;
 }
 
@@ -6,6 +6,7 @@ body::-webkit-scrollbar{
 body {
     background-color: #eaeaea;
 }
+
 /* Transition */
 .lentDarkT {
     animation: animateLent 2.3s ease-in-out;
@@ -22,6 +23,7 @@ body {
         opacity: 1;
         z-index: 3;
     }
+
     50% {
         background-color: #000;
         position: fixed;
@@ -32,6 +34,7 @@ body {
         opacity: 1;
         z-index: 3;
     }
+
     100% {
         opacity: 0;
         z-index: 0;
@@ -51,6 +54,7 @@ body {
         opacity: 1;
         /* z-index: 0; */
     }
+
     50% {
         background-color: #000;
         position: absolute;
@@ -61,6 +65,7 @@ body {
         opacity: 1;
         z-index: 3;
     }
+
     100% {
         background-color: #000;
         position: absolute;
@@ -87,6 +92,7 @@ body {
         opacity: 1;
 
     }
+
     50% {
         background-color: #000;
         position: absolute;
@@ -97,6 +103,7 @@ body {
         z-index: 100;
         opacity: 1;
     }
+
     100% {
         background-color: #000;
         position: absolute;
@@ -120,9 +127,10 @@ body {
     --color-font: hsl(0, 0%, 100%, 0.902);
     --color-shadow: hsl(235, 36%, 35%);
 }
+
 /* ------------ */
 
-.contTemporizator{
+.contTemporizator {
     width: 100%;
     display: flex;
     justify-content: center;
@@ -131,11 +139,13 @@ body {
     visibility: visible;
     transition: 1.3s all;
 }
-.none{
+
+.none {
     display: none;
     z-index: 0;
 }
-.containerTempo{
+
+.containerTempo {
     position: absolute;
     transform: translate(590px, 20px);
     display: flex;
@@ -145,19 +155,23 @@ body {
     z-index: 1;
 }
 
-.timerTempo{
+.timerTempo {
     display: flex;
     justify-content: center;
     align-items: center;
     width: 9rem;
     height: 9rem;
     border-radius: 50%;
-   
+
 }
-.timeTempo #minutes, #seconds, #pointsTempo {
+
+.timeTempo #minutes,
+#seconds,
+#pointsTempo {
     color: #000;
 }
-.circleTempo{
+
+.circleTempo {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -168,7 +182,7 @@ body {
     position: relative;
 }
 
-.circleTempo::before{
+.circleTempo::before {
     content: '';
     position: absolute;
     width: 95%;
@@ -180,37 +194,37 @@ body {
     box-shadow: inset 0px -1px 20px black;
 }
 
-.timeTempo{
+.timeTempo {
     position: relative;
     display: flex;
     flex-direction: row;
 }
 
-.timeTempo p{
+.timeTempo p {
     color: white;
     font-size: 2rem;
 }
 
-.timeTempo p:nth-of-type(2){
+.timeTempo p:nth-of-type(2) {
     position: relative;
     top: -.5rem;
     margin-inline: 1rem;
 
 }
 
-.controlsTempo{
+.controlsTempo {
     margin-top: 3rem;
 }
 
-.controlsTempo button{
+.controlsTempo button {
     border: none;
     background-color: transparent;
     cursor: pointer;
 }
 
-.controlsTempo #reset{
+.controlsTempo #reset {
     display: none;
-    
+
 }
 
 
@@ -221,12 +235,12 @@ body {
     transform: translate(-50%, -50%);
     width: 100%;
     height: 100vh;
-    padding: 50px; 
+    padding: 50px;
     background-color: #f5f5f5;
     box-shadow: 0 30px 50px #dbdbdb;
 }
 
-#slide{
+#slide {
     width: max-content;
     margin-top: 50px;
 }
@@ -245,11 +259,12 @@ body {
     border-radius: 20px;
     box-shadow: 0 3px 13px #000;
 }
+
 .item:nth-child(1),
 .item:nth-child(2) {
     left: 0;
     top: 0;
-    transform: translate(0,0);
+    transform: translate(0, 0);
     border-radius: 0;
     width: 100%;
     height: 100%;
@@ -263,6 +278,7 @@ body {
 .item:nth-child(4) {
     left: calc(33.2% + 220px);
 }
+
 .item:nth-child(5) {
     left: calc(29.5% + 440px);
 }
@@ -284,17 +300,21 @@ body {
     display: none;
     font-family: system-ui;
 }
+
 .content .contTextRight {
     position: absolute;
     transform: translate(877px, -195px)
 }
+
 #contextoRight {
     position: absolute;
     transform: translate(877px, -55px);
 }
+
 .contTextRight h2 {
     -webkit-text-stroke: 1px black;
 }
+
 .content h1 {
     position: absolute;
     -webkit-text-stroke: 1px black;
@@ -303,13 +323,16 @@ body {
     opacity: 0;
     animation: showTittle 1s ease-in-out 1s 1 forwards;
 }
+
 .content .tittle1931 {
     transform: translate(552px, -198px);
 }
-.item:nth-child(2) .content{
+
+.item:nth-child(2) .content {
     display: block;
     z-index: 11111;
 }
+
 .item .name {
     -webkit-text-stroke: 1px black;
     font-size: 30px;
@@ -317,40 +340,47 @@ body {
     opacity: 0;
     animation: showcontent 1s ease-in-out 1s 1 forwards;
 }
+
 .item .des {
     margin: 20px 0;
     opacity: 0;
     animation: showcontent 1s ease-in-out 0.3s 1 forwards;
 }
+
 .item button {
     padding: 10px 20px;
     border: none;
     opacity: 0;
     animation: showcontent 1s ease-in-out 0.6s 1 forwards;
 }
+
 /* ESTILOS PARA LA IMG */
 .imgCenso {
     position: absolute;
     width: 200px;
     height: auto;
 }
+
 .imgArturo {
     position: absolute;
     width: 150px;
     height: 200px;
 }
+
 .titlle1958 {
     margin-top: 70px;
 }
+
 @keyframes showcontent {
     from {
         opacity: 0;
-        transform: translate(0,100px);
+        transform: translate(0, 100px);
         filter: blur(33px);
     }
+
     to {
         opacity: 1;
-        transform: translate(0,0);
+        transform: translate(0, 0);
         filter: blur(0);
     }
 }
@@ -362,11 +392,13 @@ body {
         transform: translate(100);
         filter: blur(33px);
     }
+
     to {
         opacity: 1;
         filter: blur(0);
     }
 }
+
 .buttons {
     position: absolute;
     bottom: 70px;
@@ -377,6 +409,7 @@ body {
     gap: 500px;
 
 }
+
 .buttons button {
     width: 50px;
     height: 50px;
@@ -388,6 +421,7 @@ body {
     align-items: center;
     cursor: pointer;
 }
+
 .buttons button:hover {
     background-color: #10100c;
     color: white;
@@ -405,7 +439,7 @@ body {
     z-index: 100;
     border-radius: 50%;
     transition: .3s all;
-    transform: translate(422px , 427px);
+    transform: translate(422px, 427px);
     border: solid 3px black;
     filter: drop-shadow(5px 5px 5px black);
 }
@@ -430,7 +464,8 @@ body {
         background-position: 0 0;
     }
 }
-.contIconSearch{
+
+.contIconSearch {
     position: absolute;
     width: 30px;
     height: 30px;
@@ -443,8 +478,9 @@ body {
     z-index: 1;
     font-family: 'Tillana';
     cursor: pointer;
-    transform: translate(247px , 623px);
+    transform: translate(247px, 623px);
 }
+
 .SearchBox {
     position: absolute;
     width: 210px;
@@ -456,12 +492,13 @@ body {
     z-index: 1;
     border: none;
     font-family: 'Tillana';
-    transform: translate(19px , 619px);
+    transform: translate(19px, 619px);
 }
 
 .hiddenSearch {
     visibility: hidden;
 }
+
 .hiddenButton {
     visibility: hidden;
 }
@@ -483,10 +520,11 @@ body {
     text-align: center;
     border-radius: 10px;
     transition: .3s all;
-    transform: translate(13px , 664px);
+    transform: translate(13px, 664px);
     border: solid 3px black;
     filter: drop-shadow(5px 5px 5px black);
 }
+
 .glow-on-hoverB:hover {
     background-color: #000;
     color: white;
@@ -511,15 +549,17 @@ body {
     text-align: center;
     border-radius: 10px;
     transition: .3s all;
-    transform: translate(27px , 664px);
+    transform: translate(27px, 664px);
     border: solid 3px black;
     filter: drop-shadow(5px 5px 5px black);
 }
+
 .glow-on-hoverV:hover {
     background-color: #000;
     color: white;
     transition: .3s all;
 }
+
 @keyframes glowing {
     0% {
         background-position: 0 0;
@@ -552,15 +592,21 @@ body {
 /* = = = = = = RELOJ DE BUSQUEDA = = = = = = */
 
 /*variables de colores*/
-:root{
+:root {
     --primary-color: #f6f7fb;
     --white-color: #fff;
     --black-color: #18191a;
     --red-color: #e74c3c;
 }
-.containerClock{
+
+.containerClock {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 60px;
 }
-.containerClock .clockSearch{
+
+.containerClock .clockSearch {
     display: flex;
     height: 400px;
     width: 400px;
@@ -568,16 +614,18 @@ body {
     align-items: center;
     justify-content: center;
     background-color: var(--white-color);
-    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1), 
-    0 25px 45px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1),
+        0 25px 45px rgba(0, 0, 0, 0.1);
     position: relative;
 }
+
 .clockSearch label {
     position: absolute;
     text-align: center;
     inset: 20px;
     transform: rotate(calc(var(--i) * (360deg / 12)));
 }
+
 .clockSearch label span {
     display: inline-block;
     font-size: 30px;
@@ -585,12 +633,44 @@ body {
     color: var(--black-color);
     transform: rotate(calc(var(--i) * (-360deg / 12)));
 }
-.containerClock .indicador{
+
+.containerClock .indicador {
     position: absolute;
     height: 10px;
     width: 10px;
-    background-color: red;
+    display: flex;
+    justify-content: center;
 }
-.indicador::before{
+
+.indicador::before {
     content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    /* z-index: 1; */
+    border-radius: 50%;
+    background-color: var(--black-color);
+    border: 4px solid var(--red-color);
+}
+
+.indicador .hand {
+    position: absolute;
+    height: 130px;
+    width: 4px;
+    bottom: 0;
+    border-radius: 25px;
+    transform-origin: bottom;
+    background: var(--red-color);
+}
+.hand.minute{
+    height: 120px;
+    width: 5px;
+    transform: rotate(45deg);
+    background: var(--black-color);
+}
+.hand.hour{
+    height: 100px;
+    width: 8px;
+    transform: rotate(65deg);
+    background: var(--black-color);
 }
