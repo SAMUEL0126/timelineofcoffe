@@ -79,11 +79,17 @@ body {
 }
 
 /*transicion para la busqueda de años en la linea del tiempo*/
+.lentDarksearchentrada {
+    /* background: transparent; */
+    opacity: 0;
+    transition: 1.3s;
+}
+
 .lentDarksearch {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* animation: animateSearch 2.3s ease-in-out; */
+    flex-direction: column;
     background-color: #000;
     position: absolute;
     top: 0;
@@ -100,6 +106,66 @@ body {
     opacity: 0;
     transition: 1.3s;
 }
+
+
+/*--------------- ANIMATION LETTERS ---------------*/
+.sectionLetters span{
+    color: var(--primary-color);
+    font-size: 50px;
+    font-family: 'Titan One';
+    animation: saltar 2s infinite;
+    animation-timing-function: ease-in;
+    display: inline-block;
+    transform: translateY(0);
+}
+.sectionLetters span:nth-child(1){
+    animation-delay: 0;
+}
+.sectionLetters span:nth-child(2){
+    animation-delay: 0.2s;
+}
+.sectionLetters span:nth-child(3){
+    animation-delay: 0.4s;
+}
+.sectionLetters span:nth-child(4){
+    animation-delay: 0.6s;
+}
+.sectionLetters span:nth-child(5){
+    animation-delay: 0.8s;
+}
+.sectionLetters span:nth-child(6){
+    animation-delay: 1s;
+}
+.sectionLetters span:nth-child(7){
+    animation-delay: 1.2s;
+}
+.sectionLetters span:nth-child(8){
+    animation-delay: 1.4s;
+}
+.sectionLetters span:nth-child(9){
+    animation-delay: 1.6s;
+}
+.sectionLetters span:nth-child(10){
+    animation-delay: 1.8s;
+}
+.sectionLetters span:nth-child(11){
+    animation-delay: 2s;
+}
+@keyframes saltar {
+    0%{
+        transform: translateY(0);
+    }
+    10%{
+        transform: translate(-10px);
+    }
+    50%{
+        transform: translateY(100px);
+    }
+    80%{
+        transform: translateY(110px);
+    }
+}
+
 
 /*----------temporizador--------------*/
 
@@ -589,7 +655,11 @@ body {
     align-items: center;
     gap: 60px;
 }
-
+.clockSearchentrada {
+    /* background: transparent; */
+    opacity: 0;
+    transition: 1.3s;
+}
 .containerClock .clockSearch {
     display: flex;
     height: 400px;
@@ -601,6 +671,7 @@ body {
     box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1),
         0 25px 45px rgba(0, 0, 0, 0.1);
     position: relative;
+    transition: 1.3s;
 }
 
 .clockSearch label {
@@ -646,13 +717,15 @@ body {
     transform-origin: bottom;
     background: var(--red-color);
 }
-.hand.minute{
+
+.hand.minute {
     height: 120px;
     width: 5px;
     transform: rotate(45deg);
     background: var(--black-color);
 }
-.hand.hour{
+
+.hand.hour {
     height: 100px;
     width: 8px;
     transform: rotate(65deg);

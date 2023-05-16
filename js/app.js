@@ -47,6 +47,7 @@ volver.addEventListener('click', () => {
 })
 
 /*avanzar y retroceder en linea del tiempo*/
+let reloj = document.getElementById('clockSearch')
 let lentDarksearch = document.getElementById('lentDarksearch')
 contIconSearch.addEventListener('click', () => {
 
@@ -57,7 +58,12 @@ contIconSearch.addEventListener('click', () => {
         let indicadorC = document.getElementById('indicadorC')
 
         indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
         lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
         setTimeout(() => {
             
             for (let i = 0; i < 1; i++) {
@@ -68,7 +74,12 @@ contIconSearch.addEventListener('click', () => {
         }, 2000);
         setTimeout(() => {
             indicadorC.classList.toggle('indicador')
+                        
             lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
 
         }, 7000);
     }
