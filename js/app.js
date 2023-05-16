@@ -65,16 +65,16 @@ contIconSearch.addEventListener('click', () => {
         reloj.classList.toggle('clockSearchentrada')
         reloj.classList.toggle('clockSearch')
         setTimeout(() => {
-            
+
             for (let i = 0; i < 1; i++) {
-    
+
                 setTimeout(prev, i * 100)
-    
+
             }
         }, 2000);
         setTimeout(() => {
             indicadorC.classList.toggle('indicador')
-                        
+
             lentDarksearch.classList.toggle('lentDarksearch')
             lentDarksearch.classList.toggle('lentDarksearchentrada')
 
@@ -95,16 +95,16 @@ contIconSearch.addEventListener('click', () => {
         reloj.classList.toggle('clockSearchentrada')
         reloj.classList.toggle('clockSearch')
         setTimeout(() => {
-            
+
             for (let i = 0; i < 2; i++) {
-    
+
                 setTimeout(prev, i * 100)
-    
+
             }
         }, 1000);
         setTimeout(() => {
             indicadorC.classList.toggle('indicador')
-                        
+
             lentDarksearch.classList.toggle('lentDarksearch')
             lentDarksearch.classList.toggle('lentDarksearchentrada')
 
@@ -114,7 +114,7 @@ contIconSearch.addEventListener('click', () => {
         }, 7000);
     }
     else if (SearchBox.value == 1927 && back == 1930 && next == 1931) {
-        
+
         let indicadorC = document.getElementById('indicadorC')
 
         indicadorC.classList.toggle('indicador')
@@ -127,14 +127,14 @@ contIconSearch.addEventListener('click', () => {
         setTimeout(() => {
 
             for (let i = 0; i < 3; i++) {
-    
+
                 setTimeout(prev, i * 100)
-    
+
             }
         }, 1500);
         setTimeout(() => {
             indicadorC.classList.toggle('indicador')
-                        
+
             lentDarksearch.classList.toggle('lentDarksearch')
             lentDarksearch.classList.toggle('lentDarksearchentrada')
 
@@ -144,7 +144,7 @@ contIconSearch.addEventListener('click', () => {
         }, 7000);
     }
     else if (SearchBox.value == 1927 && back == 1931 && next == 1932) {
-        
+
         let indicadorC = document.getElementById('indicadorC')
 
         indicadorC.classList.toggle('indicador')
@@ -155,26 +155,26 @@ contIconSearch.addEventListener('click', () => {
         reloj.classList.toggle('clockSearchentrada')
         reloj.classList.toggle('clockSearch')
         setTimeout(() => {
-            
+
             for (let i = 0; i < 4; i++) {
-    
+
                 setTimeout(prev, i * 100)
-    
+
             }
         }, 1500);
         setTimeout(() => {
             indicadorC.classList.toggle('indicador')
-                        
+
             lentDarksearch.classList.toggle('lentDarksearch')
             lentDarksearch.classList.toggle('lentDarksearchentrada')
 
             reloj.classList.toggle('clockSearch')
             reloj.classList.toggle('clockSearchentrada')
-            
+
         }, 7000);
     }
     else if (SearchBox.value == 1927 && back == 1932 && next == 1933) {
-        
+
         let indicadorC = document.getElementById('indicadorC')
 
         indicadorC.classList.toggle('indicador')
@@ -185,26 +185,26 @@ contIconSearch.addEventListener('click', () => {
         reloj.classList.toggle('clockSearchentrada')
         reloj.classList.toggle('clockSearch')
         setTimeout(() => {
-            
+
             for (let i = 0; i < 5; i++) {
-    
+
                 setTimeout(prev, i * 100)
-    
+
             }
         }, 1500);
         setTimeout(() => {
             indicadorC.classList.toggle('indicador')
-                        
+
             lentDarksearch.classList.toggle('lentDarksearch')
             lentDarksearch.classList.toggle('lentDarksearchentrada')
 
             reloj.classList.toggle('clockSearch')
             reloj.classList.toggle('clockSearchentrada')
-            
+
         }, 7000);
     }
     else if (SearchBox.value == 1927 && back == 1933 && next == 1934) {
-        
+
         let indicadorC = document.getElementById('indicadorC')
 
         indicadorC.classList.toggle('indicador')
@@ -215,26 +215,26 @@ contIconSearch.addEventListener('click', () => {
         reloj.classList.toggle('clockSearchentrada')
         reloj.classList.toggle('clockSearch')
         setTimeout(() => {
-            
+
             for (let i = 0; i < 6; i++) {
-    
+
                 setTimeout(prev, i * 100)
-    
+
             }
         }, 1500);
         setTimeout(() => {
             indicadorC.classList.toggle('indicador')
-                        
+
             lentDarksearch.classList.toggle('lentDarksearch')
             lentDarksearch.classList.toggle('lentDarksearchentrada')
 
             reloj.classList.toggle('clockSearch')
             reloj.classList.toggle('clockSearchentrada')
-            
+
         }, 7000);
     }
     else if (SearchBox.value == 1927 && back == 1934 && next == 1935) {
-        
+
         let indicadorC = document.getElementById('indicadorC')
 
         indicadorC.classList.toggle('indicador')
@@ -245,26 +245,26 @@ contIconSearch.addEventListener('click', () => {
         reloj.classList.toggle('clockSearchentrada')
         reloj.classList.toggle('clockSearch')
         setTimeout(() => {
-            
+
             for (let i = 0; i < 7; i++) {
-    
+
                 setTimeout(prev, i * 100)
-    
+
             }
         }, 1500);
         setTimeout(() => {
             indicadorC.classList.toggle('indicador')
-                        
+
             lentDarksearch.classList.toggle('lentDarksearch')
             lentDarksearch.classList.toggle('lentDarksearchentrada')
 
             reloj.classList.toggle('clockSearch')
             reloj.classList.toggle('clockSearchentrada')
-            
+
         }, 7000);
     }
     else if (SearchBox.value == 1927 && back == 1935 && next == 1936) {
-        
+
         let indicadorC = document.getElementById('indicadorC')
 
         indicadorC.classList.toggle('indicador')
@@ -278,23 +278,23 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 8; i++) {
 
                 setTimeout(prev, i * 100)
-    
+
             }
         }, 1500);
         setTimeout(() => {
             indicadorC.classList.toggle('indicador')
-                        
+
             lentDarksearch.classList.toggle('lentDarksearch')
             lentDarksearch.classList.toggle('lentDarksearchentrada')
 
             reloj.classList.toggle('clockSearch')
             reloj.classList.toggle('clockSearchentrada')
-            
+
         }, 7000);
-        
+
     }
     else if (SearchBox.value == 1927 && back == 1936 && next == 1937) {
-        
+
         let indicadorC = document.getElementById('indicadorC')
 
         indicadorC.classList.toggle('indicador')
@@ -308,22 +308,22 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 9; i++) {
 
                 setTimeout(prev, i * 100)
-    
+
             }
         }, 1500);
         setTimeout(() => {
             indicadorC.classList.toggle('indicador')
-                        
+
             lentDarksearch.classList.toggle('lentDarksearch')
             lentDarksearch.classList.toggle('lentDarksearchentrada')
 
             reloj.classList.toggle('clockSearch')
             reloj.classList.toggle('clockSearchentrada')
-            
+
         }, 7000);
     }
     else if (SearchBox.value == 1927 && back == 1937 && next == 1938) {
-        
+
         let indicadorC = document.getElementById('indicadorC')
 
         indicadorC.classList.toggle('indicador')
@@ -337,22 +337,22 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 10; i++) {
 
                 setTimeout(prev, i * 100)
-    
+
             }
         }, 1500);
         setTimeout(() => {
             indicadorC.classList.toggle('indicador')
-                        
+
             lentDarksearch.classList.toggle('lentDarksearch')
             lentDarksearch.classList.toggle('lentDarksearchentrada')
 
             reloj.classList.toggle('clockSearch')
             reloj.classList.toggle('clockSearchentrada')
-            
+
         }, 7000);
     }
     else if (SearchBox.value == 1927 && back == 1938 && next == 1939) {
-        
+
         let indicadorC = document.getElementById('indicadorC')
 
         indicadorC.classList.toggle('indicador')
@@ -366,22 +366,22 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 11; i++) {
 
                 setTimeout(prev, i * 100)
-    
+
             }
         }, 1500);
         setTimeout(() => {
             indicadorC.classList.toggle('indicador')
-                        
+
             lentDarksearch.classList.toggle('lentDarksearch')
             lentDarksearch.classList.toggle('lentDarksearchentrada')
 
             reloj.classList.toggle('clockSearch')
             reloj.classList.toggle('clockSearchentrada')
-            
+
         }, 7000);
     }
     else if (SearchBox.value == 1927 && back == 1939 && next == 1940) {
-        
+
         let indicadorC = document.getElementById('indicadorC')
 
         indicadorC.classList.toggle('indicador')
@@ -395,18 +395,18 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 12; i++) {
 
                 setTimeout(prev, i * 100)
-    
+
             }
         }, 1500);
         setTimeout(() => {
             indicadorC.classList.toggle('indicador')
-                        
+
             lentDarksearch.classList.toggle('lentDarksearch')
             lentDarksearch.classList.toggle('lentDarksearchentrada')
 
             reloj.classList.toggle('clockSearch')
             reloj.classList.toggle('clockSearchentrada')
-            
+
         }, 7000);
     }
 
@@ -425,6 +425,1802 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 13; i++) {
 
                 setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1941 && next == 1942) {
+
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+        setTimeout(() => {
+            for (let i = 0; i < 14; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1942 && next == 1943) {
+
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+        setTimeout(() => {
+            for (let i = 0; i < 15; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1943 && next == 1944) {
+
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+        setTimeout(() => {
+            for (let i = 0; i < 16; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1944 && next == 1945) {
+
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 17; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1945 && next == 1946) {
+
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 18; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1946 && next == 1947) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 19; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1947 && next == 1948) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 20; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1948 && next == 1949) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 21; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1949 && next == 1950) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 22; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1950 && next == 1951) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 23; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1951 && next == 1952) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 24; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1952 && next == 1953) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 25; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1953 && next == 1954) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 26; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1954 && next == 1955) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 27; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1955 && next == 1956) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 28; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1956 && next == 1957) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 29; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1957 && next == 1958) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 30; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1958 && next == 1959) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 31; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1959 && next == 1960) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 32; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1960 && next == 1961) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 33; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1961 && next == 1962) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 34; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1962 && next == 1963) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 35; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1963 && next == 1964) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 36; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1964 && next == 1965) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 37; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1965 && next == 1966) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 38; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+
+    else if (SearchBox.value == 1927 && back == 1966 && next == 1967) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 39; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1967 && next == 1968) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 40; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1968 && next == 1969) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 41; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1969 && next == 1970) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 42; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1970 && next == 1971) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 43; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1971 && next == 1972) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 44; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1972 && next == 1973) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 45; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1973 && next == 1974) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 46; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1974 && next == 1975) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 47; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1975 && next == 1976) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 48; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1976 && next == 1977) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 49; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1977 && next == 1978) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 50; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1978 && next == 1979) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 51; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1979 && next == 1980) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 52; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1927 && back == 1980 && next == 1981) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 53; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 10000);
+    }
+    else if (SearchBox.value == 1927 && back == 1981 && next == 1982) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 54; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 10000);
+    }
+    else if (SearchBox.value == 1927 && back == 1982 && next == 1983) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 55; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 10000);
+    }
+    else if (SearchBox.value == 1927 && back == 1983 && next == 1984) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 56; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 10000);
+    }
+    else if (SearchBox.value == 1927 && back == 1984 && next == 1985) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 57; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 10000);
+    }
+    else if (SearchBox.value == 1927 && back == 1985 && next == 1986) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 58; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 10000);
+    }
+    else if (SearchBox.value == 1927 && back == 1986 && next == 1987) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 59; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 10000);
+    }
+    else if (SearchBox.value == 1927 && back == 1987 && next == 1988) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 60; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 10000);
+    }
+    else if (SearchBox.value == 1927 && back == 1988 && next == 1989) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 61; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 10000);
+    }
+    else if (SearchBox.value == 1927 && back == 1989 && next == 1990) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 62; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 10000);
+    }
+    else if (SearchBox.value == 1927 && back == 1990 && next == 1991) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 63; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 10000);
+    }
+
+    if (SearchBox.value == 1928 && back == 1927 && next == 1928) {
+
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 1; i++) {
+
+                setTimeout(nextfunction, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1928 && back == 1929 && next == 1930) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 1; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1928 && back == 1930 && next == 1931) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 2; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1928 && back == 1931 && next == 1932) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 3; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1928 && back == 1932 && next == 1933) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 4; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1928 && back == 1933 && next == 1934) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 5; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1928 && back == 1934 && next == 1935) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 6; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1928 && back == 1935 && next == 1936) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 7; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1928 && back == 1936 && next == 1937) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 8; i++) {
+
+                setTimeout(prev, i * 100)
+
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1928 && back == 1937 && next == 1938) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            let indicadorC = document.getElementById('indicadorC')
+
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+            lentDarksearch.classList.toggle('lentDarksearch')
+
+            reloj.classList.toggle('clockSearchentrada')
+            reloj.classList.toggle('clockSearch')
+
+            setTimeout(() => {
+                for (let i = 0; i < 9; i++) {
+
+                    setTimeout(prev, i * 100)
+
+                }
+            }, 1500);
+            setTimeout(() => {
+                indicadorC.classList.toggle('indicador')
+
+                lentDarksearch.classList.toggle('lentDarksearch')
+                lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+                reloj.classList.toggle('clockSearch')
+                reloj.classList.toggle('clockSearchentrada')
+
+            }, 7000);
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
+    }
+    else if (SearchBox.value == 1928 && back == 1938 && next == 1939) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 10; i++) {
+
+                setTimeout(prev, i * 100)
     
             }
         }, 1500);
@@ -439,8 +2235,7 @@ contIconSearch.addEventListener('click', () => {
             
         }, 7000);
     }
-    else if (SearchBox.value == 1927 && back == 1941 && next == 1942) {
-        
+    else if (SearchBox.value == 1928 && back == 1939 && next == 1940) {
         let indicadorC = document.getElementById('indicadorC')
 
         indicadorC.classList.toggle('indicador')
@@ -450,6 +2245,95 @@ contIconSearch.addEventListener('click', () => {
 
         reloj.classList.toggle('clockSearchentrada')
         reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 11; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
+    }
+
+    else if (SearchBox.value == 1928 && back == 1940 && next == 1941) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 12; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
+    }
+    else if (SearchBox.value == 1928 && back == 1941 && next == 1942) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 13; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
+    }
+    else if (SearchBox.value == 1928 && back == 1942 && next == 1943) {
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
         setTimeout(() => {
             for (let i = 0; i < 14; i++) {
 
@@ -468,8 +2352,7 @@ contIconSearch.addEventListener('click', () => {
             
         }, 7000);
     }
-    else if (SearchBox.value == 1927 && back == 1942 && next == 1943) {
-        
+    else if (SearchBox.value == 1928 && back == 1943 && next == 1944) {
         let indicadorC = document.getElementById('indicadorC')
 
         indicadorC.classList.toggle('indicador')
@@ -479,6 +2362,7 @@ contIconSearch.addEventListener('click', () => {
 
         reloj.classList.toggle('clockSearchentrada')
         reloj.classList.toggle('clockSearch')
+
         setTimeout(() => {
             for (let i = 0; i < 15; i++) {
 
@@ -497,8 +2381,7 @@ contIconSearch.addEventListener('click', () => {
             
         }, 7000);
     }
-    else if (SearchBox.value == 1927 && back == 1943 && next == 1944) {
-        
+    else if (SearchBox.value == 1928 && back == 1944 && next == 1945) {
         let indicadorC = document.getElementById('indicadorC')
 
         indicadorC.classList.toggle('indicador')
@@ -508,6 +2391,7 @@ contIconSearch.addEventListener('click', () => {
 
         reloj.classList.toggle('clockSearchentrada')
         reloj.classList.toggle('clockSearch')
+
         setTimeout(() => {
             for (let i = 0; i < 16; i++) {
 
@@ -526,8 +2410,7 @@ contIconSearch.addEventListener('click', () => {
             
         }, 7000);
     }
-    else if (SearchBox.value == 1927 && back == 1944 && next == 1945) {
-        
+    else if (SearchBox.value == 1928 && back == 1945 && next == 1946) {
         let indicadorC = document.getElementById('indicadorC')
 
         indicadorC.classList.toggle('indicador')
@@ -556,773 +2439,1311 @@ contIconSearch.addEventListener('click', () => {
             
         }, 7000);
     }
-    else if (SearchBox.value == 1927 && back == 1945 && next == 1946) {
-        for (let i = 0; i < 18; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1946 && next == 1947) {
-        for (let i = 0; i < 19; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1947 && next == 1948) {
-        for (let i = 0; i < 20; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1948 && next == 1949) {
-        for (let i = 0; i < 21; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1949 && next == 1950) {
-        for (let i = 0; i < 22; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1950 && next == 1951) {
-        for (let i = 0; i < 23; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1951 && next == 1952) {
-        for (let i = 0; i < 24; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1952 && next == 1953) {
-        for (let i = 0; i < 25; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1953 && next == 1954) {
-        for (let i = 0; i < 26; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1954 && next == 1955) {
-        for (let i = 0; i < 27; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1955 && next == 1956) {
-        for (let i = 0; i < 28; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1956 && next == 1957) {
-        for (let i = 0; i < 29; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1957 && next == 1958) {
-        for (let i = 0; i < 30; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1958 && next == 1959) {
-        for (let i = 0; i < 31; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1959 && next == 1960) {
-        for (let i = 0; i < 32; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1960 && next == 1961) {
-        for (let i = 0; i < 33; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1961 && next == 1962) {
-        for (let i = 0; i < 34; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1962 && next == 1963) {
-        for (let i = 0; i < 35; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1963 && next == 1964) {
-        for (let i = 0; i < 36; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1964 && next == 1965) {
-        for (let i = 0; i < 37; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1965 && next == 1966) {
-        for (let i = 0; i < 38; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-
-    else if (SearchBox.value == 1927 && back == 1966 && next == 1967) {
-        for (let i = 0; i < 39; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1967 && next == 1968) {
-        for (let i = 0; i < 40; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1968 && next == 1969) {
-        for (let i = 0; i < 41; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1969 && next == 1970) {
-        for (let i = 0; i < 42; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1970 && next == 1971) {
-        for (let i = 0; i < 43; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1971 && next == 1972) {
-        for (let i = 0; i < 44; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1972 && next == 1973) {
-        for (let i = 0; i < 45; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1973 && next == 1974) {
-        for (let i = 0; i < 46; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1974 && next == 1975) {
-        for (let i = 0; i < 47; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1975 && next == 1976) {
-        for (let i = 0; i < 48; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1976 && next == 1977) {
-        for (let i = 0; i < 49; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1977 && next == 1978) {
-        for (let i = 0; i < 50; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1978 && next == 1979) {
-        for (let i = 0; i < 51; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1979 && next == 1980) {
-        for (let i = 0; i < 52; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1980 && next == 1981) {
-        for (let i = 0; i < 53; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1981 && next == 1982) {
-        for (let i = 0; i < 54; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1982 && next == 1983) {
-        for (let i = 0; i < 55; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1983 && next == 1984) {
-        for (let i = 0; i < 56; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1984 && next == 1985) {
-        for (let i = 0; i < 57; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1985 && next == 1986) {
-        for (let i = 0; i < 58; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1986 && next == 1987) {
-        for (let i = 0; i < 59; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1987 && next == 1988) {
-        for (let i = 0; i < 60; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1988 && next == 1989) {
-        for (let i = 0; i < 61; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1989 && next == 1990) {
-        for (let i = 0; i < 62; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1927 && back == 1990 && next == 1991) {
-        for (let i = 0; i < 63; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-
-    if (SearchBox.value == 1928 && back == 1927 && next == 1928) {
-
-        for (let i = 0; i < 1; i++) {
-
-            setTimeout(nextfunction, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1928 && back == 1929 && next == 1930) {
-        for (let i = 0; i < 1; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1928 && back == 1930 && next == 1931) {
-        for (let i = 0; i < 2; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1928 && back == 1931 && next == 1932) {
-        for (let i = 0; i < 3; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1928 && back == 1932 && next == 1933) {
-        for (let i = 0; i < 4; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1928 && back == 1933 && next == 1934) {
-        for (let i = 0; i < 5; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1928 && back == 1934 && next == 1935) {
-        for (let i = 0; i < 6; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1928 && back == 1935 && next == 1936) {
-        for (let i = 0; i < 7; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1928 && back == 1936 && next == 1937) {
-        for (let i = 0; i < 8; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1928 && back == 1937 && next == 1938) {
-        for (let i = 0; i < 9; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1928 && back == 1938 && next == 1939) {
-        for (let i = 0; i < 10; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1928 && back == 1939 && next == 1940) {
-        for (let i = 0; i < 11; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-
-    else if (SearchBox.value == 1928 && back == 1940 && next == 1941) {
-        for (let i = 0; i < 12; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1928 && back == 1941 && next == 1942) {
-        for (let i = 0; i < 13; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1928 && back == 1942 && next == 1943) {
-        for (let i = 0; i < 14; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1928 && back == 1943 && next == 1944) {
-        for (let i = 0; i < 15; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1928 && back == 1944 && next == 1945) {
-        for (let i = 0; i < 16; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
-    else if (SearchBox.value == 1928 && back == 1945 && next == 1946) {
-        for (let i = 0; i < 17; i++) {
-
-            setTimeout(prev, i * 100)
-
-        }
-    }
     else if (SearchBox.value == 1928 && back == 1946 && next == 1947) {
-        for (let i = 0; i < 18; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 18; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1947 && next == 1948) {
-        for (let i = 0; i < 19; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 19; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1948 && next == 1949) {
-        for (let i = 0; i < 20; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 20; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1949 && next == 1950) {
-        for (let i = 0; i < 21; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 21; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1950 && next == 1951) {
-        for (let i = 0; i < 22; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 22; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1951 && next == 1952) {
-        for (let i = 0; i < 23; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 23; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1952 && next == 1953) {
-        for (let i = 0; i < 24; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 24; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1953 && next == 1954) {
-        for (let i = 0; i < 25; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 25; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1954 && next == 1955) {
-        for (let i = 0; i < 26; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 26; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1955 && next == 1956) {
-        for (let i = 0; i < 27; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 27; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1956 && next == 1957) {
-        for (let i = 0; i < 28; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 28; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1957 && next == 1958) {
-        for (let i = 0; i < 29; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 29; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1958 && next == 1959) {
-        for (let i = 0; i < 30; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 30; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1959 && next == 1960) {
-        for (let i = 0; i < 31; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 31; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1960 && next == 1961) {
-        for (let i = 0; i < 32; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 32; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1961 && next == 1962) {
-        for (let i = 0; i < 33; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 33; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1962 && next == 1963) {
-        for (let i = 0; i < 34; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 34; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1963 && next == 1964) {
-        for (let i = 0; i < 35; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 35; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1964 && next == 1965) {
-        for (let i = 0; i < 36; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 36; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1965 && next == 1966) {
-        for (let i = 0; i < 37; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 37; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
 
     else if (SearchBox.value == 1928 && back == 1966 && next == 1967) {
-        for (let i = 0; i < 38; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 38; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1967 && next == 1968) {
-        for (let i = 0; i < 39; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 39; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1968 && next == 1969) {
-        for (let i = 0; i < 40; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 40; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1969 && next == 1970) {
-        for (let i = 0; i < 41; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 41; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 7000);
     }
     else if (SearchBox.value == 1928 && back == 1970 && next == 1971) {
-        for (let i = 0; i < 42; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 42; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 10000);
     }
     else if (SearchBox.value == 1928 && back == 1971 && next == 1972) {
-        for (let i = 0; i < 43; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 43; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 10000);
     }
     else if (SearchBox.value == 1928 && back == 1972 && next == 1973) {
-        for (let i = 0; i < 44; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 44; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 10000);
     }
     else if (SearchBox.value == 1928 && back == 1973 && next == 1974) {
-        for (let i = 0; i < 45; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 45; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 10000);
     }
     else if (SearchBox.value == 1928 && back == 1974 && next == 1975) {
-        for (let i = 0; i < 46; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 46; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 10000);
     }
     else if (SearchBox.value == 1928 && back == 1975 && next == 1976) {
-        for (let i = 0; i < 47; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 47; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 10000);
     }
     else if (SearchBox.value == 1928 && back == 1976 && next == 1977) {
-        for (let i = 0; i < 48; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 48; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 10000);
     }
     else if (SearchBox.value == 1928 && back == 1977 && next == 1978) {
-        for (let i = 0; i < 49; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 49; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 10000);
     }
     else if (SearchBox.value == 1928 && back == 1978 && next == 1979) {
-        for (let i = 0; i < 50; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 50; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 10000);
     }
     else if (SearchBox.value == 1928 && back == 1979 && next == 1980) {
-        for (let i = 0; i < 51; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 51; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 10000);
     }
     else if (SearchBox.value == 1928 && back == 1980 && next == 1981) {
-        for (let i = 0; i < 52; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 52; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 10000);
     }
     else if (SearchBox.value == 1928 && back == 1981 && next == 1982) {
-        for (let i = 0; i < 53; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 53; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 10000);
     }
     else if (SearchBox.value == 1928 && back == 1982 && next == 1983) {
-        for (let i = 0; i < 54; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 54; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 10000);
     }
     else if (SearchBox.value == 1928 && back == 1983 && next == 1984) {
-        for (let i = 0; i < 55; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 55; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 10000);
     }
     else if (SearchBox.value == 1928 && back == 1984 && next == 1985) {
-        for (let i = 0; i < 56; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 56; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 10000);
     }
     else if (SearchBox.value == 1928 && back == 1985 && next == 1986) {
-        for (let i = 0; i < 57; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 57; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 10000);
     }
     else if (SearchBox.value == 1928 && back == 1986 && next == 1987) {
-        for (let i = 0; i < 58; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 58; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 10000);
     }
     else if (SearchBox.value == 1928 && back == 1987 && next == 1988) {
-        for (let i = 0; i < 59; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 59; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 10000);
     }
     else if (SearchBox.value == 1928 && back == 1988 && next == 1989) {
-        for (let i = 0; i < 60; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 60; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 10000);
     }
     else if (SearchBox.value == 1928 && back == 1989 && next == 1990) {
-        for (let i = 0; i < 61; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 61; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 10000);
     }
     else if (SearchBox.value == 1928 && back == 1990 && next == 1991) {
-        for (let i = 0; i < 62; i++) {
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+
+        setTimeout(() => {
+            for (let i = 0; i < 62; i++) {
+
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+            
+        }, 10000);
     }
 
     //===================1929====================
@@ -3165,7 +5586,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1937 && back == 1934 && next == 1935) {
-       
+
     }
     else if (SearchBox.value == 1937 && back == 1935 && next == 1936) {
         for (let i = 0; i < 2; i++) {
@@ -3614,7 +6035,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1938 && back == 1934 && next == 1935) {
-      
+
     }
     else if (SearchBox.value == 1938 && back == 1935 && next == 1936) {
         for (let i = 0; i < 1; i++) {
@@ -4070,7 +6491,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1940 && back == 1935 && next == 1936) {
-      
+
     }
     else if (SearchBox.value == 1940 && back == 1936 && next == 1937) {
         for (let i = 0; i < 1; i++) {
@@ -4519,7 +6940,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1941 && back == 1935 && next == 1936) {
-      
+
     }
     else if (SearchBox.value == 1941 && back == 1936 && next == 1937) {
         for (let i = 0; i < 1; i++) {
@@ -4982,7 +7403,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1945 && back == 1937 && next == 1938) {
-    
+
     }
     else if (SearchBox.value == 1945 && back == 1938 && next == 1939) {
         for (let i = 0; i < 1; i++) {
@@ -5438,7 +7859,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1947 && back == 1938 && next == 1939) {
-      
+
     }
     else if (SearchBox.value == 1947 && back == 1939 && next == 1940) {
         for (let i = 0; i < 1; i++) {
@@ -5894,7 +8315,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1951 && back == 1939 && next == 1940) {
-       
+
     }
 
     else if (SearchBox.value == 1951 && back == 1940 && next == 1941) {
@@ -6352,7 +8773,7 @@ contIconSearch.addEventListener('click', () => {
     }
 
     else if (SearchBox.value == 1952 && back == 1940 && next == 1941) {
-       
+
     }
     else if (SearchBox.value == 1952 && back == 1941 && next == 1942) {
         for (let i = 0; i < 1; i++) {
@@ -6807,7 +9228,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1953 && back == 1941 && next == 1942) {
-       
+
     }
     else if (SearchBox.value == 1953 && back == 1942 && next == 1943) {
         for (let i = 0; i < 1; i++) {
@@ -7262,7 +9683,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1958 && back == 1942 && next == 1943) {
-       
+
     }
     else if (SearchBox.value == 1958 && back == 1943 && next == 1944) {
         for (let i = 0; i < 1; i++) {
@@ -7717,7 +10138,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1959 && back == 1943 && next == 1944) {
-    
+
     }
     else if (SearchBox.value == 1959 && back == 1944 && next == 1945) {
         for (let i = 0; i < 1; i++) {
@@ -8172,7 +10593,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1960 && back == 1944 && next == 1945) {
-     
+
     }
     else if (SearchBox.value == 1960 && back == 1945 && next == 1946) {
         for (let i = 0; i < 1; i++) {
@@ -8627,7 +11048,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1962 && back == 1945 && next == 1946) {
-       
+
     }
     else if (SearchBox.value == 1962 && back == 1946 && next == 1947) {
         for (let i = 0; i < 1; i++) {
@@ -9082,7 +11503,7 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 1963 && back == 1946 && next == 1947) {
-       
+
     }
     else if (SearchBox.value == 1963 && back == 1947 && next == 1948) {
         for (let i = 0; i < 1; i++) {
@@ -29096,17 +31517,17 @@ contIconSearch.addEventListener('click', () => {
         }
     }
     else if (SearchBox.value == 2015 && back == 1990 && next == 1991) {
-        
+
     }
 
-    else if(SearchBox.value != 1927 && SearchBox.value   != 1928 && SearchBox.value  != 1929 && SearchBox.value  != 1931 && SearchBox.value  != 1932 && SearchBox.value  != 1936 &&  SearchBox.value != 1937 && SearchBox.value  != 1938 && SearchBox.value  != 1940 && SearchBox.value  != 1941 && SearchBox.value  != 1945 && SearchBox.value  != 1947 && SearchBox.value != 1951 && SearchBox.value != 1952 && SearchBox.value != 1953 && SearchBox.value != 1958 && SearchBox.value != 1959 && SearchBox.value != 1960 && SearchBox.value != 1962 && SearchBox.value != 1963 && SearchBox.value != 1965 && SearchBox.value != 1966 && SearchBox.value != 1967 && SearchBox.value != 1968 && SearchBox.value != 1969 && SearchBox.value != 1970 && SearchBox.value != 1971 && SearchBox.value != 1972 && SearchBox.value != 1973 && SearchBox.value != 1974 && SearchBox.value != 1975 &&SearchBox.value != 1976 && SearchBox.value != 1978 && SearchBox.value != 1979 && SearchBox.value != 1980 && SearchBox.value != 1981 && SearchBox.value != 1982 && SearchBox.value != 1983 && SearchBox.value != 1984 && SearchBox.value != 1985 && SearchBox.value != 1986 && SearchBox.value != 1987 && SearchBox.value != 1988 && SearchBox.value != 1989 && SearchBox.value != 1991 && SearchBox.value != 1993 && SearchBox.value != 1994 && SearchBox.value != 1995 && SearchBox.value != 1996 && SearchBox.value != 1997 && SearchBox.value != 1998 && SearchBox.value != 1999 && SearchBox.value != 2000 && SearchBox.value != 2001 && SearchBox.value != 2002 && SearchBox.value != 2003 && SearchBox.value != 2004 && SearchBox.value != 2005 && SearchBox.value != 2006 && SearchBox.value != 2007 && SearchBox.value != 2008 && SearchBox.value != 2009 && SearchBox.value != 2015){
+    else if (SearchBox.value != 1927 && SearchBox.value != 1928 && SearchBox.value != 1929 && SearchBox.value != 1931 && SearchBox.value != 1932 && SearchBox.value != 1936 && SearchBox.value != 1937 && SearchBox.value != 1938 && SearchBox.value != 1940 && SearchBox.value != 1941 && SearchBox.value != 1945 && SearchBox.value != 1947 && SearchBox.value != 1951 && SearchBox.value != 1952 && SearchBox.value != 1953 && SearchBox.value != 1958 && SearchBox.value != 1959 && SearchBox.value != 1960 && SearchBox.value != 1962 && SearchBox.value != 1963 && SearchBox.value != 1965 && SearchBox.value != 1966 && SearchBox.value != 1967 && SearchBox.value != 1968 && SearchBox.value != 1969 && SearchBox.value != 1970 && SearchBox.value != 1971 && SearchBox.value != 1972 && SearchBox.value != 1973 && SearchBox.value != 1974 && SearchBox.value != 1975 && SearchBox.value != 1976 && SearchBox.value != 1978 && SearchBox.value != 1979 && SearchBox.value != 1980 && SearchBox.value != 1981 && SearchBox.value != 1982 && SearchBox.value != 1983 && SearchBox.value != 1984 && SearchBox.value != 1985 && SearchBox.value != 1986 && SearchBox.value != 1987 && SearchBox.value != 1988 && SearchBox.value != 1989 && SearchBox.value != 1991 && SearchBox.value != 1993 && SearchBox.value != 1994 && SearchBox.value != 1995 && SearchBox.value != 1996 && SearchBox.value != 1997 && SearchBox.value != 1998 && SearchBox.value != 1999 && SearchBox.value != 2000 && SearchBox.value != 2001 && SearchBox.value != 2002 && SearchBox.value != 2003 && SearchBox.value != 2004 && SearchBox.value != 2005 && SearchBox.value != 2006 && SearchBox.value != 2007 && SearchBox.value != 2008 && SearchBox.value != 2009 && SearchBox.value != 2015) {
         Swal.fire({
             position: 'center',
             icon: 'question',
             title: 'El año que buscaste no existe en nuestro programa',
             showConfirmButton: false,
             timer: 2000
-          })
+        })
     }
 
 })
