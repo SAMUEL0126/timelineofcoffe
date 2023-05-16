@@ -54,10 +54,10 @@ contIconSearch.addEventListener('click', () => {
 
     if (SearchBox.value == 1927 && back == 1928 && next == 1929) {
 
-        // lentDarkT.classList.toggle('lentDarkT')
         let indicadorC = document.getElementById('indicadorC')
+
         indicadorC.classList.toggle('indicador')
-        lentDarksearch.classList.toggle('lentDarkTexit')
+        lentDarksearch.classList.toggle('lentDarksearch')
         setTimeout(() => {
             
             for (let i = 0; i < 1; i++) {
@@ -68,11 +68,12 @@ contIconSearch.addEventListener('click', () => {
         }, 2000);
         setTimeout(() => {
             indicadorC.classList.toggle('indicador')
-            lentDarksearch.classList.toggle('lentDarkTexit')
-        }, 6000);
+            lentDarksearch.classList.toggle('lentDarksearch')
+
+        }, 7000);
     }
     else if (SearchBox.value == 1927 && back == 1929 && next == 1930) {
-        lentDarksearch.classList.toggle('lentDarkTexit')
+        lentDarksearch.classList.toggle('lentDarksearch')
         setTimeout(() => {
             
             for (let i = 0; i < 2; i++) {
@@ -82,7 +83,7 @@ contIconSearch.addEventListener('click', () => {
             }
         }, 1000);
         setTimeout(() => {
-            lentDarksearch.classList.toggle('lentDarkTexit')
+            lentDarksearch.classList.toggle('lentDarksearch')
         }, 5000);
     }
     else if (SearchBox.value == 1927 && back == 1930 && next == 1931) {
