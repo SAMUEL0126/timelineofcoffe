@@ -84,7 +84,16 @@ contIconSearch.addEventListener('click', () => {
         }, 7000);
     }
     else if (SearchBox.value == 1927 && back == 1929 && next == 1930) {
+
+        let indicadorC = document.getElementById('indicadorC')
+
+        indicadorC.classList.toggle('indicador')
+
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
         lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
         setTimeout(() => {
             
             for (let i = 0; i < 2; i++) {
@@ -94,15 +103,45 @@ contIconSearch.addEventListener('click', () => {
             }
         }, 1000);
         setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
             lentDarksearch.classList.toggle('lentDarksearch')
-        }, 5000);
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
     }
     else if (SearchBox.value == 1927 && back == 1930 && next == 1931) {
-        for (let i = 0; i < 3; i++) {
+        
+        let indicadorC = document.getElementById('indicadorC')
 
-            setTimeout(prev, i * 100)
+        indicadorC.classList.toggle('indicador')
 
-        }
+        lentDarksearch.classList.toggle('lentDarksearchentrada')
+        lentDarksearch.classList.toggle('lentDarksearch')
+
+        reloj.classList.toggle('clockSearchentrada')
+        reloj.classList.toggle('clockSearch')
+        setTimeout(() => {
+
+            for (let i = 0; i < 3; i++) {
+    
+                setTimeout(prev, i * 100)
+    
+            }
+        }, 1500);
+        setTimeout(() => {
+            indicadorC.classList.toggle('indicador')
+                        
+            lentDarksearch.classList.toggle('lentDarksearch')
+            lentDarksearch.classList.toggle('lentDarksearchentrada')
+
+            reloj.classList.toggle('clockSearch')
+            reloj.classList.toggle('clockSearchentrada')
+
+        }, 7000);
     }
     else if (SearchBox.value == 1927 && back == 1931 && next == 1932) {
         for (let i = 0; i < 4; i++) {
