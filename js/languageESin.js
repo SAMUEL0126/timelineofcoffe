@@ -1,14 +1,13 @@
-// Function active 
+
 let español = document.getElementById('Español')
 let ingles = document.getElementById('Ingles')
 
 let contpageClock = document.getElementById('contpageClock')
 let contLoading = document.getElementById('contLoadingHidden')
 
-// Lente Dark
+
 let lentDarkT = document.getElementById('lentDarkT')
 
-//mensaje de carga
 let CargLoad = document.getElementById('CargLoad')
 
 español.addEventListener('click', functionactiva)
@@ -20,10 +19,10 @@ function functionactiva() {
     contpageClock.classList.toggle('contpageClock')
     contpageClock.classList.toggle('contpageClockHidden')
 
-    //mensaje de cargando
+
     CargLoad.textContent= 'Cargando...'
 
-    // get reference to our Elemets
+  
     let number = document.getElementById('number')
     let counter = 0
 
@@ -42,7 +41,7 @@ function functionactiva() {
     }, 20)
 }
 
-// enviar a page en ingles 
+
 function functionactivaIn() {
     contLoading.classList.toggle('contLoadingHidden')
     contLoading.classList.toggle('contLoadingVisisble')
@@ -50,10 +49,9 @@ function functionactivaIn() {
     contpageClock.classList.toggle('contpageClock')
     contpageClock.classList.toggle('contpageClockHidden')
 
-    //mensaje de cargando
+
     CargLoad.textContent = 'Loading...'
 
-    // get reference to our Elemets
     let number = document.getElementById('number')
     let counter = 0
 
