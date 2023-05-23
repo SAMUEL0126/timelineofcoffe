@@ -11,6 +11,38 @@ body {
     align-items: center;
     flex-direction: column;
 }
+
+h2{
+    font-size: 3rem;
+    text-transform: uppercase;
+    font-family: 'Titan One';
+}
+
+.border{
+    color: black;
+    text-shadow: -1px -1px 0 white,1px -1px 0 white, 1px 1px 0 white, -1px 1px 0 white;
+    margin-top: 30px;
+}
+
+
+.wave{
+    color: #152b4a;
+    animation: wave 3s ease-in-out infinite;
+    transform: translate(0px,-55px);
+}
+
+@keyframes wave {
+    0% , 100%{
+        clip-path: polygon(0% 47% ,10% 48%,33% 54%, 54% 60%, 70% 61% , 84% 59%, 100% 52%, 100% 100%, 0% 100%);
+    }
+    50%{
+        clip-path: polygon(0% 60%,15% 65%, 34% 66%, 51% 62%, 67% 50%, 84% 45%,100% 46%,100% 100%,0% 100%);
+    }
+}
+
+
+
+
 .lentDarkTransition {
     
     animation: lentDark 5s ease-in-out;
@@ -60,7 +92,7 @@ body {
 }
 
 .glow-on-hover {
-    font-family: 'Tillana';
+    font-family: 'Titan One';
     font-size: 20px;
     width: 105px;
     height: 50px;
@@ -79,7 +111,7 @@ body {
 }
 
 .glow-on-hover:hover {
-    background-color: #000;
+    background-color: #152b4a;
     color: white;
     transition: .3s all;
 }
@@ -148,7 +180,6 @@ a{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    gap: 40px;
 }
 .contOptionsLenguash .contTxtSelectL {
     width: auto;
