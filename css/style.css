@@ -459,12 +459,18 @@ body {
     gap: 500px;
 
 }
+h1{
+text-shadow: 9px  0px 0px black,
+               0px  1px 0px black,
+              -1px  0px 0px black,
+               0px -1px 0px black
+}
 
 .buttons button {
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    border: 1px solid #555;
+    border: solid;
     transition: 0.5s;
     display: flex;
     justify-content: center;
@@ -528,21 +534,23 @@ body {
     z-index: 1;
     font-family: 'Tillana';
     cursor: pointer;
-    transform: translate(247px, 623px);
+    transform: translate(211px, 620px);
+    border: solid;
 }
 
 .SearchBox {
     position: absolute;
-    width: 210px;
+    width: 185px;
     height: 30px;
     color: black;
     background: white;
     border-radius: 20px;
     text-align: center;
     z-index: 1;
-    border: none;
+    border: solid;
     font-family: 'Tillana';
-    transform: translate(19px, 619px);
+    transform: translate(13px, 619px);
+    
 }
 
 .hiddenSearch {
