@@ -555,7 +555,7 @@ h1 {
     z-index: 1;
     font-family: 'Tillana';
     cursor: pointer;
-    transform: translate(208px, 611px);
+    transform: translate(210px, 611px);
     border: solid;
 }
 
@@ -570,7 +570,7 @@ h1 {
     z-index: 1;
     border: solid;
     font-family: 'Tillana';
-    transform: translate(10px, 610px);
+    transform: translate(13px, 610px);
 
 }
 
