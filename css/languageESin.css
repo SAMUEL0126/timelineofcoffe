@@ -15,6 +15,7 @@ h2{
     font-size: 3rem;
     text-transform: uppercase;
     font-family: 'Titan One';
+    
 }
 
 .border{
@@ -97,8 +98,8 @@ h2{
     height: 50px;
     border: none;
     outline: none;
-    color: black;
-    background: white;
+    color: white;
+    background: #152b4a;
     cursor: pointer;
     position: relative;
     z-index: 100;
@@ -110,8 +111,8 @@ h2{
 }
 
 .glow-on-hover:hover {
-    background-color: #152b4a;
-    color: white;
+    background-color: white;
+    color: black;
     transition: .3s all;
 }
 
