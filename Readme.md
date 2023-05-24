@@ -6,4 +6,4 @@
 <img src="/images/Captura.PNG" alt="...">
 <h2>Interfaz principal de la pagina selecciona tu idioma </h2>
 <hr></hr>
-<img src="/images/Capturareloja.PNG" alt="...">
+<img src="/images/Capture.PNG" alt="...">
