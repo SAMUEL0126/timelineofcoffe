@@ -320,8 +320,9 @@ body {
     position: absolute;
     z-index: 1;
     top: 77%;
-    transform: translate(0, -50%);
+    transform: translate(-3px, -50%);
     border-radius: 20px;
+    border: solid white;
     box-shadow: 0 3px 13px #000;
 }
 
