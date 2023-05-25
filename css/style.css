@@ -322,8 +322,8 @@ body {
     top: 77%;
     transform: translate(-3px, -50%);
     border-radius: 20px;
-    border: solid white;
-    box-shadow: 0 3px 13px #000;
+    border: solid silver;
+    box-shadow: 3px 3px 13px #000;
 }
 
 .item:nth-child(1),
