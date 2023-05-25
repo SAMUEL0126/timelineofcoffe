@@ -2,12 +2,10 @@ body::-webkit-scrollbar {
     visibility: hidden;
 }
 
-
 body {
     background-color: #eaeaea;
 }
 
-/* Transition */
 .lentDarkT {
     animation: animateLent 2.3s ease-in-out;
 }
@@ -105,8 +103,6 @@ body {
     transition: 1.3s;
 }
 
-
-/*--------------- ANIMATION LETTERS ---------------*/
 .sectionLetters span {
     color: var(--primary-color);
     font-size: 50px;
@@ -179,10 +175,8 @@ body {
     }
 }
 
-
 /*----------temporizador--------------*/
 
-/*variables de colores*/
 :root {
 
     --color-primary: hsl(0, 0%, 0%);
@@ -190,8 +184,6 @@ body {
     --color-font: hsl(0, 0%, 100%, 0.902);
     --color-shadow: hsl(235, 36%, 35%);
 }
-
-/* ------------ */
 
 .contTemporizator {
     width: 100%;
@@ -289,7 +281,6 @@ body {
     display: none;
 
 }
-
 
 .container {
     position: fixed;
@@ -418,7 +409,6 @@ body {
     animation: showcontent 1s ease-in-out 0.6s 1 forwards;
 }
 
-/* ESTILOS PARA LA IMG */
 .imgCenso {
     position: absolute;
     width: 200px;
@@ -582,8 +572,6 @@ h1 {
     visibility: hidden;
 }
 
-
-
 .glow-on-hoverB {
     font-family: 'Tillana';
     font-size: 20px;
@@ -609,7 +597,6 @@ h1 {
     color: white;
     transition: .3s all;
 }
-
 
 .glow-on-hoverV {
     font-family: 'Tillana';
@@ -655,20 +642,16 @@ h1 {
     visibility: hidden;
 }
 
-
-/*mostrar*/
 .show {
     display: block;
 }
 
-/*Ocultar*/
 .hidden {
     visibility: hidden;
 }
 
 /* = = = = = = RELOJ DE BUSQUEDA = = = = = = */
 
-/*variables de colores*/
 :root {
     --primary-color: #f6f7fb;
     --white-color: #fff;

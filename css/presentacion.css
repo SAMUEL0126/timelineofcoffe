@@ -11,7 +11,6 @@ body {
     align-items: center;
     min-height: 100vh;
     background: #000;
-    /* animation: animante_Body 6s ease-in-out infinite; */
 }
 .father {
     width: 100%;
@@ -143,7 +142,6 @@ h3{
 
 }
 
-/* boton de iniciar */
 .text-box {
     width: 100%;
     height: auto;
@@ -163,7 +161,6 @@ h3{
     }
 }
 
-/*darkWindow*/
 .darkWindowClass {
     background-color: #000;
     position: absolute;
@@ -175,7 +172,6 @@ h3{
     z-index: 1;
 }
 
-/*Transition*/
 .transitionC {
     animation: animate_transitionC 2.3s ease-out;
 }
@@ -208,12 +204,7 @@ h3{
     }
 }
 
-
-
-
-
 /*btn presentacion*/
-
 .btn {
     margin-top: 10PX;
     position: relative;
@@ -232,7 +223,6 @@ h3{
     padding-left: 40px;
     transition: 0.5s;
     overflow: hidden;
-    /* animation: animate-btn ease-in-out 6s infinite; */
 }
 
 .btn:hover {
@@ -254,7 +244,6 @@ h3{
     color: #fff;
     font-size: 1.5em;
 }
-
 
 .btn:hover span {
     left: calc(100% - 55px);
