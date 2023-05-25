@@ -253,13 +253,13 @@ a{
 
 #number {
     font-weight: 600;
-    color: #555;
+    color: black;
     font-size: 30px;
 }
 
 circle {
     fill: none;
-    stroke: url(#GradientColor);
+    stroke: #152b4a;
     stroke-width: 20px;
     stroke-dasharray: 450;
     stroke-dashoffset: 450;

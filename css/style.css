@@ -320,7 +320,7 @@ body {
     position: absolute;
     z-index: 1;
     top: 77%;
-    transform: translate(-3px, -50%);
+    transform: translate(-60px, -50%);
     border-radius: 20px;
     border: solid silver;
     box-shadow: 3px 3px 13px #000;
@@ -473,7 +473,7 @@ body {
     justify-content: center;
     width: 100%;
     gap: 500px;
-
+    transform: translate(-54px, 0px);
 }
 
 h1 {
@@ -483,10 +483,12 @@ h1 {
         0px -1px 0px black
 }
 
-.name { text-shadow: 1px 0px 10px black,
-    0px 3px 0px black,
-    -1px 0px 0px black,
-    0px -1px 0px black}
+.name {
+    text-shadow: 1px 0px 10px black,
+        0px 3px 0px black,
+        -1px 0px 0px black,
+        0px -1px 0px black
+}
 
 .buttons button {
     width: 50px;
