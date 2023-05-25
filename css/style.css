@@ -613,8 +613,6 @@ h1 {
 }
 
 
-
-
 .glow-on-hoverV {
     font-family: 'Tillana';
     font-size: 20px;
@@ -688,7 +686,6 @@ h1 {
 }
 
 .clockSearchentrada {
-    /* background: transparent; */
     opacity: 0;
     transition: 1.3s;
 }
