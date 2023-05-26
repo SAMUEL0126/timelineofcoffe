@@ -106,7 +106,6 @@ body{
     height: 50%;
     background: white;
     transform-origin: bottom;
-   
 }
 
 .clock .number .circle#hr i{
@@ -133,7 +132,7 @@ body{
     justify-content: center;
     align-items: center;
 }
-/*LOADING*/
+
 .container {
     width: 100%;
     min-height: 100vh;
