@@ -24,7 +24,6 @@ h2{
     margin-top: 30px;
 }
 
-
 .wave{
     color: #152b4a;
     animation: wave 3s ease-in-out infinite;
@@ -39,9 +38,6 @@ h2{
         clip-path: polygon(0% 60%,15% 65%, 34% 66%, 51% 62%, 67% 50%, 84% 45%,100% 46%,100% 100%,0% 100%);
     }
 }
-
-
-
 
 .lentDarkTransition {
     
@@ -192,7 +188,7 @@ a{
     display: flex;
     justify-content: center;
 }
-/*======= LOADING =========*/
+
 .contLoadingHidden {
     position: absolute;
     top: 0;
