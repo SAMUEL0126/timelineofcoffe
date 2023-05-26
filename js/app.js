@@ -4,9 +4,7 @@ let parrafo3 = document.getElementById('parrafo3')
 
 let contIconSearch = document.getElementById('contIconSearch')
 let SearchBox = document.getElementById('SearchBox')
-
 let buttonsCont = document.getElementById('buttonsCont')
-
 
 let count = 0
 let back = 1927
@@ -15,17 +13,12 @@ let next = 1928
 let btnN = document.getElementById('next')
 let btnB = document.getElementById('prev')
 
-/* BOTONES */
 let Buscar = document.getElementById('Buscar')
 let volver = document.getElementById('volver')
 
 Buscar.addEventListener('click', () => {
-
     contIconSearch.classList.toggle('hiddenButton')
     SearchBox.classList.toggle('hiddenSearch')
-
-
-
 })
 
 volver.addEventListener('click', () => {
@@ -50,7 +43,6 @@ volver.addEventListener('click', () => {
     }, 2000);
 })
 
-/*avanzar y retroceder en linea del tiempo*/
 let reloj = document.getElementById('clockSearch')
 let lentDarksearch = document.getElementById('lentDarksearch')
 contIconSearch.addEventListener('click', () => {
@@ -103,7 +95,6 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 2; i++) {
 
                 setTimeout(prev, i * 100)
-
             }
         }, 1000);
         setTimeout(() => {
@@ -133,7 +124,6 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 3; i++) {
 
                 setTimeout(prev, i * 100)
-
             }
         }, 1500);
         setTimeout(() => {
@@ -163,7 +153,6 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 4; i++) {
 
                 setTimeout(prev, i * 100)
-
             }
         }, 1500);
         setTimeout(() => {
@@ -193,7 +182,6 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 5; i++) {
 
                 setTimeout(prev, i * 100)
-
             }
         }, 1500);
         setTimeout(() => {
@@ -223,7 +211,6 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 6; i++) {
 
                 setTimeout(prev, i * 100)
-
             }
         }, 1500);
         setTimeout(() => {
@@ -253,7 +240,6 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 7; i++) {
 
                 setTimeout(prev, i * 100)
-
             }
         }, 1500);
         setTimeout(() => {
@@ -282,7 +268,6 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 8; i++) {
 
                 setTimeout(prev, i * 100)
-
             }
         }, 1500);
         setTimeout(() => {
@@ -312,7 +297,6 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 9; i++) {
 
                 setTimeout(prev, i * 100)
-
             }
         }, 1500);
         setTimeout(() => {
@@ -341,7 +325,6 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 10; i++) {
 
                 setTimeout(prev, i * 100)
-
             }
         }, 1500);
         setTimeout(() => {
@@ -116104,7 +116087,6 @@ contIconSearch.addEventListener('click', () => {
 
 })
 
-
 btnN.addEventListener('click', nextfunction)
 
 function nextfunction() {
@@ -116112,7 +116094,6 @@ function nextfunction() {
     document.getElementById('slide').appendChild(lists[0])
     console.log(next, back);
 
-    //sumar
     back = back + 1
 
     next = next + 1
@@ -116126,7 +116107,6 @@ function nextfunction() {
     }
 }
 
-
 btnB.addEventListener('click', prev)
 
 function prev() {
@@ -116135,14 +116115,12 @@ function prev() {
     slide.prepend(lists[lists.length - 1])
     console.log(next, back);
 
-    //restar
     back = back - 1
     next = next - 1
 
     if (next < 1991 && back < 1990) {
         btnN.style.visibility = "visible"
     }
-
 
     console.log(back);
 
@@ -116161,27 +116139,17 @@ function prev() {
 
 }
 
-
-
 /*--------  Temporizador -----------*/
-
-
 
 let minutos = 10
 let seconds = 0
 
-//lente negro
 let lentDarkT = document.getElementById('lentDarkT')
 
-
-//contenedor del temporizador regresivo
 let containerTempo = document.getElementById('containerTempo')
 
 setTimeout(() => {
     cargarSeconds()
-
-
-    //definimos y ejecutamos los segundos
 
     function cargarSeconds() {
         let txtSecond
@@ -116191,14 +116159,12 @@ setTimeout(() => {
             seconds = 59
         }
 
-        //agregar 0 a los segundos despues de bajar de dos cifras
         if (seconds < 10) {
             txtSecond = `0${seconds}`
         }
         else {
             txtSecond = seconds
         }
-        //enviamos los valores a plazmarse
         document.getElementById('seconds').textContent = txtSecond
         seconds--
         cargarMinutos(seconds, txtSecond)
@@ -116225,7 +116191,6 @@ setTimeout(() => {
             }, 500)
         }
 
-        //Mostrar minutos en pantalla
         if (minutos < 10) {
             textMinutos = `0${minutos}`;
         } else {
@@ -116273,20 +116238,15 @@ window.addEventListener('load', () => {
     }, 1200);
 })
 
-
-
 /* temporizador para detectar innactividad del usuario */
 
-let tiempoInactividad = 100000; // tiempo en milisegundos (5 segundos)
+let tiempoInactividad = 100000;
 let temporizador;
 
-// Reinicia el temporizador
 function reiniciarTemporizador() {
     let zarko = 2000
-    clearTimeout(temporizador); // Cancela el temporizador anterior
+    clearTimeout(temporizador); 
     temporizador = setTimeout(function () {
-
-        // Ejecuta tu función aquí
 
         lentDarkT.classList.toggle('lentDarkT')
         lentDarkT.classList.toggle('lentDarkTexit')
@@ -116305,14 +116265,11 @@ function reiniciarTemporizador() {
     }, tiempoInactividad);
 }
 
-// Agrega eventos para detectar la actividad del usuario
 document.addEventListener("mousemove", reiniciarTemporizador);
 document.addEventListener("mousedown", reiniciarTemporizador);
 document.addEventListener("keydown", reiniciarTemporizador);
 
-// Inicia el temporizador inicial
 reiniciarTemporizador();
-
 
 window.addEventListener('load', () => {
 
