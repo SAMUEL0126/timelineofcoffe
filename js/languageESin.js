@@ -43,7 +43,6 @@ function functionactiva() {
 function functionactivaIn() {
     contLoading.classList.toggle('contLoadingHidden')
     contLoading.classList.toggle('contLoadingVisisble')
-
     contpageClock.classList.toggle('contpageClock')
     contpageClock.classList.toggle('contpageClockHidden')
 
