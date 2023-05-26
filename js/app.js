@@ -91,7 +91,6 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 2; i++) {
 
                 setTimeout(prev, i * 100)
-
             }
         }, 1000);
         setTimeout(() => {
@@ -150,7 +149,6 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 4; i++) {
 
                 setTimeout(prev, i * 100)
-
             }
         }, 1500);
         setTimeout(() => {
@@ -180,7 +178,6 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 5; i++) {
 
                 setTimeout(prev, i * 100)
-
             }
         }, 1500);
         setTimeout(() => {
@@ -210,7 +207,6 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 6; i++) {
 
                 setTimeout(prev, i * 100)
-
             }
         }, 1500);
         setTimeout(() => {
@@ -240,7 +236,6 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 7; i++) {
 
                 setTimeout(prev, i * 100)
-
             }
         }, 1500);
         setTimeout(() => {
@@ -269,7 +264,6 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 8; i++) {
 
                 setTimeout(prev, i * 100)
-
             }
         }, 1500);
         setTimeout(() => {
@@ -299,7 +293,6 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 9; i++) {
 
                 setTimeout(prev, i * 100)
-
             }
         }, 1500);
         setTimeout(() => {
@@ -328,7 +321,6 @@ contIconSearch.addEventListener('click', () => {
             for (let i = 0; i < 10; i++) {
 
                 setTimeout(prev, i * 100)
-
             }
         }, 1500);
         setTimeout(() => {
