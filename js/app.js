@@ -1,6 +1,5 @@
 let contIconSearch = document.getElementById('contIconSearch')
 let SearchBox = document.getElementById('SearchBox')
-
 let buttonsCont = document.getElementById('buttonsCont')
 
 let count = 0
@@ -14,7 +13,6 @@ let Buscar = document.getElementById('Buscar')
 let volver = document.getElementById('volver')
 
 Buscar.addEventListener('click', () => {
-
     contIconSearch.classList.toggle('hiddenButton')
     SearchBox.classList.toggle('hiddenSearch')
 })
