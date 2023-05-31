@@ -116338,10 +116338,13 @@ confirmModal.addEventListener('click', () => {
         formPut.classList.add('formAddhidden')
     }, 3000);
 
+    let Urlimage = document.getElementById('Urlimage').value
+    // year2016.style.backgroundImage = "url('https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2023/04/13/64381157a83a3.r_d.1521-984-1497.jpeg')"
+
     const year2016 = document.createElement('div')
     year2016.classList.add('item')
     year2016.classList.add('contenedor')
-    year2016.style.backgroundImage = "url('https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2023/04/13/64381157a83a3.r_d.1521-984-1497.jpeg')"
+    year2016.style.backgroundImage = 'url('+ Urlimage +')'
     const content = document.createElement('div')
     content.classList.add('content')
     const year = document.createElement('h1')

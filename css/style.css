@@ -793,17 +793,17 @@ h1 {
   }
   .formAddquestion .contInfoBox {
     width: 100%;
-    height: 75%;
+    height: 87%;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    gap: 10px;
+    gap: 5px;
   }
   
   .contNaci {
     width: 40%;
-    height: 50%;
+    height: 20%;
     display: flex;
     justify-content: center;
     flex-direction: column;  
@@ -816,7 +816,7 @@ h1 {
   }
  .contInternaci {
     width: 40%;
-    height: 50%;
+    height: 30%;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -842,3 +842,11 @@ h1 {
   .contInfoBox button:hover {
     background-color: lime;
   }
+
+.Urlimage {
+    width: 240px;
+    height: 30px;
+    border-radius: 50px;
+    border: solid 1px black;
+    padding-left: 10px;
+}
