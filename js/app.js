@@ -116348,3 +116348,19 @@ document.addEventListener('keyup', function(e){
 
     }
 })
+
+
+
+/* ABRIR BUSCADOR */
+let formPut = document.getElementById('formPut')
+let closeModal = document.getElementById('closeModal')
+document.addEventListener('keyup', function(e) {
+    if (e.keyCode === 13) {
+        formPut.classList.remove('formAddhidden')
+        formPut.classList.add('formAddquestion')
+    }
+})
+closeModal.addEventListener('click', () => {
+    formPut.classList.remove('formAddquestion')
+    formPut.classList.add('formAddhidden')
+})
