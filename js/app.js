@@ -116123,7 +116123,7 @@ function prev() {
     back = back - 1
     next = next - 1
 
-    if (next < 1991 && back < 1990) {
+    if (next < limitN) {
         btnN.style.visibility = "visible"
     }
 
