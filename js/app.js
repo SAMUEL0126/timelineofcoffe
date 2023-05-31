@@ -6,7 +6,8 @@ let contIconSearch = document.getElementById('contIconSearch')
 let SearchBox = document.getElementById('SearchBox')
 let buttonsCont = document.getElementById('buttonsCont')
 
-let count = 0
+let control = 64
+let limitN = 1991
 let back = 1927
 let next = 1928
 
@@ -116090,15 +116091,16 @@ contIconSearch.addEventListener('click', () => {
 btnN.addEventListener('click', nextfunction)
 
 function nextfunction() {
+
     let lists = document.querySelectorAll('.item')
     document.getElementById('slide').appendChild(lists[0])
-    console.log(next, back);
+
 
     back = back + 1
 
     next = next + 1
 
-    if (next == 1991 && back == 1990) {
+    if (next == limitN) {
         btnN.style.visibility = "hidden"
     }
 
@@ -116113,6 +116115,7 @@ function prev() {
     let lists = document.querySelectorAll('.item')
     let slide = document.getElementById('slide')
     slide.prepend(lists[lists.length - 1])
+    console.log(lists.length);
 
     back = back - 1
     next = next - 1
@@ -116318,6 +116321,14 @@ closeModal.addEventListener('click', () => {
 /* ENVIAR VALORES A LAS COOKIES */
 let confirmModal = document.getElementById('confirmModal')
 confirmModal.addEventListener('click', () => {
+    limitN = limitN + 1
+    Swal.fire({
+        position: 'center',
+        icon: 'success',
+        title: 'El nuevo año fue creado exitosamente',
+        showConfirmButton: false,
+        timer: 2000
+    })
 
     setTimeout(() => {
         formPut.classList.remove('formAddquestion')
