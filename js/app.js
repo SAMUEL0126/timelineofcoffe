@@ -6,6 +6,9 @@ let contIconSearch = document.getElementById('contIconSearch')
 let SearchBox = document.getElementById('SearchBox')
 let buttonsCont = document.getElementById('buttonsCont')
 
+let acontNac = document.getElementById('acontNac')
+let acontInter = document.getElementById('acontInter')
+
 let control = 64
 let limitN = 1991
 let back = 1927
@@ -116337,6 +116340,7 @@ confirmModal.addEventListener('click', () => {
 
     const year2016 = document.createElement('div')
     year2016.classList.add('item')
+    year2016.classList.add('contenedor')
     year2016.style.backgroundImage = "url('https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2023/04/13/64381157a83a3.r_d.1521-984-1497.jpeg')"
     const content = document.createElement('div')
     content.classList.add('content')
@@ -116345,7 +116349,7 @@ confirmModal.addEventListener('click', () => {
 
     const des = document.createElement('div')
     des.classList.add('des')
-    des.textContent = 'El Dr Roberto velez Vallejo Fue elegido gerente'
+    des.textContent = acontNac.value
 
     const name = document.createElement('div')
     name.classList.add('name')
@@ -116356,10 +116360,12 @@ confirmModal.addEventListener('click', () => {
     contTextRight.style.marginTop = "10rem"
 
     const pdes = document.createElement('p')
-    pdes.textContent = 'Juan valdez Consolida crecimiento a Septiembre de 2016.'
+    pdes.classList.add('des')
+    pdes.textContent = acontInter.value
 
     const nameh2 = document.createElement('h2')
     nameh2.textContent = 'Internacional'
+    nameh2.classList.add('name')
 
 
 
