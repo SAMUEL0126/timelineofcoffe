@@ -118594,6 +118594,72 @@ confirmModal.addEventListener('click', () => {
         document.cookie = "internacional2022=" + encodeURIComponent(acontInter.value)
         document.cookie = "imageAcont2022=" + encodeURIComponent(Urlimage.value)
     }
+
+    if (aconYear.value == 2023) {
+        limitN = limitN + 1
+        Swal.fire({
+            position: 'center',
+            icon: 'success',
+            title: 'El nuevo año fue creado exitosamente',
+            showConfirmButton: false,
+            timer: 2000
+        })
+    
+        setTimeout(() => {
+            formPut.classList.remove('formAddquestion')
+            formPut.classList.add('formAddhidden')
+        }, 3000);
+    
+    
+        const year2023 = document.createElement('div')
+        year2023.classList.add('item')
+        year2023.classList.add('contenedor')
+        year2023.style.backgroundImage = 'url(' + Urlimage.value + ')'
+        const content2023 = document.createElement('div')
+        content2023.classList.add('content')
+        const yearh12023 = document.createElement('h1')
+        yearh12023.textContent = aconYear.value
+    
+        const des2023 = document.createElement('div')
+        des2023.classList.add('des')
+        des2023.textContent = acontNac.value
+    
+        const name2023 = document.createElement('div')
+        name2023.classList.add('name')
+        name2023.textContent = 'Nacional'
+    
+        const contTextRight2023 = document.createElement('div')
+        contTextRight2023.classList.add('contTextRight')
+        contTextRight2023.style.marginTop = "10rem"
+    
+        const pdes2023 = document.createElement('p')
+        pdes2023.classList.add('des')
+        pdes2023.textContent = acontInter.value
+    
+        const nameh22023 = document.createElement('h2')
+        nameh22023.textContent = 'Internacional'
+        nameh22023.classList.add('name')
+    
+    
+    
+    
+        contTextRight2023.appendChild(nameh22023)
+        contTextRight2023.appendChild(pdes2023)
+    
+        content2023.appendChild(contTextRight2023)
+        content2023.appendChild(name2023)
+        content2023.appendChild(des2023)
+        content2023.appendChild(yearh12023)
+    
+        year2023.appendChild(content2023)
+    
+        divSlide.appendChild(year2023)
+    
+        document.cookie = "yearAc2023=" + encodeURIComponent(aconYear.value)
+        document.cookie = "nacional2023=" + encodeURIComponent(acontNac.value)
+        document.cookie = "internacional2023=" + encodeURIComponent(acontInter.value)
+        document.cookie = "imageAcont2023=" + encodeURIComponent(Urlimage.value)
+    }
 })
 
 
@@ -118618,6 +118684,7 @@ window.addEventListener('load', () => {
     let cookieImg = getCookie("imageAcont")
     let Acontinterna = getCookie("internacional")
 
+    let yearAc2023 = getCookie("yearAc2023")
     let yearAc2022 = getCookie("yearAc2022")
     let yearAc2021 = getCookie("yearAc2021")
     let yearAc2020 = getCookie("yearAc2020")
@@ -118650,6 +118717,10 @@ window.addEventListener('load', () => {
     let Acontnacion2022 = getCookie("nacional2022")
     let cookieImg2022 = getCookie("imageAcont2022")
     let Acontinterna2022 = getCookie("internacional2022")
+
+    let Acontnacion2023 = getCookie("nacional2023")
+    let cookieImg2023 = getCookie("imageAcont2023")
+    let Acontinterna2023 = getCookie("internacional2023")
 
     if (cookieImg) {
         count2016 = 1
@@ -118715,7 +118786,7 @@ window.addEventListener('load', () => {
     }
         
     if (cookieImg2017) {
-
+        limitN = limitN + 1
         const year2017 = document.createElement('div')
         year2017.classList.add('item')
         year2017.classList.add('contenedor')
@@ -118776,6 +118847,7 @@ window.addEventListener('load', () => {
         console.log('messi');
     }
     if (cookieImg2018) {
+        limitN = limitN + 1
         console.log('nynuynumn');
         const year2018 = document.createElement('div')
         year2018.classList.add('item')
@@ -118837,6 +118909,7 @@ window.addEventListener('load', () => {
         divSlide.appendChild(year2018)
     }
     if (cookieImg2019) {
+        limitN = limitN + 1
         const year2019 = document.createElement('div')
         year2019.classList.add('item')
         year2019.classList.add('contenedor')
@@ -118896,6 +118969,7 @@ window.addEventListener('load', () => {
     }
 
     if (cookieImg2020) {
+        limitN = limitN + 1
         const year2020 = document.createElement('div')
         year2020.classList.add('item')
         year2020.classList.add('contenedor')
@@ -118955,6 +119029,7 @@ window.addEventListener('load', () => {
     }
 
     if (cookieImg2021) {
+        limitN = limitN + 1
         const year2021 = document.createElement('div')
         year2021.classList.add('item')
         year2021.classList.add('contenedor')
@@ -119014,6 +119089,7 @@ window.addEventListener('load', () => {
     }
 
     if (cookieImg2022) {
+        limitN = limitN + 1
         const year2022 = document.createElement('div')
         year2022.classList.add('item')
         year2022.classList.add('contenedor')
@@ -119070,5 +119146,65 @@ window.addEventListener('load', () => {
         year2022.appendChild(content2022)
     
         divSlide.appendChild(year2022)
+    }
+
+    if (cookieImg2023) {
+        limitN = limitN + 1
+        const year2023 = document.createElement('div')
+        year2023.classList.add('item')
+        year2023.classList.add('contenedor')
+        if (cookieImg2023) {
+            year2023.style.backgroundImage = 'url(' + cookieImg2023 + ')'
+        }
+    
+        const content2023 = document.createElement('div')
+        content2023.classList.add('content')
+        const yearh12023 = document.createElement('h1')
+        if (yearAc2023) {
+            yearh12023.innerHTML = yearAc2023
+        }
+    
+    
+        const des2023 = document.createElement('div')
+        des2023.classList.add('des')
+        if (Acontnacion2023) {
+            
+            des2023.textContent = Acontnacion2023
+        }
+        
+    
+        const name2023 = document.createElement('div')
+        name2023.classList.add('name')
+        name2023.textContent = 'Nacional'
+    
+        const contTextRight2023 = document.createElement('div')
+        contTextRight2023.classList.add('contTextRight')
+        contTextRight2023.style.marginTop = "10rem"
+    
+        const pdes2023 = document.createElement('p')
+        pdes2023.classList.add('des')
+        if (Acontinterna2023) {
+            pdes2023.textContent = Acontinterna2023
+        }
+       
+    
+        const nameh22023 = document.createElement('h2')
+        nameh22023.textContent = 'Internacional'
+        nameh22023.classList.add('name')
+    
+    
+    
+    
+        contTextRight2023.appendChild(nameh22023)
+        contTextRight2023.appendChild(pdes2023)
+    
+        content2023.appendChild(contTextRight2023)
+        content2023.appendChild(name2023)
+        content2023.appendChild(des2023)
+        content2023.appendChild(yearh12023)
+    
+        year2023.appendChild(content2023)
+    
+        divSlide.appendChild(year2023)
     }
 })
