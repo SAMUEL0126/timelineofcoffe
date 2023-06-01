@@ -797,13 +797,14 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
     gap: 5px;
   }
   
   .contNaci {
     width: 40%;
-    height: 20%;
+    height: 17%;
     display: flex;
     justify-content: center;
     flex-direction: column;  
@@ -816,7 +817,7 @@ h1 {
   }
  .contInternaci {
     width: 40%;
-    height: 30%;
+    height: 25%;
     display: flex;
     justify-content: center;
     flex-direction: column;
