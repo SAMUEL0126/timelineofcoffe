@@ -1,3 +1,7 @@
+let parrafdes = document.getElementById('parrafdes')
+let parrafo2 = document.getElementById('parrafo2')
+let parrafo3 = document.getElementById('parrafo3')
+
 let contIconSearch = document.getElementById('contIconSearch')
 let SearchBox = document.getElementById('SearchBox')
 let buttonsCont = document.getElementById('buttonsCont')
@@ -116271,6 +116275,24 @@ window.addEventListener('load', () => {
     if (back == 1927) {
         btnB.style.visibility = "hidden"
     }
+
+    // pendiente de pasar este consumo de archivo de texto
+    //a otro archivo js
+    fetch('/js/prueba.txt')
+        .then(response => response.text())
+        .then(data => {
+            // Divide el contenido en párrafos
+            const parrafos = data.split('\n')
+
+            
+
+            //Asigna los parrafos
+            console.log(parrafos[0]);
+            parrafdes.textContent = parrafos[3]
+        })
+        .catch(error => {
+            console.error('Error al obtener el archivo de texto:', error);
+        })
 })
 
 // modificar el pedazo de codigo html
