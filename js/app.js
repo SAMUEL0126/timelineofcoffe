@@ -116109,8 +116109,7 @@ function prev() {
     let lists = document.querySelectorAll('.item')
     let slide = document.getElementById('slide')
     slide.prepend(lists[lists.length - 1])
-    console.log(next, back);
-
+    
     back = back - 1
     next = next - 1
 
@@ -116271,5 +116270,59 @@ window.addEventListener('load', () => {
 
     if (back == 1927) {
         btnB.style.visibility = "hidden"
+    }
+})
+
+// modificar el pedazo de codigo html
+
+let divSlide = document.getElementById('slide')
+let year2015 = document.getElementById('year2015')
+let year1927 = document.getElementById('year1927')
+
+let imagen_fondo = 'https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2023/04/13/64381157a83a3.r_d.1521-984-1497.jpeg'
+document.addEventListener('keyup', function(e){
+    if(e.keyCode === 13){
+        
+        const year2016 = document.createElement('div')
+        year2016.classList.add('item')
+        year2016.style.backgroundImage = "url('https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2023/04/13/64381157a83a3.r_d.1521-984-1497.jpeg')"
+            const content = document.createElement('div')
+            content.classList.add('content')
+                const year = document.createElement('h1')
+                year.textContent = '2016'
+                
+                const des = document.createElement('div')
+                des.classList.add('des')
+                des.textContent = 'El Dr Roberto velez Vallejo Fue elegido gerente'
+
+                const name = document.createElement('div')
+                name.classList.add('name')
+                name.textContent = 'Nacional'
+
+                const contTextRight = document.createElement('div')
+                contTextRight.classList.add('contTextRight')
+                contTextRight.style.marginTop = "10rem"
+
+                    const pdes =  document.createElement('p')
+                    pdes.textContent = 'Juan valdez Consolida crecimiento a Septiembre de 2016.'
+
+                    const nameh2 =  document.createElement('h2')
+                    nameh2.textContent = 'Internacional'
+
+                    
+
+        
+        contTextRight.appendChild(nameh2)
+        contTextRight.appendChild(pdes)
+
+        content.appendChild(contTextRight)
+        content.appendChild(name)
+        content.appendChild(des)
+        content.appendChild(year)
+
+        year2016.appendChild(content)
+
+        divSlide.appendChild(year2016)
+
     }
 })
