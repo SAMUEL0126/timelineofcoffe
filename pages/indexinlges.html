@@ -9,9 +9,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
-    <title>timeLine</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="/js/clockanimation.js" defer></script>
+        <title>timeLine</title>
 </head>
-
 <body>
    <div id="contIconSearch" class="hiddenButton">
         <span class="material-symbols-outlined">search</span>
@@ -35,22 +36,88 @@
             </div>
         </div>
     </div>
+    <div id="formPut" class="">
+        <div class="bannerCoffe">
+            <h2>National and international events</h2>
+            <span id="closeModal" class="material-symbols-outlined">
+                close
+            </span>
+        </div>
+        <div class="contInfoBox">
 
-    <div id="lentDarkT" class="lentDarkT"></div>
-    <div class="container">
-        <div id="slide">
-
-            <div class="item" style="background-image: url(/images/imagesHistory/JuanValdez.jpg);">
-                <div class="content">
-                    <h1>2015</h1>
-                    <div class="name">National</div>
-                    <div class="des">Dr Roberto Velez Vallejo was elected manager of the National Federation of Colombian Coffee Growers.</div>
-                    <div class="contTextRight">
-                        <h2 class="name">International</h2>
-                        <p class="des">Juan Valdez Consolidates growth to September 2015.</p>
-                    </div>
+            <div class="contNaci">
+                <div class="contInputN">
+                    <label>Image url: </label>
+                    <input id="Urlimage" class="Urlimage" type="text">
                 </div>
             </div>
+
+            <div class="contNaci">
+                <div class="contInputN">
+                    <label>In what year did it happen?: </label>
+                    <input id="aconYear" class="Urlimage" type="number">
+                </div>
+            </div>
+
+            <div class="contNaci">
+                <div class="contInputN">
+                    <label>National: </label>
+                    <textarea id="acontNac" cols="30" rows="5" placeholder="Acontecimiento"></textarea>
+                </div>
+            </div>
+
+            <div class="contInternaci">
+                <div class="contRedact">
+                    <label>International: </label>
+                    <textarea id="acontInter" cols="30" rows="5" placeholder="Acontecimiento"></textarea>
+                </div>
+            </div>
+
+            <button id="confirmModal">confirmar</button>
+        </div>
+    </div>
+    <div id="lentDarkT" class="lentDarkT"></div>
+    <div id="lentDarksearch" class="lentDarksearchentrada">
+        <div class="containerClock">
+            <div id="clockSearch" class="clockSearchentrada">
+                <label style="--i: 1"><span>1</span>1</label>
+                <label style="--i: 2"><span>2</span></label>
+                <label style="--i: 3"><span>3</span></label>
+                <label style="--i: 4"><span>4</span></label>
+                <label style="--i: 5"><span>5</span></label>
+                <label style="--i: 6"><span>6</span></label>
+                <label style="--i: 7"><span>7</span></label>
+                <label style="--i: 8"><span>8</span></label>
+                <label style="--i: 9"><span>9</span></label>
+                <label style="--i: 10"><span>10</span></label>
+                <label style="--i: 11"><span>11</span></label>
+                <label style="--i: 12"><span>12</span></label>
+
+                <div id="indicadorC" class="">
+                    <span class="hand hour"></span>
+                    <span class="hand minute"></span>
+                    <span class="hand second"></span>
+                </div>
+            </div>
+        </div>
+
+        <section class="sectionLetters">
+            <span>S</span>
+            <span>E</span>
+            <span>A</span>
+            <span>R</span>
+            <span>C</span>
+            <span>H</span>
+            <span>.</span>
+            <span>.</span>
+            <span>.</span>
+            <span>.</span>
+            <span>.</span>
+        </section>
+    </div>
+
+    <div class="container">
+        <div id="slide">
 
             <div class="item" style="background-image: url(/images/imagesHistory/imageModifiD.jpg);">
                 <div class="content">
@@ -913,14 +980,26 @@
                     </div>
                 </div>
             </div>
+            <div class="item" style="background-image: url(/images/imagesHistory/JuanValdez.jpg);">
+                <div class="content">
+                    <h1>2015</h1>
+                    <div class="name">National</div>
+                    <div class="des">Dr Roberto Velez Vallejo was elected manager of the National Federation of Colombian Coffee Growers.</div>
+                    <div class="contTextRight">
+                        <h2 class="name">International</h2>
+                        <p class="des">Juan Valdez Consolidates growth to September 2015.</p>
+                    </div>
+                </div>
+            </div>
         </div>
         <div class="buttons">
             <button id="prev"><span class="material-symbols-outlined">keyboard_double_arrow_left</span></button>
             <button id="next"><span class="material-symbols-outlined">keyboard_double_arrow_right</span></button>
         </div>
     </div>
-
-    <script src="/js/app.js"></script>
+    <script src="/js/jquery-3.6.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="/js/app2.js"></script>
 </body>
 
 </html>
